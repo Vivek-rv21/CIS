@@ -1,0 +1,1501 @@
+employee_id,emp_name,emp_role,department,hire_date,contact_email,supervisor_name,Job_Search_Service_Used,Renewal_Flag,Industry
+EMP_000001,Joseph Smith,Trainer,Finance,2024-08-27,hodgeskaren@example.com,Courtney Campbell,Online Portal,0,Retail
+EMP_000002,Dennis Price,Mentor,Finance,2018-02-07,lisa21@example.org,Timothy Garcia,Workforce Center,1,Education
+EMP_000003,Kim James,Mentor,Education,2024-07-11,brendaramsey@example.org,Jonathan Woods,Workforce Center,1,Healthcare
+EMP_000004,Joshua Carr,Mentor,Operations,2016-03-07,justinrice@example.org,Angela Hull,None,1,Retail
+EMP_000005,Jeffrey Wilson,Mentor,Finance,2025-11-01,mmullen@example.com,Christian Thomas,None,1,Technology
+EMP_000006,Tracy Evans,Case Worker,Operations,2018-11-13,victoria11@example.com,Mario Lawrence,Online Portal,1,Healthcare
+EMP_000007,Christopher Calderon,Administrator,Finance,2025-09-21,daniel51@example.net,Maria Kelley,Workforce Center,1,Technology
+EMP_000008,Lisa Vargas,Mentor,Health,2021-11-27,kelly24@example.net,David Porter DVM,None,1,Retail
+EMP_000009,Lauren Carey,Manager,Health,2025-10-11,parkerkristin@example.net,Steven Poole,Workforce Center,1,Healthcare
+EMP_000010,Mary Stevenson,Mentor,Operations,2021-03-14,jessica11@example.net,Jessica Sutton,None,0,Retail
+EMP_000011,Donald Poole,Trainer,Finance,2018-11-22,tharrison@example.com,Rose Marshall,Online Portal,1,Healthcare
+EMP_000012,Maria Buck,Administrator,Operations,2025-07-04,davidhooper@example.net,Matthew Smith,None,1,Retail
+EMP_000013,Brett Flores,Administrator,Education,2021-11-19,marie18@example.com,Jose Berry,Workforce Center,0,Retail
+EMP_000014,Michele Garrett,Trainer,Operations,2016-03-30,garciaamber@example.com,Willie Brown,Workforce Center,1,Technology
+EMP_000015,Lisa Rodriguez,Case Worker,Education,2020-04-21,jesseandrade@example.net,Melissa Rodriguez,Workforce Center,0,Retail
+EMP_000016,Juan Neal,Trainer,Education,2017-09-26,michael41@example.org,Bryan Lewis,Online Portal,1,Technology
+EMP_000017,Richard Chung,Manager,Operations,2024-10-24,nicholas28@example.com,Angela Kelly,None,0,Retail
+EMP_000018,Vanessa Harvey,Trainer,Finance,2024-12-17,kristi56@example.com,Steve Burton,Workforce Center,1,Technology
+EMP_000019,Kimberly Carter,Administrator,Education,2022-03-14,floresjennifer@example.org,Nicholas Gomez,Workforce Center,1,Education
+EMP_000020,Martin Rodriguez,Manager,Health,2020-10-07,briansmith@example.org,Cynthia Gillespie,Online Portal,0,Education
+EMP_000021,Andrew Thompson,Mentor,Education,2024-04-03,ashleycoffey@example.net,Donald Castillo,Workforce Center,0,Technology
+EMP_000022,Christopher Kirk DDS,Case Worker,Education,2020-05-24,arose@example.com,Julie Murphy,None,0,Retail
+EMP_000023,Debra Sellers,Administrator,Health,2025-03-06,christophermcneil@example.net,Diana Oneal,Online Portal,0,Healthcare
+EMP_000024,Cheryl Medina,Manager,Education,2022-04-10,tjohnson@example.com,Michael Hill,Workforce Center,0,Technology
+EMP_000025,Travis White,Administrator,Operations,2022-12-25,wware@example.com,William Bryant,Workforce Center,1,Healthcare
+EMP_000026,Debbie Walker,Administrator,Health,2019-06-18,kjohnson@example.net,Lori Singh,Online Portal,1,Healthcare
+EMP_000027,Michael Gould,Manager,Finance,2017-04-21,michelle69@example.com,Michael Morgan,Online Portal,0,Retail
+EMP_000028,Keith Taylor,Manager,Operations,2023-02-06,sheltonjessica@example.net,Carmen Nicholson,None,0,Education
+EMP_000029,Shannon Clark MD,Administrator,Operations,2016-06-13,melissathompson@example.org,Thomas Thomas,Workforce Center,0,Education
+EMP_000030,Douglas Miller,Administrator,Education,2018-12-21,aaronthompson@example.com,Lisa Oconnor,None,1,Education
+EMP_000031,Eric Caldwell,Trainer,Operations,2016-05-29,montgomerykrista@example.org,Jordan Livingston,Online Portal,1,Education
+EMP_000032,Kenneth Wilson,Trainer,Health,2019-06-20,robert30@example.com,Marissa Alexander,Online Portal,0,Education
+EMP_000033,Catherine Scott,Case Worker,Education,2017-03-28,martinlance@example.org,Bradley Hanson,None,0,Technology
+EMP_000034,Christopher Thomas,Case Worker,Education,2017-08-21,qweaver@example.com,Lauren Turner,Online Portal,1,Retail
+EMP_000035,Marcus Reed,Administrator,Operations,2020-06-12,april07@example.net,Jessica Kim,None,0,Technology
+EMP_000036,Kelly Gonzalez,Administrator,Education,2021-06-07,thompsondillon@example.com,David Wolf,Workforce Center,1,Technology
+EMP_000037,Robert Gutierrez,Case Worker,Finance,2018-05-23,markrogers@example.net,Jonathan Nixon,Workforce Center,0,Education
+EMP_000038,Eric Davis,Trainer,Education,2017-10-11,donaldsonjason@example.org,Sarah Benson DDS,Online Portal,1,Healthcare
+EMP_000039,Katherine Lewis,Trainer,Finance,2024-07-29,lindseyjenkins@example.net,Anthony Powers,None,1,Education
+EMP_000040,Michael Oliver,Trainer,Education,2019-12-23,evelazquez@example.net,Melanie Wall,Workforce Center,1,Education
+EMP_000041,Caitlin Moreno,Manager,Education,2025-07-12,davidmata@example.com,Neil Burgess,Online Portal,0,Retail
+EMP_000042,Aaron Rios II,Case Worker,Education,2025-09-13,vanceemily@example.org,Karen Evans,None,1,Education
+EMP_000043,Taylor Cordova,Case Worker,Health,2018-03-02,phyllis78@example.com,Betty Young,None,0,Healthcare
+EMP_000044,Juan Wilson,Administrator,Finance,2019-11-24,jamesparker@example.net,Brian Russell,Workforce Center,0,Healthcare
+EMP_000045,Christopher Morris,Mentor,Operations,2023-01-04,morrislisa@example.org,Robert Smith,Workforce Center,0,Education
+EMP_000046,Brenda Buck,Case Worker,Operations,2023-10-23,ashleyrichardson@example.org,Kerry Richards,Workforce Center,0,Technology
+EMP_000047,Walter French,Case Worker,Education,2023-02-27,robertfox@example.com,Eric Smith,None,1,Technology
+EMP_000048,Ashley Cunningham,Mentor,Finance,2017-07-01,allenbrooke@example.com,Lonnie Norris,None,1,Technology
+EMP_000049,Cindy Mata,Manager,Finance,2017-02-11,hensonstephen@example.net,Michelle Carlson DVM,Online Portal,1,Education
+EMP_000050,Heather Cline,Manager,Finance,2021-07-11,joshua71@example.net,Alicia Ramirez,None,0,Education
+EMP_000051,Crystal Erickson,Trainer,Operations,2022-02-10,amber42@example.net,Shannon Mora,Workforce Center,1,Retail
+EMP_000052,Trevor Thomas,Manager,Education,2023-01-24,martinderrick@example.com,Ashley Wade,None,0,Technology
+EMP_000053,Leonard Robbins,Administrator,Education,2025-02-02,warrenjessica@example.org,Susan Mckee,Workforce Center,0,Healthcare
+EMP_000054,Gina Webb,Case Worker,Operations,2024-05-16,ninafinley@example.org,Brooke Jones,Workforce Center,1,Healthcare
+EMP_000055,Gregory Sparks,Trainer,Health,2018-07-05,ambermunoz@example.com,Jason Fitzgerald,None,1,Education
+EMP_000056,Jerry Evans,Administrator,Operations,2018-03-08,sdavis@example.net,Douglas Contreras,Workforce Center,0,Healthcare
+EMP_000057,Kristin Hernandez,Manager,Operations,2019-04-24,laura66@example.com,Suzanne Thomas,Workforce Center,0,Retail
+EMP_000058,Vickie Allen,Manager,Operations,2020-07-17,jacquelinelopez@example.com,Lisa Hines,Online Portal,0,Retail
+EMP_000059,Jessica Walker,Administrator,Operations,2020-12-24,smithstacey@example.com,Johnathan Jones,None,1,Technology
+EMP_000060,Andrew Ellis,Administrator,Education,2018-02-07,tyrone36@example.com,Ronald Lewis,None,0,Healthcare
+EMP_000061,Matthew Carter,Trainer,Operations,2024-05-01,taralyons@example.net,Lisa Cowan,None,0,Retail
+EMP_000062,Heather Johnson,Trainer,Education,2021-02-09,jill76@example.net,William Murphy,None,0,Retail
+EMP_000063,Dana White,Administrator,Finance,2020-03-17,cookcynthia@example.org,Michael Simon,Online Portal,0,Education
+EMP_000064,Jimmy Duncan,Case Worker,Finance,2018-12-19,dustingarrison@example.net,John Hall,None,0,Education
+EMP_000065,Luis Walker,Trainer,Operations,2024-11-07,berrydebra@example.net,Richard Cabrera,None,0,Retail
+EMP_000066,Denise Martin,Case Worker,Health,2022-05-01,pberry@example.com,Bradley Davis,Online Portal,1,Education
+EMP_000067,David Ryan,Case Worker,Health,2017-09-15,andersonisabella@example.net,Danielle Meadows,None,1,Technology
+EMP_000068,Veronica Barton,Case Worker,Operations,2024-06-24,nlong@example.org,John Butler,Online Portal,0,Healthcare
+EMP_000069,Kyle Park,Trainer,Operations,2022-07-18,frankterri@example.org,Katrina Harrison,Online Portal,0,Retail
+EMP_000070,Jennifer Bailey,Case Worker,Finance,2017-09-19,stacy64@example.org,Maria Mcintosh,Workforce Center,1,Technology
+EMP_000071,Elizabeth Washington,Administrator,Finance,2018-09-01,qweaver@example.net,Francis Price,Workforce Center,0,Technology
+EMP_000072,Alison Smith,Manager,Operations,2021-07-09,jordanmark@example.net,Wayne Holland,Online Portal,0,Retail
+EMP_000073,Randy Johnson,Administrator,Education,2020-02-06,rwolfe@example.org,Eric Flores,Workforce Center,1,Education
+EMP_000074,Stephen Sanders,Case Worker,Education,2024-08-05,beverly05@example.com,Wendy Robertson,Workforce Center,0,Education
+EMP_000075,Patricia Costa,Case Worker,Health,2017-06-15,denise04@example.net,Corey Rasmussen,Workforce Center,0,Education
+EMP_000076,Alexis Lopez,Mentor,Operations,2019-12-21,patrickbowen@example.com,Denise Washington,Workforce Center,1,Healthcare
+EMP_000077,Karen Myers,Manager,Health,2021-07-04,kinglauren@example.com,Dr. Juan Gomez,Online Portal,0,Healthcare
+EMP_000078,Kristin Skinner,Mentor,Finance,2017-06-10,ivalentine@example.net,Cassandra Khan,None,0,Retail
+EMP_000079,Cathy Ruiz,Trainer,Operations,2016-09-05,keith20@example.net,Brian Barnes,Online Portal,1,Retail
+EMP_000080,Amanda Combs,Manager,Operations,2025-08-20,mfowler@example.net,Gerald Ali,Workforce Center,1,Education
+EMP_000081,Shannon Davis,Trainer,Finance,2016-12-24,michaelwilliams@example.org,Joseph Brown,Workforce Center,1,Education
+EMP_000082,Sabrina Chaney,Manager,Health,2018-05-16,andreahowe@example.net,Monica Nguyen,Workforce Center,1,Retail
+EMP_000083,David Kim,Mentor,Health,2025-10-26,lynnjohnson@example.org,Charles Wood,None,1,Technology
+EMP_000084,Shannon Edwards,Case Worker,Finance,2021-08-23,floreslinda@example.org,James James,Workforce Center,0,Healthcare
+EMP_000085,Leslie Middleton,Trainer,Health,2016-11-02,bennettjohn@example.com,Natalie Berg,Online Portal,0,Retail
+EMP_000086,Emily Yu,Case Worker,Finance,2018-08-27,kbenson@example.com,Dale Owens,Online Portal,1,Education
+EMP_000087,Emily Fitzgerald,Manager,Education,2021-01-10,jamiemacias@example.com,John Williams,Online Portal,1,Retail
+EMP_000088,Albert Berry,Trainer,Health,2018-08-07,ianrobbins@example.net,Dwayne Moore,Workforce Center,1,Education
+EMP_000089,David Williams,Manager,Finance,2019-06-11,jessicamoore@example.net,Alexander Reynolds,None,0,Retail
+EMP_000090,Alicia Williams,Case Worker,Operations,2017-01-20,santosmonique@example.org,Dana Johnson,Online Portal,0,Retail
+EMP_000091,Mark Morris,Mentor,Education,2016-02-02,sarah97@example.com,Ashley Davis,Workforce Center,0,Education
+EMP_000092,Elizabeth Martinez,Trainer,Health,2016-03-17,ogibson@example.org,Vanessa Turner,Workforce Center,1,Education
+EMP_000093,Jessica Jones,Administrator,Finance,2024-01-21,johnrobbins@example.com,Joseph Paul,Online Portal,0,Technology
+EMP_000094,Christopher Jenkins,Manager,Health,2023-08-04,xjordan@example.com,John Smith,Workforce Center,1,Technology
+EMP_000095,Linda Schneider,Mentor,Operations,2017-01-02,yolson@example.org,Christopher Black,Workforce Center,0,Education
+EMP_000096,Richard Torres,Case Worker,Finance,2023-04-29,jennifer92@example.org,Richard Simon,Workforce Center,1,Education
+EMP_000097,Cheryl Johnson,Case Worker,Operations,2022-05-24,taraperry@example.org,Jennifer Rosario,Workforce Center,1,Healthcare
+EMP_000098,Jenny Payne,Case Worker,Finance,2021-02-27,jeffreyferguson@example.org,Alexander Oliver,Online Portal,0,Healthcare
+EMP_000099,Thomas Johnson,Manager,Health,2020-05-07,jonesjoe@example.org,Ashley Johnson,Workforce Center,0,Retail
+EMP_000100,Vanessa Walton,Manager,Health,2024-03-10,srobinson@example.org,Victoria Norris,None,0,Healthcare
+EMP_000101,Cheryl Weiss,Case Worker,Operations,2018-01-15,amy31@example.com,Krystal Navarro,None,1,Education
+EMP_000102,Jeremy Olson,Mentor,Education,2021-07-31,bradyscott@example.com,Taylor Burnett,Online Portal,0,Education
+EMP_000103,Lauren Fox,Mentor,Operations,2023-07-11,ann38@example.org,Todd Patel,Workforce Center,0,Education
+EMP_000104,Daniel Mcdaniel,Administrator,Health,2018-09-05,huntcheryl@example.com,Sara Alexander,None,0,Education
+EMP_000105,Kelly Rodriguez DDS,Manager,Operations,2019-04-27,james55@example.com,Eric Ferguson,Online Portal,0,Retail
+EMP_000106,Philip Thomas,Manager,Operations,2020-12-30,ellisonangela@example.org,Paul Michael,Workforce Center,1,Education
+EMP_000107,John Ibarra,Administrator,Operations,2021-01-02,kelly04@example.org,John Rogers,None,0,Technology
+EMP_000108,Christine Ayala,Trainer,Education,2021-09-09,vickie53@example.com,Derrick Cooke,None,1,Retail
+EMP_000109,Brandon Carter,Case Worker,Operations,2023-02-15,anthonyscott@example.org,Angela Strong,Workforce Center,0,Retail
+EMP_000110,Michael Jackson,Administrator,Health,2017-03-27,raymond27@example.com,Tina Gillespie,Online Portal,1,Education
+EMP_000111,Kelly Walters,Case Worker,Operations,2020-01-02,joseph06@example.com,Karen White,None,1,Technology
+EMP_000112,Michelle Patel,Administrator,Education,2023-12-07,nicole68@example.com,Randall Anderson,Workforce Center,0,Retail
+EMP_000113,Teresa Hall,Case Worker,Education,2017-06-17,katrinathompson@example.org,Henry Gonzalez,Online Portal,0,Education
+EMP_000114,Veronica Nelson DDS,Mentor,Operations,2021-10-03,xchristensen@example.net,Angel Smith,Online Portal,0,Retail
+EMP_000115,Paul Graham,Mentor,Health,2025-02-25,danielperez@example.com,Adam Maddox,Online Portal,0,Retail
+EMP_000116,Laura Scott,Trainer,Finance,2020-02-03,vazquezdanielle@example.com,Mary Adams,Workforce Center,1,Education
+EMP_000117,Heather Ford,Manager,Finance,2016-04-21,novakjonathan@example.com,Richard Hanna,None,1,Retail
+EMP_000118,Jose Rice,Manager,Education,2024-05-08,mlewis@example.com,Rebecca Davis,Workforce Center,0,Retail
+EMP_000119,Kimberly Cooper,Manager,Health,2024-09-22,meghan46@example.org,Tanya Perkins,Online Portal,1,Technology
+EMP_000120,Jonathan Garcia,Manager,Operations,2025-08-07,pamelataylor@example.org,Steven Kirk,Workforce Center,0,Healthcare
+EMP_000121,Brenda Li,Administrator,Education,2016-07-24,parkerdustin@example.org,Cassidy Scott,None,1,Retail
+EMP_000122,Rebecca Kaufman,Case Worker,Education,2023-06-21,elizabethhardin@example.com,Lynn Elliott,None,1,Healthcare
+EMP_000123,Christopher Kim DDS,Manager,Finance,2016-01-29,amanda76@example.net,Alexis Davis,None,1,Education
+EMP_000124,Jessica Hicks,Trainer,Health,2024-11-27,michaelmcclain@example.com,Kelly Graves,Online Portal,1,Technology
+EMP_000125,Carol Werner,Case Worker,Finance,2018-03-23,etaylor@example.com,Francisco Cox,Online Portal,0,Education
+EMP_000126,Angel Wallace,Trainer,Finance,2025-06-06,crawfordleslie@example.net,Edward Shaffer,Online Portal,0,Healthcare
+EMP_000127,Raymond Jones,Mentor,Finance,2020-07-08,nathan83@example.com,Adriana Martinez,Online Portal,1,Technology
+EMP_000128,Jose Allen,Case Worker,Operations,2018-12-03,pricewanda@example.org,Angela Griffith,None,1,Education
+EMP_000129,Stephanie Woods,Trainer,Health,2022-08-19,michellekirk@example.org,Daniel Chang,None,1,Healthcare
+EMP_000130,Kenneth Thomas,Case Worker,Operations,2017-01-30,ijones@example.org,Bridget Garcia,None,1,Healthcare
+EMP_000131,Justin Quinn,Administrator,Health,2022-11-12,shawn14@example.org,Cassandra Reed,Workforce Center,0,Education
+EMP_000132,Marc Edwards,Case Worker,Operations,2018-11-07,casey41@example.com,Elizabeth Brown,Online Portal,0,Technology
+EMP_000133,Jillian Dennis,Case Worker,Operations,2016-08-06,davispatrick@example.com,Amy Wilkins,Workforce Center,1,Retail
+EMP_000134,Isaac Gray,Case Worker,Finance,2025-09-13,jennifer90@example.org,Laura Roy,None,0,Retail
+EMP_000135,Jennifer Roman,Mentor,Health,2024-08-20,jennifervaldez@example.net,Jack Rivera,None,0,Healthcare
+EMP_000136,Amanda Mills,Trainer,Education,2023-05-30,robertlee@example.org,Nicolas Gates,Online Portal,0,Technology
+EMP_000137,Mallory Hinton,Mentor,Operations,2022-10-01,nlynch@example.org,Kelly Arias,None,1,Technology
+EMP_000138,David Frazier,Mentor,Health,2023-12-28,vrosario@example.org,Sabrina Warren,Online Portal,1,Retail
+EMP_000139,Jacqueline Espinoza,Trainer,Finance,2021-07-28,zlee@example.net,Jonathan Hernandez,Online Portal,1,Retail
+EMP_000140,Elizabeth Combs,Case Worker,Finance,2022-11-08,rarroyo@example.net,Cindy Wang,Online Portal,0,Healthcare
+EMP_000141,Lauren Armstrong,Trainer,Operations,2017-08-20,jeffrey96@example.com,Ana Tyler,None,0,Retail
+EMP_000142,Kathleen Frost,Trainer,Health,2018-02-14,amanda79@example.net,Jeremy Crawford,Workforce Center,0,Technology
+EMP_000143,Curtis Graves,Mentor,Operations,2022-05-20,stephenthompson@example.net,Kimberly Brown,Online Portal,0,Technology
+EMP_000144,Stephanie Hernandez,Trainer,Health,2016-11-12,kwright@example.com,Ronald Key,Workforce Center,1,Retail
+EMP_000145,Beth Baldwin,Administrator,Finance,2025-03-11,bryantdavid@example.com,Ryan Graves,Online Portal,0,Education
+EMP_000146,Sonya Cuevas,Case Worker,Finance,2023-08-30,richardharris@example.net,Phillip Roberts,Online Portal,1,Retail
+EMP_000147,Ashley Chavez,Manager,Finance,2016-04-11,erin35@example.com,Kevin Chambers,Online Portal,0,Retail
+EMP_000148,Richard Cruz,Administrator,Education,2018-08-18,kenneth01@example.org,Jean Thompson,Workforce Center,1,Education
+EMP_000149,Joseph Solis,Manager,Health,2016-04-08,leahjohnson@example.com,Stephanie Wilkins,Online Portal,1,Retail
+EMP_000150,Amber Dennis,Case Worker,Education,2025-10-25,kelleykevin@example.org,Taylor Atkins,Online Portal,0,Technology
+EMP_000151,Valerie Moss,Mentor,Finance,2018-05-18,kimsarah@example.org,Clinton Moore,Workforce Center,0,Technology
+EMP_000152,Ronald Anthony,Case Worker,Finance,2025-04-27,charlesnoble@example.net,Chad Johnston,None,1,Retail
+EMP_000153,Susan Obrien,Trainer,Operations,2019-03-24,jamesfox@example.net,Christopher Decker,Online Portal,1,Healthcare
+EMP_000154,Catherine Davies,Manager,Finance,2016-05-23,hartmanrobert@example.com,Michelle Yang,Workforce Center,1,Education
+EMP_000155,Shelby Cross,Trainer,Education,2025-01-31,toddmerritt@example.com,Chase Brown,Workforce Center,1,Education
+EMP_000156,William Todd,Mentor,Finance,2020-08-16,daniel00@example.com,Philip Foley,None,0,Education
+EMP_000157,Pamela Lawson,Trainer,Education,2023-12-23,jennifer40@example.org,Samantha Thomas,Online Portal,1,Retail
+EMP_000158,Larry Small,Mentor,Finance,2017-03-27,annacox@example.org,Jean Howard,Workforce Center,0,Technology
+EMP_000159,Tina Hodges,Administrator,Operations,2022-08-06,salazarkelly@example.org,Anthony Pratt,Online Portal,0,Education
+EMP_000160,Bethany Mcgee,Case Worker,Health,2018-06-10,shelley08@example.org,Sherri Crawford,None,0,Retail
+EMP_000161,Isaiah White,Administrator,Education,2023-09-01,patrickwhitehead@example.org,Brandy Mosley,None,1,Technology
+EMP_000162,Ralph Petty,Mentor,Finance,2024-12-02,gdurham@example.com,David Davis,Workforce Center,1,Healthcare
+EMP_000163,Michael Anderson,Case Worker,Finance,2017-12-13,joshuahall@example.org,William Gardner,Workforce Center,0,Retail
+EMP_000164,Matthew Norton,Trainer,Finance,2019-02-13,ashley41@example.org,John Turner,Workforce Center,1,Technology
+EMP_000165,Sandra Miller,Manager,Education,2020-05-04,yrobinson@example.net,Mark Smith,None,1,Technology
+EMP_000166,Cheryl Schaefer,Manager,Education,2018-06-20,patrick80@example.com,April Haas,None,0,Technology
+EMP_000167,Daniel Wong,Administrator,Health,2024-10-22,whumphrey@example.com,Ms. Carrie Peters,Online Portal,0,Education
+EMP_000168,Monique Morgan,Mentor,Finance,2022-06-22,tmendez@example.com,Megan Smith,Online Portal,0,Retail
+EMP_000169,Danielle Rice,Mentor,Operations,2022-05-22,brandon80@example.net,Aaron Dean,None,1,Education
+EMP_000170,Mrs. Angelica Mcdowell,Manager,Education,2017-04-04,whicks@example.com,Veronica Spencer,Online Portal,1,Technology
+EMP_000171,Brian Horn,Case Worker,Education,2018-11-23,phillip78@example.org,Danielle Hunt,Online Portal,0,Technology
+EMP_000172,Maurice Lewis,Mentor,Operations,2024-10-11,john69@example.com,Mary Brown,Workforce Center,0,Technology
+EMP_000173,Linda Marshall,Mentor,Health,2021-10-28,elizabethlee@example.net,Craig Hart,None,1,Retail
+EMP_000174,William Ford,Case Worker,Health,2022-09-07,hcoleman@example.com,Melissa Glover,Online Portal,1,Education
+EMP_000175,Tristan Hayes,Manager,Operations,2021-08-11,michelle41@example.net,Sheryl Reynolds,None,0,Education
+EMP_000176,Donna Harvey,Administrator,Education,2021-05-04,pthomas@example.com,Nicole Morgan,None,1,Education
+EMP_000177,Mary Pittman,Administrator,Finance,2022-10-29,william49@example.org,Gabriela Robinson,None,0,Healthcare
+EMP_000178,Dr. Maria Hunt,Case Worker,Education,2023-06-17,claudia29@example.org,Gilbert Roberts DDS,None,1,Healthcare
+EMP_000179,Joshua Harvey MD,Manager,Health,2018-07-31,daniel94@example.org,Michael Shaw,Workforce Center,1,Education
+EMP_000180,Penny Burnett,Administrator,Education,2017-03-15,david59@example.net,Theresa Yoder,Online Portal,1,Retail
+EMP_000181,Jose Hurst,Trainer,Finance,2021-03-03,schultzrichard@example.net,Kimberly Key MD,Workforce Center,1,Retail
+EMP_000182,David Black,Administrator,Health,2020-11-14,brittneybarron@example.com,Samuel Wilkinson,Workforce Center,1,Technology
+EMP_000183,Kenneth Robinson,Case Worker,Education,2022-07-07,xdunn@example.org,Michelle Cohen,Workforce Center,1,Retail
+EMP_000184,Erin Johnson,Trainer,Education,2018-06-08,qharvey@example.com,Eric Ramirez,Workforce Center,0,Technology
+EMP_000185,Jessica Keller,Trainer,Education,2016-03-29,johnbell@example.com,Jessica Miller,Workforce Center,1,Healthcare
+EMP_000186,Michael Fernandez,Mentor,Education,2019-06-03,kimberly39@example.org,Elizabeth Dean,Online Portal,1,Healthcare
+EMP_000187,Craig Williams,Trainer,Education,2020-11-30,sherri61@example.com,Kathleen Murray,None,1,Retail
+EMP_000188,Tyler Luna MD,Mentor,Finance,2016-11-09,sburgess@example.com,Loretta Smith,None,0,Education
+EMP_000189,Michelle Becker,Case Worker,Health,2023-09-05,shelbywilliams@example.org,Elizabeth Waters,None,0,Retail
+EMP_000190,Jon Jones,Manager,Operations,2022-10-07,donna88@example.org,Gina Edwards,None,1,Technology
+EMP_000191,Alexander Warren,Mentor,Operations,2025-03-25,ldiaz@example.org,Matthew Malone,Workforce Center,0,Retail
+EMP_000192,Michael Doyle,Case Worker,Health,2021-08-19,isaiahcummings@example.com,Barbara Brown,Online Portal,1,Technology
+EMP_000193,Johnny Ramirez,Manager,Health,2019-05-02,peggy87@example.com,Catherine Johnson,Online Portal,0,Retail
+EMP_000194,Patricia Ferguson,Case Worker,Operations,2018-12-21,drogers@example.com,James Gregory,Online Portal,1,Healthcare
+EMP_000195,David Williams,Administrator,Finance,2017-10-06,mpham@example.net,Kendra Collins,Workforce Center,1,Healthcare
+EMP_000196,Shawn Ramos,Manager,Operations,2024-01-26,michelleford@example.com,Mrs. Jodi Mcdaniel,Workforce Center,0,Healthcare
+EMP_000197,Kenneth Mooney,Manager,Finance,2020-04-15,kwong@example.net,Amanda Clark,Workforce Center,0,Retail
+EMP_000198,Kylie Tyler,Administrator,Finance,2022-07-20,webbangel@example.org,James Baker,Online Portal,1,Technology
+EMP_000199,Brian Matthews,Trainer,Education,2022-08-01,debbiefernandez@example.com,Ashley Lloyd,None,0,Healthcare
+EMP_000200,Amy Becker,Trainer,Education,2016-07-04,williamcook@example.org,Riley Jackson,None,0,Technology
+EMP_000201,Cynthia Mcdonald,Manager,Health,2022-01-20,scottharvey@example.com,Joseph Nunez,None,0,Healthcare
+EMP_000202,Darrell Oneill,Trainer,Operations,2024-12-07,mike56@example.net,Shannon Jones,Workforce Center,0,Retail
+EMP_000203,Jessica Chapman,Manager,Health,2021-09-28,dedwards@example.com,Annette Newman,Workforce Center,0,Technology
+EMP_000204,Alexis Williams,Trainer,Health,2024-03-14,danielstokes@example.com,Eric Wells,None,1,Retail
+EMP_000205,Samuel Hall,Administrator,Health,2017-03-06,ewinters@example.net,Brandon Greene,None,0,Technology
+EMP_000206,Amanda Richards,Manager,Finance,2019-09-29,gibsonchristine@example.com,Carlos Patterson,Online Portal,0,Healthcare
+EMP_000207,Mark Weeks,Case Worker,Operations,2021-04-12,uflores@example.net,Terrence Mitchell,Online Portal,0,Technology
+EMP_000208,Abigail Bryant,Mentor,Finance,2016-05-13,jacobsjennifer@example.net,Lindsay Garner,Online Portal,1,Healthcare
+EMP_000209,Sharon Walters,Mentor,Operations,2021-05-17,sarah36@example.com,Amy Johnson,None,0,Technology
+EMP_000210,Robin Miller,Administrator,Education,2022-05-04,jasonrichardson@example.org,Shannon Preston,Workforce Center,0,Technology
+EMP_000211,Daniel Hendricks,Case Worker,Finance,2020-12-18,kellyblair@example.net,John Lopez,Workforce Center,1,Healthcare
+EMP_000212,Krista Johnson,Mentor,Operations,2016-03-03,bhenderson@example.org,Madison Franklin,Online Portal,1,Retail
+EMP_000213,Crystal Rodriguez,Mentor,Operations,2024-11-06,jimenezjennifer@example.org,Karen Johnson,Workforce Center,1,Education
+EMP_000214,Valerie Martinez,Administrator,Operations,2017-07-28,iwhite@example.net,Carol Richardson,Workforce Center,1,Education
+EMP_000215,Ryan Wilcox,Manager,Finance,2024-05-29,madisonwilson@example.org,Stephanie Santana,Workforce Center,1,Education
+EMP_000216,Barry Mccall,Administrator,Finance,2017-05-19,johnsonfernando@example.org,Jill Smith,Workforce Center,0,Education
+EMP_000217,Nicholas Bailey,Case Worker,Health,2021-08-07,fhooper@example.net,Travis King,None,1,Technology
+EMP_000218,Susan Huffman,Manager,Operations,2023-07-12,xhorn@example.com,Melissa Oconnell,Online Portal,1,Education
+EMP_000219,Timothy Coleman,Administrator,Health,2018-03-03,pamelascott@example.org,Angela Bowman,None,1,Education
+EMP_000220,Valerie Goodman,Administrator,Health,2024-09-26,rbrown@example.org,Samantha Hoffman,None,0,Retail
+EMP_000221,Juan White,Case Worker,Health,2024-10-27,isabelfarmer@example.org,Kathryn Gilbert,None,0,Healthcare
+EMP_000222,Taylor Porter,Manager,Education,2023-07-05,vanessameyer@example.com,Annette Singh,Online Portal,1,Healthcare
+EMP_000223,Michele Hall,Mentor,Finance,2018-05-20,dcampbell@example.org,Christopher Vaughan,None,1,Healthcare
+EMP_000224,Hailey Smith,Manager,Finance,2020-04-20,adoyle@example.com,Julie Potts,None,0,Retail
+EMP_000225,Dr. Shelly Bishop,Trainer,Health,2025-06-20,mirandagoodwin@example.net,Nicholas Barry,Online Portal,1,Technology
+EMP_000226,Brandy Lambert,Case Worker,Finance,2021-06-25,cynthia40@example.net,Derek Cohen,Workforce Center,0,Education
+EMP_000227,Raymond Willis,Mentor,Education,2017-12-09,littlecatherine@example.com,Paula Henson,Workforce Center,1,Education
+EMP_000228,Kyle Mora,Manager,Education,2017-01-15,alex65@example.net,Alexa Perez,None,0,Retail
+EMP_000229,Sarah Jensen,Trainer,Education,2015-12-26,xgonzales@example.net,James Santiago,None,0,Healthcare
+EMP_000230,Michelle Reed,Trainer,Finance,2024-07-01,gomezelizabeth@example.org,Emma Hunter,None,0,Technology
+EMP_000231,Ryan Tyler,Administrator,Finance,2022-05-07,williamssandra@example.org,Tricia Davila,None,1,Retail
+EMP_000232,Nancy West,Administrator,Operations,2021-01-06,cassandrafrazier@example.net,Robert Dominguez,None,1,Healthcare
+EMP_000233,Angel Schneider,Case Worker,Education,2025-10-02,opeterson@example.net,Karen Perez,Online Portal,0,Retail
+EMP_000234,Samantha Miller,Trainer,Operations,2019-09-10,kaylee44@example.net,Alexander Pearson,Workforce Center,1,Education
+EMP_000235,Thomas Long,Mentor,Finance,2021-02-19,gilesgabrielle@example.com,Carmen Perkins,Workforce Center,0,Healthcare
+EMP_000236,Kendra Hutchinson,Administrator,Finance,2024-08-05,williammoody@example.net,Tina Jordan,Workforce Center,0,Healthcare
+EMP_000237,Candice Moore,Mentor,Finance,2022-04-08,peterhodge@example.net,William Adams Jr.,Workforce Center,0,Technology
+EMP_000238,Kyle Cruz,Administrator,Operations,2017-10-23,mgregory@example.net,Michael Lee,None,0,Healthcare
+EMP_000239,Nicole Rogers,Case Worker,Operations,2024-08-09,nmathis@example.com,Lindsay Perez,None,1,Retail
+EMP_000240,Christopher Mcdaniel,Manager,Health,2019-10-05,ehoward@example.org,Matthew Clark,Workforce Center,1,Technology
+EMP_000241,Jonathan Woodard,Administrator,Operations,2017-02-14,jeremy85@example.org,Marissa Gay,None,0,Education
+EMP_000242,Glenn Howell,Mentor,Health,2025-09-06,besteric@example.org,Adam Greer,Online Portal,1,Retail
+EMP_000243,Jorge Dominguez,Case Worker,Health,2015-12-29,tgreene@example.org,Jason Pearson,Online Portal,0,Technology
+EMP_000244,Sarah Edwards,Mentor,Operations,2025-04-12,pwilliams@example.com,Patricia Hall,Workforce Center,0,Education
+EMP_000245,Richard Young,Case Worker,Health,2025-03-29,jason46@example.org,Kimberly Ryan,Online Portal,1,Education
+EMP_000246,Richard Martinez,Manager,Operations,2023-11-26,rebecca62@example.com,Brett Reyes,Workforce Center,0,Retail
+EMP_000247,Dr. William Johnson,Administrator,Health,2019-01-22,hross@example.com,Frederick Velasquez,None,1,Technology
+EMP_000248,Cynthia Lopez,Case Worker,Finance,2020-06-23,andersonamanda@example.com,Krista Mora,Workforce Center,1,Technology
+EMP_000249,Austin Crawford,Trainer,Operations,2018-12-01,morrisjoseph@example.org,James Compton,Online Portal,1,Retail
+EMP_000250,Kyle Sanders,Manager,Health,2023-08-13,eguerra@example.org,Russell Williams,None,0,Technology
+EMP_000251,Ebony Thomas,Administrator,Finance,2021-08-12,carterbrandon@example.com,Robert Pena,None,1,Healthcare
+EMP_000252,Robert Huff,Case Worker,Finance,2024-08-13,fduncan@example.com,Elizabeth Harris,Online Portal,0,Healthcare
+EMP_000253,Brian Wilson,Manager,Operations,2016-06-26,lisabrown@example.net,Troy Johnson,Online Portal,1,Retail
+EMP_000254,Molly Shaw,Manager,Operations,2025-04-19,mark39@example.net,Cindy Moore,None,0,Technology
+EMP_000255,Nicholas Jenkins,Case Worker,Finance,2019-03-15,charlesgoodwin@example.net,Linda Perez,None,0,Retail
+EMP_000256,Michael Taylor,Case Worker,Health,2022-11-29,fmccoy@example.net,Brianna Ward,Workforce Center,0,Healthcare
+EMP_000257,Travis Green,Administrator,Finance,2023-06-13,josenelson@example.org,Joseph Green,None,0,Healthcare
+EMP_000258,Daniel Espinoza,Administrator,Education,2020-05-18,terrybrandon@example.org,Lindsay Baker,Online Portal,1,Education
+EMP_000259,Heather Richards,Mentor,Health,2023-03-16,richard31@example.org,Kenneth Harris,Workforce Center,1,Technology
+EMP_000260,Mrs. Debbie Holmes,Case Worker,Health,2025-03-06,jgarcia@example.com,Ronald Hughes,Online Portal,0,Technology
+EMP_000261,Elizabeth Taylor,Case Worker,Education,2017-03-09,pparsons@example.com,Ricky Bentley,Workforce Center,0,Technology
+EMP_000262,Destiny Sharp,Manager,Education,2021-06-24,ycarey@example.com,Jennifer Anderson,Online Portal,1,Education
+EMP_000263,Sarah Oconnor,Trainer,Finance,2018-03-16,whitneylee@example.net,Grant Martin,Workforce Center,0,Technology
+EMP_000264,Sally Wells,Case Worker,Health,2023-06-17,grahamcharles@example.net,Melissa Vincent,Workforce Center,0,Healthcare
+EMP_000265,Nicholas Ho,Administrator,Operations,2020-08-14,mark89@example.com,Tricia Vargas,None,0,Education
+EMP_000266,Trevor Rose,Administrator,Finance,2024-07-27,rubenjacobs@example.com,Brooke Little,Workforce Center,1,Education
+EMP_000267,Michelle Vazquez,Manager,Finance,2016-07-22,jennifer80@example.org,Marcus Barker,Workforce Center,1,Education
+EMP_000268,Natasha Wilson,Case Worker,Health,2023-02-01,youngjohn@example.com,Mary Hooper,Online Portal,0,Healthcare
+EMP_000269,Victor Higgins,Manager,Health,2024-10-21,james25@example.com,Cynthia Smith DVM,None,0,Technology
+EMP_000270,Leah Williams,Case Worker,Education,2018-12-09,dfoster@example.net,Kevin Hernandez,Workforce Center,1,Education
+EMP_000271,Shirley Jordan,Manager,Education,2025-03-11,kimberlygarrett@example.com,Stacey Morales,Workforce Center,0,Technology
+EMP_000272,John Hunt,Manager,Finance,2019-01-10,juanrandolph@example.com,Miss Brenda Allen DDS,Online Portal,1,Healthcare
+EMP_000273,Rodney Hoffman,Administrator,Health,2019-03-30,shawn59@example.net,Steven Andrews,Workforce Center,0,Education
+EMP_000274,Crystal Johnston,Administrator,Health,2016-02-17,laura51@example.org,Billy Pearson,None,0,Education
+EMP_000275,Terry Freeman,Mentor,Education,2016-02-19,samantha97@example.net,Katherine Hoffman,Workforce Center,0,Technology
+EMP_000276,Jason Alvarado,Manager,Finance,2024-05-03,katie96@example.com,Terri Wolfe,Online Portal,1,Technology
+EMP_000277,George King,Mentor,Operations,2019-11-20,ryancampbell@example.net,Heather Evans,Workforce Center,0,Technology
+EMP_000278,Brian Frazier,Case Worker,Finance,2021-05-19,thomasstacey@example.com,Jill Knight,None,0,Retail
+EMP_000279,Latoya Cook,Manager,Health,2017-03-24,sean37@example.org,David Miller,Workforce Center,0,Technology
+EMP_000280,Gregory Becker,Mentor,Operations,2020-09-05,brendaanthony@example.net,Tonya Bernard DDS,Workforce Center,0,Healthcare
+EMP_000281,Nicholas Snyder,Manager,Education,2017-11-04,allengregory@example.org,Cathy Jackson,None,1,Technology
+EMP_000282,Jennifer Rodriguez,Administrator,Finance,2020-01-11,lopezjoel@example.net,Christian Baker,Online Portal,0,Education
+EMP_000283,Jorge Young,Administrator,Health,2020-09-14,tinamoore@example.net,Kristin Banks,Workforce Center,0,Education
+EMP_000284,Todd Simon,Manager,Finance,2023-12-03,cynthiabarton@example.net,Christina Terry,None,0,Retail
+EMP_000285,Cody Pena,Trainer,Health,2021-05-05,kevinwang@example.org,Donald Farmer,Workforce Center,0,Technology
+EMP_000286,Barry Decker,Case Worker,Health,2020-04-26,justintorres@example.net,Judith Cook,Workforce Center,1,Retail
+EMP_000287,Dominic Adams,Mentor,Education,2022-08-26,aimeeryan@example.com,Janice Hopkins,Online Portal,0,Retail
+EMP_000288,Adam Taylor,Case Worker,Finance,2017-11-29,jameswhite@example.net,Kara Holt,None,0,Education
+EMP_000289,Susan Sanchez,Manager,Health,2018-08-16,pamelamcdonald@example.org,Julia Lewis,None,1,Education
+EMP_000290,Michael Stephens,Case Worker,Health,2024-08-21,julia19@example.net,Joseph Nichols,None,0,Education
+EMP_000291,Edward Paul,Manager,Health,2024-04-01,newtonwilliam@example.com,Taylor Martinez,Online Portal,1,Education
+EMP_000292,Robert Aguirre,Manager,Education,2025-10-21,xwalker@example.net,Eric Newman,Workforce Center,0,Technology
+EMP_000293,Ashley Webb,Mentor,Finance,2023-06-03,dtaylor@example.net,Alejandra Delacruz,Workforce Center,0,Retail
+EMP_000294,Ashley Martin,Administrator,Finance,2018-12-13,amymurphy@example.com,Katherine Hunter,Workforce Center,1,Technology
+EMP_000295,Troy Sandoval,Case Worker,Health,2016-04-06,denise85@example.com,Rick Reid,None,1,Technology
+EMP_000296,Gregory Joyce,Administrator,Education,2024-08-10,shughes@example.net,Melanie Bolton,Online Portal,1,Retail
+EMP_000297,Jackie Garrison MD,Mentor,Operations,2019-01-10,milestimothy@example.org,Judy Estrada,Online Portal,1,Retail
+EMP_000298,Curtis Rodriguez,Administrator,Health,2019-06-26,wdowns@example.org,Russell Turner,None,1,Education
+EMP_000299,Melissa Mitchell,Trainer,Operations,2023-03-07,miguel50@example.org,Jill Bridges,None,0,Healthcare
+EMP_000300,Paul Sherman,Administrator,Operations,2017-03-01,thomas03@example.net,Troy Ortega,Workforce Center,0,Healthcare
+EMP_000301,Brenda Castro,Administrator,Education,2020-07-30,stephanie85@example.org,Michael Bender,Online Portal,0,Retail
+EMP_000302,Eduardo Manning,Case Worker,Operations,2016-06-03,matthew96@example.com,Brandy Hendrix,Workforce Center,0,Education
+EMP_000303,Mike Richardson,Administrator,Operations,2024-09-09,ymason@example.com,Mr. Jeremy Adkins,Workforce Center,0,Technology
+EMP_000304,Raymond Short,Case Worker,Operations,2025-02-01,joshuakennedy@example.net,Samantha Gomez,Workforce Center,1,Retail
+EMP_000305,Kimberly Morris,Manager,Education,2024-11-06,timothyhawkins@example.com,Thomas Rice,Workforce Center,0,Retail
+EMP_000306,Joshua Schneider,Mentor,Health,2022-07-31,morrisonstephanie@example.net,Janice Williams,Workforce Center,0,Retail
+EMP_000307,Kara Harris,Administrator,Operations,2022-11-14,gregory30@example.org,Crystal Elliott,Online Portal,1,Healthcare
+EMP_000308,Anna Johnson,Trainer,Education,2019-01-27,woodvincent@example.com,Kayla Lutz,None,0,Education
+EMP_000309,Jacqueline Allen,Administrator,Education,2025-03-27,jennifer70@example.org,Dennis Nunez,Workforce Center,0,Technology
+EMP_000310,Jack Thornton,Administrator,Finance,2017-01-14,anthony22@example.net,Michelle Miller,None,0,Technology
+EMP_000311,Lynn Klein,Case Worker,Education,2021-10-13,jordansmith@example.org,Kenneth Haynes,Workforce Center,0,Education
+EMP_000312,David Peterson,Mentor,Finance,2024-02-18,hturner@example.net,Tara Sullivan,Online Portal,1,Retail
+EMP_000313,Steven Hall,Mentor,Operations,2023-04-16,lisahinton@example.org,Brandon Reed,Workforce Center,1,Education
+EMP_000314,Jeffrey Martinez,Administrator,Health,2016-02-23,wbartlett@example.com,Carl Anderson,None,0,Healthcare
+EMP_000315,Charles Mcpherson,Manager,Health,2016-12-29,alancoleman@example.net,Amber Taylor,Online Portal,0,Education
+EMP_000316,Brenda White,Manager,Operations,2020-10-22,shelia01@example.net,Stephanie Edwards,Online Portal,1,Technology
+EMP_000317,Randy Jones,Trainer,Health,2020-05-09,william97@example.net,Laura Johnston,Workforce Center,1,Retail
+EMP_000318,Dawn Bailey,Trainer,Operations,2019-05-11,mcollier@example.com,Austin Hayden,Workforce Center,0,Technology
+EMP_000319,Kelly Brown,Mentor,Education,2021-11-26,rebekahrodriguez@example.org,Barbara Garcia,Online Portal,1,Retail
+EMP_000320,Kimberly Baldwin,Case Worker,Education,2017-06-11,lynnyvonne@example.org,Carlos Torres,Online Portal,1,Retail
+EMP_000321,Shelby Flores,Mentor,Operations,2018-09-15,reedamy@example.org,Jeffrey Bridges,None,1,Education
+EMP_000322,Jonathan Hood,Case Worker,Health,2024-03-06,amyvelez@example.net,Melissa Gaines,Online Portal,0,Retail
+EMP_000323,Alexandra Berry,Manager,Health,2023-05-02,colleen96@example.com,Jasmine Evans,Workforce Center,1,Healthcare
+EMP_000324,Kyle Weber,Trainer,Education,2020-01-31,danielle66@example.net,Steven Parker,Workforce Center,1,Education
+EMP_000325,Shannon Moreno,Manager,Operations,2022-02-20,heathermcguire@example.net,Justin Sheppard,Online Portal,0,Healthcare
+EMP_000326,Cassandra Walker,Administrator,Education,2021-01-26,robert37@example.net,James Ortiz,Online Portal,1,Education
+EMP_000327,Jennifer Burnett,Mentor,Education,2025-07-09,vross@example.org,Barbara Williams,Workforce Center,1,Education
+EMP_000328,John Chandler,Administrator,Education,2022-12-16,hwatson@example.com,Dominic Arnold,None,0,Healthcare
+EMP_000329,James Stewart,Mentor,Operations,2022-12-01,eruiz@example.org,Anna Walker,Workforce Center,0,Retail
+EMP_000330,Amy Smith,Administrator,Operations,2024-08-03,steven61@example.org,Cheryl Leonard,Online Portal,0,Healthcare
+EMP_000331,Robin Vaughan,Case Worker,Operations,2023-11-09,alishataylor@example.org,Kimberly Roth,None,0,Education
+EMP_000332,David Martin,Case Worker,Education,2022-01-20,susan66@example.net,Ryan Fitzpatrick,Workforce Center,0,Technology
+EMP_000333,Jasmine Gonzales,Trainer,Operations,2016-10-19,sonyajones@example.com,Christopher Dean,None,0,Education
+EMP_000334,Christine Hall,Trainer,Operations,2018-03-20,campbellbridget@example.net,Mrs. Helen Herrera,Online Portal,0,Education
+EMP_000335,Lauren Leach,Mentor,Education,2022-07-06,lewisdevin@example.com,Joshua Davis,None,1,Healthcare
+EMP_000336,Marissa Miller,Trainer,Health,2020-05-11,jaredolson@example.org,Mr. Brandon Brewer,None,0,Retail
+EMP_000337,Jennifer Gutierrez,Administrator,Operations,2022-12-05,todd39@example.net,Edwin Lam,None,0,Technology
+EMP_000338,Jennifer Scott,Trainer,Health,2022-06-11,ryan83@example.org,Christina Howard,Workforce Center,1,Technology
+EMP_000339,Alan Boyd,Case Worker,Education,2018-11-04,scharles@example.org,Olivia Solomon,Workforce Center,0,Healthcare
+EMP_000340,Jessica Allen,Case Worker,Operations,2022-10-07,popejennifer@example.org,Michael Davis,None,1,Retail
+EMP_000341,Eric Davies,Manager,Health,2020-05-18,hollywagner@example.com,Stacy Williams,Online Portal,1,Technology
+EMP_000342,Michael Lewis,Manager,Operations,2022-05-12,rushmichele@example.org,Geoffrey Rogers,None,1,Retail
+EMP_000343,Christopher Brown,Mentor,Education,2019-09-16,suarezbrandon@example.net,Mercedes Becker,Online Portal,1,Technology
+EMP_000344,Joseph Henry,Case Worker,Operations,2022-12-15,jorge11@example.net,Paul Pratt,None,1,Retail
+EMP_000345,Kylie Ford,Administrator,Health,2016-04-06,shellybarnes@example.net,Eric Herrera,None,0,Education
+EMP_000346,Dawn Holland,Administrator,Finance,2022-01-28,joneskathy@example.org,Paul Rodriguez,Online Portal,1,Retail
+EMP_000347,Juan Myers,Trainer,Operations,2018-08-28,sandersjulie@example.net,Tammy Wilkerson,Online Portal,1,Technology
+EMP_000348,Alison Gonzalez,Administrator,Operations,2022-01-31,lisa88@example.org,James Lin,Workforce Center,0,Education
+EMP_000349,Katherine Herrera,Mentor,Education,2018-04-03,ztaylor@example.com,Taylor Collins,Workforce Center,0,Education
+EMP_000350,Mr. Robert Robinson MD,Manager,Education,2025-11-12,guerreromelissa@example.com,Margaret Maldonado,Online Portal,1,Education
+EMP_000351,Kevin Rasmussen,Manager,Operations,2017-11-11,philipstewart@example.org,Patricia Wiggins,Online Portal,0,Healthcare
+EMP_000352,Timothy Davis,Mentor,Finance,2024-02-05,frank44@example.net,Christine Walton,Online Portal,1,Education
+EMP_000353,Jacob Krueger,Trainer,Education,2019-02-04,wbrown@example.org,Sharon Atkinson,None,0,Technology
+EMP_000354,Diana Miller,Case Worker,Education,2021-10-06,kruegeraaron@example.org,Robert Ford,Workforce Center,1,Education
+EMP_000355,Jason Morris Jr.,Manager,Health,2021-12-23,sextonkayla@example.org,Christine White,Workforce Center,0,Education
+EMP_000356,Dr. Leonard Jennings DVM,Mentor,Finance,2022-10-22,umcgrath@example.net,Alex Schultz,None,0,Technology
+EMP_000357,Joseph Diaz DDS,Administrator,Health,2018-07-10,wnovak@example.com,James Ballard,Online Portal,0,Retail
+EMP_000358,Jordan Lee,Administrator,Operations,2022-12-15,woliver@example.net,Anthony Sullivan,Online Portal,0,Education
+EMP_000359,Kristina Green,Trainer,Finance,2024-07-05,npotter@example.com,Michelle Oconnor,None,1,Healthcare
+EMP_000360,Blake Brown,Administrator,Health,2018-03-31,leslieturner@example.net,Timothy Huynh,Online Portal,0,Retail
+EMP_000361,Thomas Hudson,Administrator,Finance,2023-03-14,alawrence@example.com,Stephen Carey,None,1,Technology
+EMP_000362,Curtis Hurst,Case Worker,Health,2017-10-11,brandon20@example.org,Ashley Woods,None,0,Retail
+EMP_000363,Kathy Bush,Mentor,Operations,2017-12-09,david68@example.com,Kathleen Lawrence,Workforce Center,0,Retail
+EMP_000364,Charles Stephenson,Manager,Health,2019-03-06,ramseydavid@example.net,Kelly Ferguson,None,0,Healthcare
+EMP_000365,Greg Potter,Administrator,Operations,2025-07-03,vrobertson@example.net,Michael Sullivan,None,0,Healthcare
+EMP_000366,Nicole Spencer,Trainer,Health,2024-05-19,charlesrobertson@example.org,Jessica Robinson,Workforce Center,0,Technology
+EMP_000367,Joy Henry,Administrator,Health,2022-06-10,jill95@example.org,Courtney Curtis,Online Portal,0,Education
+EMP_000368,Christian Serrano,Manager,Finance,2021-05-11,katie46@example.org,Sandy Gomez,Online Portal,1,Technology
+EMP_000369,Jeanette Kelly,Case Worker,Education,2018-09-27,watkinsjennifer@example.com,Maureen Hall,None,1,Education
+EMP_000370,James Nguyen,Administrator,Finance,2017-01-17,kmurphy@example.com,Emily Ross,None,0,Technology
+EMP_000371,Angela Young,Case Worker,Finance,2016-03-19,rebeccalowery@example.org,Christopher Archer,Workforce Center,0,Healthcare
+EMP_000372,Matthew Lucas,Mentor,Education,2024-07-24,vramirez@example.org,Belinda Olson,None,1,Education
+EMP_000373,Victoria Garcia,Administrator,Finance,2021-02-21,rebeccagordon@example.net,Matthew Brown,None,0,Technology
+EMP_000374,Jodi Perez,Mentor,Finance,2025-10-11,cassandrabrennan@example.net,Christopher Villanueva,Workforce Center,0,Education
+EMP_000375,Cynthia Pearson,Manager,Finance,2020-08-26,ajones@example.net,Amy Torres,Workforce Center,1,Healthcare
+EMP_000376,Gerald Willis,Administrator,Operations,2017-12-22,sean71@example.com,Mrs. Amber Butler,Workforce Center,0,Healthcare
+EMP_000377,Beth Wong,Trainer,Operations,2019-06-23,wooddiamond@example.com,Julie Gonzalez,None,1,Education
+EMP_000378,Angela Mckenzie,Administrator,Operations,2016-07-03,davisjulie@example.net,Nicholas Rivera,None,1,Technology
+EMP_000379,Stephanie Miller,Trainer,Finance,2018-08-17,garzarobert@example.org,Anna Flowers,None,1,Retail
+EMP_000380,Robert Jones,Manager,Education,2018-05-03,bradleykevin@example.com,James Alexander,Workforce Center,0,Retail
+EMP_000381,Adrian West,Mentor,Health,2025-01-07,jacksoneric@example.com,Jason Singleton,None,1,Technology
+EMP_000382,John King,Mentor,Health,2022-08-09,bridgetmartin@example.net,Matthew Williams,None,0,Technology
+EMP_000383,Sara Burns,Mentor,Education,2022-11-29,ramirezjoseph@example.org,Allison Baker,Online Portal,0,Education
+EMP_000384,Heather Patrick,Manager,Health,2021-07-31,kjackson@example.org,Lawrence Anderson,Online Portal,1,Retail
+EMP_000385,Teresa Johnson,Administrator,Health,2023-07-01,jdougherty@example.org,Michael Simon,Online Portal,1,Education
+EMP_000386,Jennifer Hartman,Case Worker,Finance,2024-04-04,alexanderallison@example.net,Ashley Woodard,None,0,Education
+EMP_000387,Andrew Snow,Case Worker,Education,2025-08-10,rachel55@example.net,Anna Mitchell,Online Portal,1,Retail
+EMP_000388,Alexis Howard,Mentor,Health,2020-04-25,owatkins@example.com,Bryan Bell,Online Portal,1,Retail
+EMP_000389,Mercedes Wright,Case Worker,Education,2020-12-15,goodmanerin@example.net,David Gray,Online Portal,0,Retail
+EMP_000390,Mr. Thomas Taylor II,Manager,Health,2021-12-15,caitlin25@example.net,Joshua Allen,None,0,Technology
+EMP_000391,Miss Jessica Wilson,Trainer,Operations,2017-05-04,rbarrera@example.net,Jessica Navarro,Online Portal,1,Technology
+EMP_000392,Michael Holmes DDS,Case Worker,Operations,2020-11-06,mccallbryan@example.org,Nathan Sparks,Online Portal,1,Technology
+EMP_000393,Melissa Owen,Case Worker,Health,2022-08-30,churchkristen@example.org,Lindsey Torres,Online Portal,1,Technology
+EMP_000394,Gerald Rogers,Case Worker,Health,2024-12-01,davidkelley@example.com,Randall Davidson,None,0,Healthcare
+EMP_000395,Andrew Galvan,Mentor,Health,2023-06-08,jennifer36@example.net,Rebecca Lyons,Workforce Center,0,Technology
+EMP_000396,Donna Baker,Mentor,Operations,2016-10-12,andreamitchell@example.com,Timothy Lee,Online Portal,0,Healthcare
+EMP_000397,James Clark,Case Worker,Health,2018-10-09,benjamin06@example.net,David Davidson,Workforce Center,1,Retail
+EMP_000398,Mason Brown,Administrator,Health,2019-10-13,nguyenchristopher@example.org,Ms. Sandra Turner,Online Portal,1,Healthcare
+EMP_000399,Jill Krueger,Manager,Education,2024-05-06,stewartnicole@example.org,Denise Ashley,None,1,Education
+EMP_000400,Tanya Morgan,Mentor,Operations,2021-11-21,ajennings@example.org,Michael Mora,Online Portal,0,Healthcare
+EMP_000401,Justin King,Case Worker,Operations,2018-02-23,elizabeth56@example.net,Elizabeth Larson,Workforce Center,1,Retail
+EMP_000402,Travis Klein,Mentor,Finance,2016-08-02,georgejoshua@example.org,Dustin Taylor,Workforce Center,0,Education
+EMP_000403,Angela Chapman,Mentor,Education,2020-09-18,mejiarobert@example.net,Michael Smith,None,1,Healthcare
+EMP_000404,Rachael Day,Mentor,Finance,2020-07-29,johnsonhenry@example.org,Stephen Howard,None,0,Technology
+EMP_000405,Gregory Vazquez,Case Worker,Education,2018-03-29,timothytodd@example.net,Jessica Taylor,None,1,Education
+EMP_000406,Elizabeth Wood,Manager,Education,2017-10-12,smithbethany@example.com,Monique Brown,Online Portal,0,Retail
+EMP_000407,Cynthia Mitchell,Manager,Education,2022-08-27,yolanda36@example.org,Paul Dalton,Online Portal,1,Retail
+EMP_000408,Angela Buck,Mentor,Operations,2021-10-09,glennmoore@example.net,Sheila Fuentes,None,0,Technology
+EMP_000409,Jennifer Smith,Manager,Health,2023-04-17,matthew50@example.net,Donald Snyder,Workforce Center,0,Technology
+EMP_000410,Courtney Morris,Manager,Operations,2018-12-02,nathan03@example.net,Russell Green,Online Portal,1,Healthcare
+EMP_000411,Laura Curry,Trainer,Finance,2025-08-02,bryan12@example.com,Christy Wallace,Online Portal,0,Healthcare
+EMP_000412,Courtney Cole,Administrator,Education,2021-11-10,kimberlydixon@example.com,Sharon Moses,None,0,Technology
+EMP_000413,Susan Murphy,Mentor,Operations,2020-06-04,elizabeth44@example.org,Nathaniel Mullins,None,0,Healthcare
+EMP_000414,Kayla Jackson,Manager,Health,2017-11-21,panderson@example.net,Elizabeth Hampton,Online Portal,1,Retail
+EMP_000415,Judy Flores,Trainer,Education,2020-09-20,michaeljohnson@example.org,Lindsey Franklin,Workforce Center,1,Healthcare
+EMP_000416,James Fisher,Trainer,Education,2020-01-04,iholmes@example.net,David Patton,None,0,Education
+EMP_000417,Jeremy Cohen,Manager,Operations,2019-07-31,danielaaron@example.com,Pamela Brooks,Online Portal,0,Healthcare
+EMP_000418,Mitchell Ray,Case Worker,Operations,2016-05-14,lynn02@example.org,Nicole Hall,Online Portal,0,Technology
+EMP_000419,Jill Chaney,Administrator,Operations,2016-07-12,ylucas@example.com,Matthew Edwards,None,1,Healthcare
+EMP_000420,Timothy Perry,Mentor,Finance,2017-01-08,nortonchad@example.org,Janice Reed,Online Portal,1,Technology
+EMP_000421,John Carlson,Case Worker,Health,2019-05-15,joseph96@example.com,Lori Wilson,Online Portal,1,Healthcare
+EMP_000422,Steven Hubbard,Administrator,Finance,2018-08-23,dburke@example.net,Barbara Davila,Workforce Center,1,Healthcare
+EMP_000423,Leah Guerrero,Case Worker,Health,2015-12-30,vwilliams@example.com,Christine Parsons,None,1,Technology
+EMP_000424,Dr. Charles Evans,Mentor,Operations,2019-11-26,nicole35@example.com,Kimberly Hughes,Online Portal,0,Healthcare
+EMP_000425,Mikayla Adams,Case Worker,Finance,2023-12-10,kathryn25@example.net,Shawn Duffy,Online Portal,1,Retail
+EMP_000426,Nicole Parker,Administrator,Health,2024-09-07,davidholland@example.com,Julie Lawson,Workforce Center,1,Retail
+EMP_000427,Donna Smith,Mentor,Health,2016-05-19,erhodes@example.org,Kyle Williams,Workforce Center,1,Retail
+EMP_000428,Benjamin Williams,Case Worker,Finance,2021-10-16,toddduncan@example.net,Henry Yang,Online Portal,0,Technology
+EMP_000429,Jacob Watts,Mentor,Operations,2022-02-02,gatesjoseph@example.com,Anthony Baldwin,Online Portal,0,Retail
+EMP_000430,Jacob Calhoun,Case Worker,Operations,2019-04-02,elizabeth34@example.org,William Carter,Online Portal,1,Technology
+EMP_000431,Kelly Flynn,Administrator,Health,2025-08-10,vli@example.com,Jessica Kim,Workforce Center,0,Healthcare
+EMP_000432,Courtney Fletcher,Manager,Finance,2022-04-23,parkerisaac@example.org,Veronica Simpson,Online Portal,1,Healthcare
+EMP_000433,Jonathan Silva,Manager,Operations,2023-11-29,yjackson@example.com,Aaron Hill,Workforce Center,1,Education
+EMP_000434,Jeremy Hall,Trainer,Finance,2023-11-07,usmith@example.net,Brian Kelly,Online Portal,1,Healthcare
+EMP_000435,Edward Skinner,Trainer,Operations,2018-12-04,james04@example.com,Amy Ross,Online Portal,1,Healthcare
+EMP_000436,Alyssa Hill,Mentor,Education,2016-07-19,shendricks@example.com,Jean Lucas,None,0,Healthcare
+EMP_000437,Matthew Wilkerson,Mentor,Operations,2017-01-28,bowmanchristina@example.org,Jill Jones,None,0,Education
+EMP_000438,Martha Escobar,Manager,Finance,2019-03-09,kimberly59@example.org,Jay English,None,0,Technology
+EMP_000439,Travis Franklin,Trainer,Health,2017-02-12,sandra70@example.net,Dr. Jennifer Rivera,Workforce Center,0,Education
+EMP_000440,Alexander Silva,Administrator,Operations,2017-05-21,tmcmillan@example.org,Amanda Lewis,None,1,Technology
+EMP_000441,Francisco Hensley,Mentor,Health,2017-04-15,jonathonjohnson@example.org,Denise Ross,None,0,Technology
+EMP_000442,Brian Hurley,Trainer,Health,2018-11-01,brett03@example.com,Elizabeth Ferrell,Online Portal,1,Education
+EMP_000443,Stacey Smith,Manager,Operations,2017-06-08,hferrell@example.net,Shannon Larsen,Workforce Center,0,Retail
+EMP_000444,Amanda Ramirez,Trainer,Education,2018-09-14,whitakertimothy@example.net,Caroline Henderson,Workforce Center,0,Healthcare
+EMP_000445,Jerome Herrera,Manager,Health,2019-08-13,williamsmichael@example.net,Andrew Vargas,Workforce Center,0,Education
+EMP_000446,David Bush,Case Worker,Operations,2016-07-20,jonathon63@example.net,Chad Gross,None,0,Education
+EMP_000447,Lisa Romero,Mentor,Finance,2023-10-16,scottjohnson@example.org,Melissa Hurst,Workforce Center,1,Healthcare
+EMP_000448,Cathy Stephens,Manager,Education,2021-03-04,coltonallen@example.com,Ricardo Mcdonald,Online Portal,1,Healthcare
+EMP_000449,Jonathan Perez,Case Worker,Education,2017-07-15,shaun18@example.net,Roger Dickerson Jr.,Workforce Center,1,Education
+EMP_000450,Mackenzie Moss,Administrator,Health,2025-03-29,gomezanne@example.net,Kelsey Hall,None,0,Retail
+EMP_000451,Kristin Webster,Case Worker,Finance,2017-11-08,gcastillo@example.net,Samuel Johnson,None,0,Retail
+EMP_000452,Jessica Flowers,Case Worker,Operations,2017-09-26,hesterkevin@example.com,Joshua Henderson,Online Portal,1,Education
+EMP_000453,Emily Henry,Manager,Finance,2021-10-21,monica57@example.com,Mark Mccoy,None,1,Healthcare
+EMP_000454,John Palmer,Case Worker,Operations,2023-09-25,summeryoung@example.org,Matthew Nguyen,None,1,Education
+EMP_000455,Danielle Gill,Mentor,Education,2017-10-27,rachel49@example.com,Pamela Osborne,Workforce Center,1,Education
+EMP_000456,Jessica Wood,Manager,Education,2017-04-12,xbarnes@example.org,David Smith,None,0,Healthcare
+EMP_000457,Steven Johns,Case Worker,Health,2023-09-16,daniellehill@example.org,Anthony Price,None,0,Retail
+EMP_000458,Lorraine Garcia,Case Worker,Education,2016-11-16,christopher97@example.net,Mary Hernandez,None,1,Technology
+EMP_000459,Joshua Palmer,Administrator,Finance,2025-09-28,aaron00@example.org,Amy Stewart,Workforce Center,1,Healthcare
+EMP_000460,William Hardin,Mentor,Operations,2020-11-08,gregorycalvin@example.net,Barbara Lloyd,Online Portal,0,Education
+EMP_000461,Donald Gonzales,Manager,Health,2021-08-24,brendaaguirre@example.org,David Robertson,Online Portal,1,Education
+EMP_000462,Zachary Lopez,Trainer,Operations,2024-09-15,carlsonmary@example.com,Samuel Weaver,Workforce Center,1,Retail
+EMP_000463,Laura Washington,Case Worker,Education,2024-12-03,yangsandra@example.org,Jacob Ward,Online Portal,1,Education
+EMP_000464,Nancy Reid,Manager,Health,2019-12-25,johnsonangela@example.org,Brian Wolfe,Online Portal,0,Education
+EMP_000465,Debra Medina,Trainer,Operations,2022-01-28,hernandezjessica@example.net,Cameron Kim,None,0,Technology
+EMP_000466,Dr. Amanda Chavez,Case Worker,Health,2021-05-18,sarahernandez@example.org,Autumn Lawson,Online Portal,0,Education
+EMP_000467,Susan Rodriguez DDS,Mentor,Finance,2024-07-18,donnameyers@example.net,Bryan Dawson Jr.,Online Portal,0,Technology
+EMP_000468,Donna Reed,Trainer,Operations,2018-02-20,justin95@example.net,Kristie James,None,1,Retail
+EMP_000469,Kathryn Simpson,Mentor,Finance,2024-05-30,nancy44@example.net,Andrea Wilkerson,Workforce Center,0,Technology
+EMP_000470,Tony Dickerson,Trainer,Education,2020-11-30,montoyaomar@example.com,Samuel Bruce,None,1,Technology
+EMP_000471,Jennifer Gibson,Administrator,Health,2019-09-09,lori18@example.net,Hannah White,Workforce Center,0,Education
+EMP_000472,Margaret Martin,Case Worker,Education,2023-05-12,ruizsarah@example.org,William Morgan,Online Portal,0,Technology
+EMP_000473,Stephen Lee,Manager,Operations,2019-02-14,ritadavidson@example.org,Jennifer Wilkerson,Online Portal,1,Healthcare
+EMP_000474,Allen Hughes,Trainer,Finance,2023-11-12,robert69@example.net,Trevor Mendez,Workforce Center,1,Technology
+EMP_000475,Brian Mccoy,Mentor,Operations,2025-04-21,jessicamorgan@example.net,Michele Walker,Online Portal,0,Healthcare
+EMP_000476,Jesse Adams,Mentor,Education,2022-08-24,josephtran@example.com,Taylor Bowman,Online Portal,1,Retail
+EMP_000477,Christopher Powell,Mentor,Operations,2019-08-19,brianhunt@example.net,Julie Jacobson,None,1,Education
+EMP_000478,Grant Pugh,Administrator,Health,2024-01-25,daniel25@example.com,Ariana Rowland,Online Portal,0,Retail
+EMP_000479,Sarah Chase,Case Worker,Health,2020-03-26,ijames@example.com,Mark Bennett,None,1,Technology
+EMP_000480,David Allen,Mentor,Education,2017-08-06,alexandertaylor@example.com,Michael Wilson,None,0,Healthcare
+EMP_000481,Denise Wheeler,Mentor,Operations,2016-11-26,monteskevin@example.net,Cynthia Chavez,None,0,Education
+EMP_000482,Dr. Wanda Molina,Trainer,Health,2020-04-26,amanda48@example.org,Thomas Oneill,None,0,Healthcare
+EMP_000483,Paul Henry,Trainer,Health,2019-01-18,masseytonya@example.org,James Nelson,None,0,Retail
+EMP_000484,Heather Taylor,Manager,Operations,2024-06-21,cantuelijah@example.org,Amanda Buchanan,Online Portal,0,Technology
+EMP_000485,Mary Zuniga,Mentor,Health,2021-12-09,chloehayes@example.com,Casey Hardy,Online Portal,1,Healthcare
+EMP_000486,Jordan Hampton,Case Worker,Health,2021-02-19,tcarr@example.org,Michelle Morgan,Online Portal,1,Technology
+EMP_000487,Ashley Chan,Administrator,Operations,2023-03-01,seanalexander@example.org,Lindsey Goodman,Online Portal,0,Technology
+EMP_000488,Kathryn Lopez,Administrator,Operations,2018-08-13,cmcmahon@example.org,Tammy Vaughn,Workforce Center,1,Technology
+EMP_000489,Brandon Ward,Mentor,Finance,2023-07-17,dhenson@example.org,Tammy Lynch,Workforce Center,0,Healthcare
+EMP_000490,Emily Scott,Case Worker,Finance,2024-07-28,uwoods@example.org,Michael Johnson,Workforce Center,1,Education
+EMP_000491,Thomas Maldonado,Case Worker,Health,2022-07-13,christopherbeck@example.com,Kyle Lopez,Online Portal,0,Education
+EMP_000492,Jonathan Torres,Mentor,Health,2020-06-04,milesstephen@example.org,Damon Simmons,Online Portal,0,Retail
+EMP_000493,Denise Bennett DDS,Mentor,Health,2018-11-23,kmyers@example.com,Cynthia Davis,Workforce Center,0,Retail
+EMP_000494,Jordan Jones,Administrator,Operations,2021-08-19,richard51@example.org,Ashley Davidson,Workforce Center,0,Retail
+EMP_000495,Patricia Cole,Case Worker,Finance,2016-08-15,mindy41@example.com,Susan Smith,Workforce Center,0,Retail
+EMP_000496,Mark Fitzgerald,Administrator,Health,2017-08-20,kimberlyedwards@example.net,Thomas Haynes,Online Portal,0,Healthcare
+EMP_000497,Kelly Marks,Administrator,Operations,2020-08-03,higginsterri@example.org,Dr. Linda Owens,None,1,Education
+EMP_000498,Mandy Campbell,Mentor,Operations,2023-01-28,dweiss@example.com,John Frazier,None,0,Education
+EMP_000499,Jesse Barnes,Trainer,Operations,2016-01-28,james21@example.org,William Martinez,Workforce Center,0,Technology
+EMP_000500,Timothy Williams,Administrator,Education,2022-03-19,christophermiles@example.org,Anthony Smith,None,1,Education
+EMP_000501,Tammy Padilla,Manager,Finance,2024-11-13,meghan78@example.com,Jennifer Jackson,None,1,Education
+EMP_000502,Trevor Alvarez,Mentor,Education,2021-01-07,patelrichard@example.net,Matthew Robinson,None,0,Technology
+EMP_000503,Jeffery Snyder,Manager,Operations,2020-10-29,mccoyamy@example.com,Warren Kim,Workforce Center,0,Education
+EMP_000504,Raymond Galloway,Manager,Health,2016-04-25,andrewsdawn@example.com,Sheryl Walker,Workforce Center,1,Education
+EMP_000505,Erin Booker,Mentor,Education,2023-12-20,ewilliams@example.org,Lisa Edwards,Workforce Center,0,Healthcare
+EMP_000506,Todd Cooper,Trainer,Finance,2019-12-09,caleb22@example.com,Juan Gomez,None,1,Healthcare
+EMP_000507,Keith Harris,Manager,Health,2016-05-02,willieprice@example.com,Rachael Bennett,None,0,Healthcare
+EMP_000508,Pamela Cervantes,Manager,Health,2022-09-13,nicolewhitney@example.org,Robert Murphy,Online Portal,1,Retail
+EMP_000509,Maria Gonzalez,Trainer,Health,2017-02-23,william30@example.net,Jacob Scott,Online Portal,0,Education
+EMP_000510,Grant Fitzgerald,Trainer,Health,2019-08-12,zhumphrey@example.org,Christopher Jackson,Online Portal,1,Technology
+EMP_000511,Amber White,Trainer,Finance,2022-05-10,jesus69@example.com,Amy Taylor,Workforce Center,1,Education
+EMP_000512,Melissa Reyes,Manager,Health,2023-07-29,wendylamb@example.org,Alexander Shields,Workforce Center,1,Technology
+EMP_000513,Joshua Tanner,Mentor,Finance,2016-06-24,monica70@example.net,Lance Mathews,Workforce Center,1,Education
+EMP_000514,Anita Beard,Case Worker,Education,2023-01-18,debra38@example.net,Michael Smith,None,0,Healthcare
+EMP_000515,Rachel Hunt,Case Worker,Health,2022-09-21,kimberly36@example.com,Philip Mitchell,Online Portal,1,Retail
+EMP_000516,John Foster II,Case Worker,Education,2021-02-02,fergusonnatalie@example.org,Nancy Brown,Workforce Center,1,Education
+EMP_000517,Sara Powers DDS,Case Worker,Education,2019-07-20,michelle58@example.org,Benjamin Howard,Workforce Center,1,Education
+EMP_000518,Joseph Stafford,Mentor,Education,2016-01-22,colemantyler@example.com,Julie Brown,Workforce Center,0,Education
+EMP_000519,Daniel Wilson,Administrator,Operations,2018-08-22,ffranklin@example.com,Tyler Vasquez,Workforce Center,1,Healthcare
+EMP_000520,Pamela Rollins,Manager,Finance,2022-08-10,keithlittle@example.org,Justin Walker,Online Portal,0,Retail
+EMP_000521,Brandon Harris,Administrator,Operations,2021-01-13,brian07@example.org,Jordan Williams,Workforce Center,0,Technology
+EMP_000522,Ann Martin MD,Administrator,Health,2024-09-20,kbrooks@example.net,Derek Jackson,Online Portal,0,Technology
+EMP_000523,Kevin Smith,Case Worker,Operations,2025-02-05,jefferyhicks@example.com,Miranda Campbell,Online Portal,1,Technology
+EMP_000524,Miguel Torres,Mentor,Education,2020-09-27,jonesamy@example.org,Nicole Long,Workforce Center,1,Education
+EMP_000525,Roberto Turner,Mentor,Health,2023-10-05,jacob67@example.net,Carol Soto,Online Portal,1,Healthcare
+EMP_000526,Ashley Bender,Administrator,Education,2022-02-21,urichardson@example.net,Ashley Lopez,Online Portal,1,Healthcare
+EMP_000527,Denise Woods,Trainer,Health,2016-02-07,smithbeth@example.org,Shane Jackson,Online Portal,1,Education
+EMP_000528,Tiffany Oconnor,Trainer,Finance,2020-11-06,gordonjocelyn@example.org,Heather Kelly,Online Portal,0,Technology
+EMP_000529,James Brown,Administrator,Finance,2023-09-01,asanchez@example.net,Cory Henson,Online Portal,1,Retail
+EMP_000530,William Sanchez,Manager,Health,2025-05-03,daniellewarren@example.org,Margaret Ford,Online Portal,1,Technology
+EMP_000531,Makayla Allen,Manager,Finance,2022-11-01,swansonmegan@example.net,Justin Webster,Workforce Center,0,Retail
+EMP_000532,Lacey Myers,Case Worker,Operations,2018-06-26,jamesmartin@example.com,Jeffrey Riley,Online Portal,1,Retail
+EMP_000533,Shirley Pruitt,Administrator,Finance,2019-03-16,richard18@example.com,Carla Adams,Online Portal,1,Healthcare
+EMP_000534,Michael Hood,Administrator,Operations,2024-12-01,ymccormick@example.org,Austin Gilbert,Online Portal,1,Healthcare
+EMP_000535,Alexander Hernandez,Administrator,Operations,2021-11-27,jacksonandrea@example.org,Edward Curry,Workforce Center,1,Technology
+EMP_000536,Wendy Moore,Case Worker,Health,2021-04-01,reedmichelle@example.org,Joseph Greer,None,1,Education
+EMP_000537,Jennifer Brown,Mentor,Health,2017-12-10,contrerasjasmine@example.org,Mary Yu,None,1,Education
+EMP_000538,Eric Li,Case Worker,Finance,2019-06-23,freemanmichael@example.net,Melissa Rodriguez,Online Portal,0,Technology
+EMP_000539,Stacy Woods,Mentor,Health,2016-12-10,wesley44@example.net,Kathryn Weaver,Online Portal,1,Technology
+EMP_000540,Kent Torres,Case Worker,Education,2022-12-04,mmitchell@example.net,Jonathan Barrera,Online Portal,1,Retail
+EMP_000541,Mr. Derek Wagner,Administrator,Education,2020-12-18,helen49@example.com,Allison Mitchell,Workforce Center,0,Healthcare
+EMP_000542,Michael Goodwin,Manager,Operations,2017-11-11,lindseyleslie@example.net,Emily White,Online Portal,0,Healthcare
+EMP_000543,Chad Silva,Administrator,Operations,2023-08-11,matthewrice@example.org,Beth Thomas,None,1,Healthcare
+EMP_000544,Samantha Rodriguez,Trainer,Operations,2022-02-14,lisa64@example.net,Dr. William Owens,Workforce Center,1,Healthcare
+EMP_000545,Rodney Mccormick,Manager,Operations,2024-07-08,cmckee@example.org,Danielle Alvarez,Online Portal,0,Technology
+EMP_000546,David Williams,Manager,Education,2021-02-28,brandon55@example.net,Joseph Perkins,Workforce Center,0,Healthcare
+EMP_000547,Shawn Donovan,Manager,Operations,2022-08-15,michaelcardenas@example.net,Emily Anderson,Online Portal,1,Education
+EMP_000548,Jason Washington,Mentor,Health,2022-07-26,strongeric@example.net,James Moore,Workforce Center,1,Technology
+EMP_000549,Amanda Gentry,Mentor,Finance,2020-11-16,usparks@example.com,Jonathan Taylor,Online Portal,0,Healthcare
+EMP_000550,Angela Moore,Manager,Operations,2018-01-16,kendra15@example.net,Amanda Walsh,Online Portal,0,Technology
+EMP_000551,Jane Robertson,Trainer,Operations,2022-07-26,uchen@example.org,David Chapman,Workforce Center,0,Healthcare
+EMP_000552,Victor Mueller,Trainer,Finance,2021-04-30,victoria54@example.org,Ashley Coleman,Workforce Center,0,Technology
+EMP_000553,Laura Huber,Manager,Finance,2020-11-16,bautistalogan@example.com,Kimberly Aguilar,Workforce Center,0,Education
+EMP_000554,Michael Nichols,Case Worker,Education,2019-08-19,christopher93@example.net,Richard Jackson,None,1,Healthcare
+EMP_000555,Thomas Murray,Mentor,Health,2025-02-03,cwu@example.org,Shane Saunders,Online Portal,1,Retail
+EMP_000556,Kevin Washington,Case Worker,Finance,2024-08-21,rmorales@example.com,Jordan Watson,Workforce Center,1,Healthcare
+EMP_000557,Tara Benton,Case Worker,Finance,2024-06-11,roger71@example.net,Daniel Cole,Workforce Center,1,Healthcare
+EMP_000558,Brandon King,Administrator,Education,2025-09-27,rgill@example.com,Michael Cohen,Online Portal,1,Retail
+EMP_000559,Terri Foley,Administrator,Operations,2021-08-25,robertharrison@example.net,Anthony Reed,Workforce Center,0,Technology
+EMP_000560,Bryan Harrington,Administrator,Finance,2023-07-15,mirandaholmes@example.org,Dawn Jones,Workforce Center,0,Healthcare
+EMP_000561,Michelle Hicks,Manager,Operations,2017-07-05,cynthiamitchell@example.com,Dawn Lawson,Workforce Center,0,Technology
+EMP_000562,Bobby Stark,Case Worker,Health,2016-07-28,michael45@example.org,Jeffrey Meyer,Workforce Center,1,Education
+EMP_000563,Brad Fisher,Manager,Operations,2022-04-24,andradepaige@example.org,Samantha Brown,None,0,Technology
+EMP_000564,Rachel Jarvis,Case Worker,Finance,2016-11-08,gmullins@example.org,Robert Johnson,Workforce Center,1,Healthcare
+EMP_000565,Ronald Whitehead,Mentor,Operations,2017-04-18,darrellbridges@example.com,Steven Lee,Workforce Center,0,Retail
+EMP_000566,Amy Wilson,Manager,Operations,2022-11-12,jamessmith@example.org,Jennifer Boyle,Workforce Center,1,Retail
+EMP_000567,Stephen Moody,Administrator,Finance,2016-09-01,vickiwilkerson@example.net,Michael Burch,Online Portal,1,Technology
+EMP_000568,Richard Martinez,Manager,Health,2023-05-16,ricelisa@example.org,Scott Alvarez,None,1,Education
+EMP_000569,Anthony Burton,Trainer,Finance,2021-03-12,brightjason@example.net,John Miller,Online Portal,1,Healthcare
+EMP_000570,Brian Elliott,Mentor,Health,2019-07-11,rrobbins@example.com,Christian Martinez,Online Portal,1,Retail
+EMP_000571,Lisa Hays,Administrator,Finance,2021-07-10,mortega@example.com,Henry Jones,None,1,Healthcare
+EMP_000572,Danny Johnson,Manager,Finance,2020-07-30,cparker@example.com,Jessica Young,Online Portal,0,Education
+EMP_000573,Joseph Campbell,Administrator,Health,2023-12-21,josephwilliams@example.com,Beth Wright,Workforce Center,0,Technology
+EMP_000574,George Davis,Mentor,Education,2025-02-09,markmann@example.com,James Reyes,Online Portal,0,Retail
+EMP_000575,Aimee Jensen,Administrator,Education,2022-05-09,barronjohn@example.net,Anthony Mcgrath,Online Portal,0,Education
+EMP_000576,Elizabeth Harrison,Trainer,Operations,2022-06-13,qmclaughlin@example.org,Tammy Graham,Workforce Center,1,Retail
+EMP_000577,Stephen Fletcher,Mentor,Education,2016-03-29,edwinlam@example.org,Rachel Potter,Workforce Center,1,Technology
+EMP_000578,Angelica French,Administrator,Health,2024-04-21,josephhall@example.com,Jennifer Lewis,Online Portal,0,Healthcare
+EMP_000579,Sherry Miller,Trainer,Finance,2025-06-22,garyking@example.net,Joseph Reed,None,0,Retail
+EMP_000580,Bryce Lawrence,Administrator,Education,2019-02-19,xwebster@example.net,Jacob Cardenas,Workforce Center,0,Education
+EMP_000581,Courtney Knox,Manager,Operations,2016-11-01,mariagreer@example.com,Laura Turner,Online Portal,0,Healthcare
+EMP_000582,Stephanie Day,Mentor,Health,2017-08-18,jennifergaines@example.net,Carlos Smith,None,1,Retail
+EMP_000583,David Stewart,Case Worker,Operations,2022-05-08,jacqueline17@example.org,Jennifer Franklin,Online Portal,1,Healthcare
+EMP_000584,Joanna Weeks,Manager,Finance,2018-04-08,hesterjay@example.org,Charles Johnson,Online Portal,1,Retail
+EMP_000585,Lisa Park,Case Worker,Finance,2020-05-31,sarahnunez@example.com,Brett Soto,None,0,Retail
+EMP_000586,Tracey Gonzalez,Trainer,Health,2021-05-26,eclark@example.net,Danielle Cannon,Workforce Center,1,Retail
+EMP_000587,Joshua Bullock,Case Worker,Operations,2017-06-09,gordonjoseph@example.org,Dawn Thompson,Online Portal,0,Technology
+EMP_000588,Shannon Odonnell,Manager,Education,2020-12-30,johnjackson@example.com,Karen Hernandez,None,0,Technology
+EMP_000589,Sharon Dorsey,Mentor,Education,2021-03-26,rjones@example.com,David Dixon,Online Portal,1,Technology
+EMP_000590,Jennifer Jenkins,Case Worker,Health,2015-11-23,dhall@example.com,Corey Barnes,Online Portal,1,Education
+EMP_000591,Lori Anderson,Mentor,Education,2021-08-29,tommy10@example.org,Melissa Hines,Workforce Center,1,Retail
+EMP_000592,Julie Sanders,Case Worker,Finance,2022-11-12,rholmes@example.org,Michael Stone,Workforce Center,1,Healthcare
+EMP_000593,Julia Cole,Administrator,Operations,2019-07-11,brooke30@example.net,Jacqueline Wells,Online Portal,0,Technology
+EMP_000594,Brian Marshall,Manager,Finance,2023-08-30,kristinerocha@example.net,Benjamin Wells,Workforce Center,0,Technology
+EMP_000595,Angela Robertson,Mentor,Education,2018-01-06,kellyrebecca@example.net,Robin Ryan,Online Portal,0,Healthcare
+EMP_000596,Roger Anderson,Manager,Finance,2020-11-18,danielle07@example.org,Allison Washington,Workforce Center,1,Education
+EMP_000597,Erik Potter,Manager,Finance,2022-03-31,resparza@example.com,Michael Jones,Online Portal,1,Healthcare
+EMP_000598,John Johnson,Administrator,Operations,2021-06-05,vincentburnett@example.net,Anna Schroeder,None,1,Education
+EMP_000599,David Franklin,Case Worker,Operations,2023-05-04,maryweber@example.org,Kayla Whitehead,None,0,Technology
+EMP_000600,Brandi Mason,Trainer,Health,2017-07-23,larryweaver@example.org,Dennis Holmes,Workforce Center,0,Education
+EMP_000601,Mrs. Mallory Martinez MD,Mentor,Operations,2023-09-08,williamswillie@example.com,Elaine Morrow,None,0,Technology
+EMP_000602,Debra Day DVM,Trainer,Health,2020-03-08,theresa48@example.org,Timothy Wong,Workforce Center,0,Healthcare
+EMP_000603,David Dennis,Manager,Finance,2021-12-01,james04@example.net,Roberta Cook,Online Portal,0,Healthcare
+EMP_000604,Austin Price,Manager,Health,2017-12-25,alexandercross@example.org,Cindy Miller,Online Portal,0,Technology
+EMP_000605,Melanie Cherry,Trainer,Finance,2017-06-03,browndouglas@example.com,Jesse Roy,Workforce Center,0,Technology
+EMP_000606,Jennifer Rodriguez,Case Worker,Operations,2016-12-06,cindyzamora@example.com,Jonathan Price,None,0,Retail
+EMP_000607,Tara Perez,Trainer,Education,2016-05-30,davispenny@example.org,Melissa Serrano,Online Portal,0,Healthcare
+EMP_000608,Allen Wood,Case Worker,Finance,2019-05-10,erikmorris@example.net,Dr. Jason Perry MD,Online Portal,0,Technology
+EMP_000609,Jacob Cabrera,Mentor,Finance,2023-05-23,nicholsonsamantha@example.net,Jeffrey Sanders,Workforce Center,0,Technology
+EMP_000610,Daniel Powell,Administrator,Finance,2019-10-16,kristina17@example.org,Jonathan Kelley,Online Portal,1,Healthcare
+EMP_000611,Robert Young,Administrator,Finance,2021-06-09,hmiller@example.net,Monique Jones,None,1,Education
+EMP_000612,Ashley Willis,Case Worker,Finance,2020-03-30,taylorkarina@example.net,David Meza,None,1,Retail
+EMP_000613,Margaret Hughes,Manager,Health,2016-06-12,kkelley@example.com,Roger Foster,None,1,Healthcare
+EMP_000614,Tommy Hill,Trainer,Education,2025-09-23,garciaderek@example.org,Sara Carrillo,Workforce Center,1,Healthcare
+EMP_000615,Susan Stewart,Administrator,Finance,2018-08-15,umack@example.com,Jane Swanson,Workforce Center,0,Healthcare
+EMP_000616,Jacqueline Blake,Trainer,Operations,2017-09-11,preyes@example.net,Donald Hobbs,Online Portal,0,Healthcare
+EMP_000617,Robert Goodwin,Case Worker,Health,2024-06-01,brennanshawn@example.com,Monica Morton,Workforce Center,0,Technology
+EMP_000618,Keith Medina,Manager,Finance,2020-11-26,jenniferfernandez@example.org,Ray Wood,Workforce Center,1,Healthcare
+EMP_000619,Tiffany White,Manager,Operations,2019-05-25,leah16@example.org,Heather Harris,Online Portal,1,Retail
+EMP_000620,Joseph Reed,Case Worker,Health,2025-08-29,harringtonkelly@example.com,Larry Mcbride,None,1,Retail
+EMP_000621,Amber Allen,Mentor,Education,2019-01-09,jennifer98@example.org,Katherine Anderson,Workforce Center,0,Technology
+EMP_000622,Larry Taylor,Trainer,Operations,2021-10-19,dlin@example.com,Pamela Thomas,Online Portal,0,Technology
+EMP_000623,Karen Boyd,Trainer,Education,2021-03-11,mmccoy@example.com,Shane Brown,Workforce Center,0,Technology
+EMP_000624,Amy Thomas,Mentor,Health,2023-07-01,xhall@example.com,Laura Whitehead,None,0,Technology
+EMP_000625,Michael Esparza,Case Worker,Education,2022-10-30,morrisonlawrence@example.net,Stephanie Kennedy,None,1,Retail
+EMP_000626,Janet Wallace,Administrator,Health,2023-02-05,hallsean@example.org,Andrew Robinson,Workforce Center,0,Retail
+EMP_000627,Tammie Bell,Administrator,Education,2019-02-26,amoore@example.org,Jennifer Kennedy,None,1,Education
+EMP_000628,Gail Rivas,Mentor,Health,2017-10-04,kathycook@example.com,Emily Acosta,None,0,Healthcare
+EMP_000629,David Dougherty,Administrator,Health,2025-05-04,burnsamanda@example.net,Kathryn Murphy,Workforce Center,1,Healthcare
+EMP_000630,Cathy Foster,Mentor,Education,2024-03-21,amberyoung@example.org,Thomas Burns,Workforce Center,1,Retail
+EMP_000631,Sean Yu,Administrator,Finance,2016-10-06,johnsongerald@example.net,John Mueller,Workforce Center,1,Retail
+EMP_000632,April Perez,Case Worker,Finance,2020-08-21,robertmorris@example.org,Angela James,Workforce Center,0,Technology
+EMP_000633,Kelly Anderson,Manager,Health,2023-05-20,tschneider@example.com,Kelsey Thomas,Online Portal,1,Technology
+EMP_000634,David Miller,Manager,Health,2016-08-02,nathan85@example.net,Charles Franklin,Online Portal,1,Technology
+EMP_000635,Chelsea Jenkins,Case Worker,Education,2017-09-08,gchavez@example.org,Brenda Smith,Online Portal,1,Education
+EMP_000636,Kelli Salinas,Administrator,Health,2018-08-08,michellescott@example.org,Amy Holt,Online Portal,1,Healthcare
+EMP_000637,Heather Jensen,Manager,Health,2025-07-30,kaiserbethany@example.org,James Flores,None,1,Healthcare
+EMP_000638,Bernard Watson,Trainer,Education,2019-05-17,weisskenneth@example.org,Alison Andrade,Workforce Center,1,Healthcare
+EMP_000639,Jacqueline Smith,Manager,Education,2022-04-03,deborahsmith@example.org,Micheal Jackson,Workforce Center,0,Healthcare
+EMP_000640,Donna Lloyd,Manager,Finance,2022-04-29,brianhernandez@example.com,Michele Cooper,None,1,Technology
+EMP_000641,Julie Taylor,Trainer,Finance,2023-02-07,theresaterrell@example.com,Walter Carpenter,None,1,Education
+EMP_000642,Joel Gregory,Trainer,Education,2024-07-22,changsheri@example.com,Barbara Hernandez,Workforce Center,1,Healthcare
+EMP_000643,Edward Cummings,Manager,Operations,2020-03-12,corey94@example.net,Jennifer Taylor,None,1,Technology
+EMP_000644,Amanda Thompson,Case Worker,Finance,2020-04-20,uwest@example.org,Justin Sherman,Online Portal,1,Retail
+EMP_000645,Mark Aguilar,Manager,Finance,2020-12-22,rosalesgeorge@example.net,Jessica Duran,Workforce Center,0,Healthcare
+EMP_000646,Olivia Garcia,Manager,Finance,2024-12-21,armstrongcassie@example.org,Nicholas Leonard,Workforce Center,1,Technology
+EMP_000647,Jim Hester,Mentor,Finance,2022-01-19,michelerogers@example.net,Dana Whitehead,None,1,Healthcare
+EMP_000648,Kimberly Murphy,Trainer,Operations,2016-09-05,pcharles@example.org,Michael Smith,Online Portal,1,Education
+EMP_000649,Pamela Clark,Mentor,Operations,2018-12-30,michellebrown@example.org,Lori Mcknight,None,1,Retail
+EMP_000650,Jeremy Washington,Manager,Operations,2025-11-03,ianderson@example.org,Monique Harris,Online Portal,0,Technology
+EMP_000651,Michael Stark,Case Worker,Health,2017-11-30,scottburns@example.net,David Mccarthy,Workforce Center,0,Retail
+EMP_000652,Deanna Smith,Trainer,Finance,2016-01-06,wilsontheresa@example.net,Jeffrey Miller,Online Portal,1,Healthcare
+EMP_000653,Robert Silva,Case Worker,Education,2022-07-12,kimberly84@example.com,Jennifer Medina,None,1,Retail
+EMP_000654,Kevin Kim,Case Worker,Finance,2019-01-28,ronald95@example.net,Gabriella King,None,1,Retail
+EMP_000655,Michael Miller,Trainer,Finance,2019-10-01,qhooper@example.net,Sherry Aguirre,Online Portal,0,Education
+EMP_000656,Patricia Werner,Administrator,Operations,2023-06-22,hortiz@example.org,Johnny Keller,None,0,Healthcare
+EMP_000657,Michael Powell,Trainer,Education,2018-08-22,hogangina@example.com,Kari Rodriguez,None,0,Retail
+EMP_000658,Anthony Petty,Administrator,Finance,2023-12-14,eperkins@example.com,Christopher Carpenter,Workforce Center,0,Healthcare
+EMP_000659,Chad Oneal,Mentor,Operations,2019-07-11,janicegoodwin@example.org,Kathleen Johnson,None,0,Technology
+EMP_000660,Christian Hines,Case Worker,Health,2024-04-11,yjarvis@example.net,David Perez,None,1,Retail
+EMP_000661,Tommy Higgins,Administrator,Operations,2025-04-18,xbrown@example.org,Karla Holmes,None,0,Technology
+EMP_000662,Anthony Washington,Mentor,Finance,2022-05-02,areed@example.org,Lindsey Hamilton,Online Portal,0,Retail
+EMP_000663,Travis West,Trainer,Health,2023-12-02,ldaniel@example.net,Ms. Laura Yang,None,1,Healthcare
+EMP_000664,Leslie Donovan,Case Worker,Education,2017-12-23,benjaminhowell@example.com,John Russo,Online Portal,1,Technology
+EMP_000665,Jennifer Roy,Trainer,Finance,2019-12-06,jaime26@example.com,Noah West,Workforce Center,0,Technology
+EMP_000666,Crystal Williams,Mentor,Health,2025-05-11,ashley40@example.com,Erica Jarvis,Workforce Center,1,Education
+EMP_000667,Daniel Williams,Trainer,Operations,2017-09-22,victoriawalls@example.org,Catherine Martin,Online Portal,1,Healthcare
+EMP_000668,Derek Townsend,Trainer,Finance,2017-12-24,sanchezjohn@example.com,Ronald Price,Workforce Center,1,Technology
+EMP_000669,Michael Adams,Administrator,Education,2024-02-25,cclay@example.org,Dr. Natasha Sharp MD,Workforce Center,0,Education
+EMP_000670,Jessica Rogers,Manager,Finance,2021-05-15,jonathanrobertson@example.org,Robin Snyder,Workforce Center,1,Healthcare
+EMP_000671,Rebecca Weaver,Mentor,Finance,2025-07-12,andrew40@example.org,Denise Morgan,None,0,Technology
+EMP_000672,Mr. Dean Garrison Jr.,Trainer,Health,2025-05-06,charleswoods@example.org,David Brown,None,0,Education
+EMP_000673,David Murphy,Trainer,Education,2016-04-27,jesusgordon@example.com,David Stephenson,Workforce Center,0,Technology
+EMP_000674,Nicole Lewis,Manager,Health,2025-05-08,bensonmolly@example.org,Michael Rodriguez III,None,0,Retail
+EMP_000675,Rhonda Mills,Mentor,Education,2020-09-10,amartin@example.org,Michael Mcguire,Workforce Center,0,Education
+EMP_000676,Robert Bell,Mentor,Health,2023-05-11,millerkevin@example.com,Terry Robertson,Workforce Center,1,Education
+EMP_000677,Bryan Chase,Case Worker,Health,2017-02-23,smithjoshua@example.net,David Martinez,None,1,Education
+EMP_000678,William Howell,Administrator,Finance,2019-03-27,aarias@example.com,Patricia Wolfe,None,1,Education
+EMP_000679,Austin Richard,Administrator,Education,2024-02-01,jonathanshields@example.com,Anna Tate,None,1,Healthcare
+EMP_000680,Michael Tucker,Manager,Education,2024-01-23,william46@example.org,Anthony Aguirre,None,1,Healthcare
+EMP_000681,Nancy Patel,Trainer,Finance,2016-11-07,dmurray@example.net,Joseph Anderson,Online Portal,0,Retail
+EMP_000682,Lisa Clarke,Trainer,Health,2022-03-31,harrisjoshua@example.com,Nancy Brown,Online Portal,0,Retail
+EMP_000683,Jonathan Lopez,Case Worker,Education,2022-07-26,ebailey@example.net,Kim Adams,Workforce Center,0,Education
+EMP_000684,Jennifer Weber,Manager,Finance,2016-07-24,tylerhogan@example.org,Michael Perkins,None,0,Technology
+EMP_000685,David Garcia,Trainer,Operations,2025-07-05,michaelflores@example.net,Pamela Jones,Workforce Center,0,Retail
+EMP_000686,Kimberly Bray,Mentor,Health,2017-04-03,lindsey93@example.net,Mitchell Benjamin,Online Portal,0,Retail
+EMP_000687,James Gamble,Case Worker,Finance,2017-03-30,angelasmith@example.org,Shirley Parker,Online Portal,0,Healthcare
+EMP_000688,Paul Harrison,Mentor,Education,2021-06-15,jerry71@example.net,Donald Hamilton,Workforce Center,1,Education
+EMP_000689,Kevin Hodges,Manager,Operations,2020-11-18,brittany35@example.com,Cheyenne Bush,Online Portal,0,Retail
+EMP_000690,Crystal James,Mentor,Operations,2021-11-18,nicoleparker@example.com,Brian Perez,None,1,Retail
+EMP_000691,Paul Kim,Administrator,Education,2016-09-10,grahamkurt@example.com,Eric Fernandez,Workforce Center,1,Education
+EMP_000692,Gina Bowen,Manager,Operations,2022-06-20,ibarratiffany@example.com,Jasmine Jimenez,Workforce Center,0,Technology
+EMP_000693,Robert Jackson,Manager,Operations,2018-08-10,christinaramos@example.com,Desiree Stephens,Workforce Center,0,Retail
+EMP_000694,Shawn Anderson,Mentor,Operations,2020-12-10,cbryant@example.com,Stacy Mccoy,None,1,Retail
+EMP_000695,Alexis Nichols,Administrator,Health,2025-08-07,ffitzgerald@example.net,Andrew Stone,Online Portal,0,Retail
+EMP_000696,Kenneth Myers,Mentor,Health,2023-02-12,rneal@example.net,Clifford Lynch,Workforce Center,0,Healthcare
+EMP_000697,Samuel Rivera,Manager,Finance,2016-01-27,xgonzalez@example.org,Jessica Watson,Online Portal,1,Education
+EMP_000698,Brian Jackson,Manager,Finance,2018-08-15,gregory55@example.org,Kayla Austin,Online Portal,1,Retail
+EMP_000699,Ricky Jensen,Administrator,Health,2019-05-17,blacktonya@example.org,Christine Blake,None,1,Technology
+EMP_000700,Matthew Adams,Administrator,Education,2023-09-16,lopezdenise@example.org,Tina Johnson DVM,Online Portal,0,Retail
+EMP_000701,John Watson,Mentor,Finance,2021-02-03,kenneth22@example.org,Steven Evans,Online Portal,0,Education
+EMP_000702,Michael Gordon,Trainer,Operations,2020-05-06,rodriguezlisa@example.com,David Martinez,Online Portal,0,Healthcare
+EMP_000703,Lori Sanchez,Case Worker,Education,2024-11-24,stephenbryant@example.net,Zachary Turner,Workforce Center,0,Education
+EMP_000704,Karl Thomas,Mentor,Health,2017-11-03,robert67@example.com,Heather Wallace,Workforce Center,1,Healthcare
+EMP_000705,Edwin Duncan,Mentor,Operations,2024-10-10,danielle94@example.com,Michael Huerta,None,0,Education
+EMP_000706,Sara Stein,Manager,Operations,2016-08-10,sarahscott@example.net,Raymond Case DDS,Workforce Center,0,Technology
+EMP_000707,Jerry Harris,Case Worker,Finance,2020-06-04,jessica47@example.org,Daniel Goodman,Online Portal,0,Retail
+EMP_000708,Amy Murray,Mentor,Education,2022-04-10,brookswesley@example.com,Andrew Thomas,Online Portal,0,Retail
+EMP_000709,James Weaver,Case Worker,Operations,2020-10-25,shaneosborne@example.net,Alyssa Mcclain,Online Portal,1,Technology
+EMP_000710,Philip Day,Trainer,Education,2022-01-08,lewisbrian@example.com,Gail Chandler,None,1,Technology
+EMP_000711,Melissa Lewis,Administrator,Education,2025-08-03,ernest23@example.org,Michelle Davis,Workforce Center,0,Healthcare
+EMP_000712,Lisa Shelton,Trainer,Education,2025-04-05,wrightjames@example.com,Jessica Williams,None,0,Healthcare
+EMP_000713,Lauren Case,Administrator,Operations,2018-09-28,myerserica@example.net,Mrs. Shelby Irwin MD,None,0,Healthcare
+EMP_000714,Anna Holmes,Mentor,Education,2020-02-15,claudia28@example.org,Keith Snow,None,0,Healthcare
+EMP_000715,Melinda Banks,Administrator,Education,2023-08-06,jeffery27@example.org,David Rodriguez,Workforce Center,0,Retail
+EMP_000716,James Miller,Administrator,Operations,2018-02-16,sarahwilliams@example.net,Melissa Johnson,Online Portal,1,Technology
+EMP_000717,Richard Diaz,Case Worker,Operations,2019-12-22,galexander@example.com,Robert Ayala,Online Portal,1,Retail
+EMP_000718,Jamie Mitchell,Case Worker,Health,2024-02-24,ericadams@example.com,Cindy Wall,None,0,Technology
+EMP_000719,Michael Carpenter,Case Worker,Education,2019-12-02,nicolefoster@example.com,David Stanley,None,0,Education
+EMP_000720,Christopher Sweeney,Case Worker,Operations,2017-09-05,zhenderson@example.net,Cameron Reid,Workforce Center,0,Healthcare
+EMP_000721,Antonio Greene,Trainer,Operations,2016-07-01,bergertyler@example.net,Lisa Berry,None,0,Education
+EMP_000722,Albert Michael,Mentor,Finance,2018-01-19,james01@example.net,Victoria Knapp,Online Portal,0,Healthcare
+EMP_000723,Hannah Diaz,Manager,Health,2019-08-28,natalie48@example.org,Rebecca Sanchez,Workforce Center,0,Technology
+EMP_000724,Jaime Dawson,Trainer,Education,2022-06-08,garciacody@example.net,Adam Mcdonald,Workforce Center,0,Retail
+EMP_000725,Randy Hill,Case Worker,Finance,2024-02-29,adamstravis@example.com,Nicholas Franklin,Workforce Center,0,Retail
+EMP_000726,Julia Elliott,Trainer,Education,2018-06-08,alexandriabernard@example.org,Pamela Leach,None,0,Healthcare
+EMP_000727,Dr. Austin Sullivan Jr.,Mentor,Finance,2023-04-01,zacharyreyes@example.net,Lisa Pierce,Online Portal,1,Retail
+EMP_000728,Samuel Green,Administrator,Health,2017-03-25,sean42@example.com,Brandon Choi,Online Portal,1,Technology
+EMP_000729,Brent Weaver,Mentor,Operations,2023-02-26,jasonbarnes@example.net,Karen Johnson,Workforce Center,0,Education
+EMP_000730,Kathleen Oliver,Trainer,Operations,2024-03-31,eturner@example.org,Jennifer Robinson,Workforce Center,1,Education
+EMP_000731,Raymond Haney,Mentor,Finance,2023-09-27,lorraine99@example.com,Norma Bender,Workforce Center,1,Education
+EMP_000732,Stephen Smith,Case Worker,Finance,2023-03-15,egarner@example.net,Suzanne Blake,Workforce Center,0,Healthcare
+EMP_000733,Steven Miller DDS,Manager,Finance,2021-05-29,william31@example.net,Anthony Williams,Workforce Center,0,Technology
+EMP_000734,Debra Holt,Case Worker,Health,2023-08-25,mcintoshmichael@example.net,Ronald Williamson,Online Portal,1,Retail
+EMP_000735,Aaron Butler,Administrator,Health,2018-10-12,jdrake@example.com,Kaitlin Chapman,Online Portal,1,Education
+EMP_000736,Mr. Sean Fisher DDS,Case Worker,Finance,2021-07-31,colefernando@example.net,Alexandra Smith,Workforce Center,0,Healthcare
+EMP_000737,Heather Smith,Mentor,Education,2025-05-27,vlewis@example.net,Leslie Smith,None,0,Healthcare
+EMP_000738,Anthony Sanchez,Manager,Finance,2020-06-27,ijohnson@example.com,Teresa Nolan,Online Portal,1,Healthcare
+EMP_000739,Leroy Rodriguez,Administrator,Operations,2021-10-20,xnguyen@example.org,Wendy Underwood,Workforce Center,1,Retail
+EMP_000740,Melinda Myers,Case Worker,Health,2021-06-23,tmccarthy@example.net,Michael Fisher,Online Portal,0,Healthcare
+EMP_000741,Nicole Williams,Trainer,Finance,2021-12-21,william83@example.net,Robert Jimenez,Online Portal,0,Technology
+EMP_000742,Tracy Ashley,Case Worker,Operations,2022-04-07,tinafinley@example.com,Frank Harris,Workforce Center,1,Technology
+EMP_000743,Matthew Ward,Manager,Health,2017-08-26,mendezlori@example.com,Brian Duran,Workforce Center,0,Technology
+EMP_000744,Hannah Bennett,Mentor,Education,2023-01-29,lopezjennifer@example.com,Paul Lopez,Online Portal,1,Technology
+EMP_000745,Dawn Rivera,Administrator,Finance,2024-05-10,utownsend@example.com,Lacey Little,Online Portal,0,Healthcare
+EMP_000746,Ricky Barton,Trainer,Health,2025-04-30,weavermichael@example.org,Nathaniel Mclean,Online Portal,0,Retail
+EMP_000747,Morgan Carpenter,Mentor,Finance,2019-02-16,uflynn@example.net,Joy Taylor,Online Portal,1,Education
+EMP_000748,James Johnson,Manager,Education,2020-06-14,brendamartinez@example.net,Angela Erickson,None,1,Technology
+EMP_000749,David Taylor,Mentor,Finance,2018-12-10,angela38@example.org,George Wood,Workforce Center,0,Retail
+EMP_000750,Collin Ortiz,Trainer,Health,2025-06-01,emilybrooks@example.org,Richard Maddox,Workforce Center,0,Technology
+EMP_000751,David Clayton,Administrator,Health,2018-06-23,xanderson@example.com,Albert Carter,Online Portal,1,Healthcare
+EMP_000752,David Logan,Manager,Finance,2019-01-10,wardrebekah@example.com,Kelly Allen,Online Portal,0,Retail
+EMP_000753,Teresa Thomas,Case Worker,Finance,2018-05-08,patricia56@example.com,Amanda Thomas,None,0,Technology
+EMP_000754,Laura Mason,Administrator,Education,2021-04-17,kimberly28@example.net,Aaron Valdez,Online Portal,1,Healthcare
+EMP_000755,Andrew Garcia,Administrator,Operations,2021-03-19,schroederbrian@example.net,Chase Franklin,Online Portal,1,Technology
+EMP_000756,Alexandra Quinn,Case Worker,Health,2025-01-19,karaallen@example.org,Julie Byrd,None,0,Technology
+EMP_000757,Kathryn Mccoy,Administrator,Education,2018-03-21,lknight@example.net,Meghan Harding,Online Portal,0,Retail
+EMP_000758,Melissa Dorsey,Administrator,Health,2018-10-11,timothybrady@example.net,Colleen Nelson,None,1,Healthcare
+EMP_000759,Carrie Jackson,Mentor,Operations,2023-04-19,christopherfleming@example.org,Jared Martin,Online Portal,1,Healthcare
+EMP_000760,Jack Jacobson,Case Worker,Health,2024-04-14,shawn62@example.net,William Burns,None,0,Education
+EMP_000761,Katrina Lamb,Mentor,Operations,2023-10-02,aguilarjasmin@example.com,Brian Howell,Workforce Center,1,Healthcare
+EMP_000762,Peter Johnston,Trainer,Education,2024-10-04,ihouse@example.net,Paul Moody,Workforce Center,1,Technology
+EMP_000763,Madison Martinez,Manager,Operations,2021-12-08,andreacook@example.com,Karen Leblanc,Workforce Center,1,Retail
+EMP_000764,Michael Cruz,Case Worker,Operations,2022-10-30,paul48@example.net,Christopher Reeves,Workforce Center,0,Education
+EMP_000765,Spencer Castillo,Mentor,Education,2023-11-27,carl46@example.org,Carla Maxwell,Workforce Center,1,Education
+EMP_000766,Edward Brown,Administrator,Health,2022-10-22,cynthia03@example.com,Christopher Jones,Online Portal,0,Technology
+EMP_000767,Katherine Owens,Trainer,Education,2020-11-20,lorettasnyder@example.com,Jack Davis,Online Portal,0,Retail
+EMP_000768,James Harmon,Case Worker,Health,2018-09-08,mark42@example.com,Brett Duran,Online Portal,1,Retail
+EMP_000769,Barbara Anderson,Mentor,Education,2018-10-09,megancarlson@example.net,Dennis Nicholson,Workforce Center,1,Retail
+EMP_000770,Christine Sanchez,Manager,Health,2015-12-30,mariaevans@example.net,Theresa Larson,Workforce Center,0,Technology
+EMP_000771,Sarah Lopez,Administrator,Operations,2021-06-07,larry80@example.net,Yolanda Berry,Online Portal,0,Education
+EMP_000772,Christopher Henderson,Case Worker,Health,2021-11-02,kelli96@example.net,Kimberly Wilson,None,1,Retail
+EMP_000773,Michael Ingram,Administrator,Operations,2022-08-13,tbrooks@example.net,Scott Torres,None,0,Retail
+EMP_000774,Matthew Knapp,Mentor,Finance,2022-10-10,martinleroy@example.org,Michael Carter,Online Portal,0,Education
+EMP_000775,Meagan Mahoney,Mentor,Education,2020-07-26,riverashawn@example.com,Aaron Smith,None,0,Education
+EMP_000776,George Poole,Trainer,Health,2025-10-11,epatel@example.net,Patrick Baldwin,Workforce Center,0,Technology
+EMP_000777,Jessica Espinoza,Case Worker,Finance,2020-06-26,beverly33@example.com,Billy Brown,Online Portal,1,Retail
+EMP_000778,Lisa Anderson,Case Worker,Operations,2017-01-03,larmstrong@example.com,Corey Simmons,Workforce Center,0,Healthcare
+EMP_000779,Cindy Wiggins,Manager,Health,2025-10-04,castillobrian@example.net,Stephanie Brooks,None,0,Technology
+EMP_000780,Colton Thornton,Trainer,Finance,2022-01-30,hwillis@example.org,Ellen Barrera,Workforce Center,1,Education
+EMP_000781,Tricia Gutierrez,Trainer,Operations,2017-06-04,brownmonica@example.net,Tammy Snyder,None,1,Healthcare
+EMP_000782,Tiffany Hernandez,Case Worker,Operations,2023-01-01,cynthia84@example.com,Alisha Carson,Workforce Center,1,Retail
+EMP_000783,Brenda Obrien,Case Worker,Education,2020-03-12,suzanne59@example.com,Dr. Julie Velez,Workforce Center,1,Retail
+EMP_000784,Nicole Martin,Administrator,Finance,2025-04-08,samuelbrown@example.net,Colleen Jimenez,Workforce Center,0,Healthcare
+EMP_000785,Sonya Gray,Trainer,Education,2023-06-26,laura74@example.net,Tina Leon,Online Portal,1,Technology
+EMP_000786,Jennifer Wolfe,Mentor,Operations,2023-05-10,bryantkaren@example.org,Jay Guzman,Online Portal,0,Technology
+EMP_000787,Shari Chambers,Mentor,Health,2017-08-23,ronaldmitchell@example.net,Jessica Smith,Workforce Center,0,Education
+EMP_000788,Natasha Bradshaw,Administrator,Health,2016-02-08,travis78@example.org,Thomas Miller,Online Portal,0,Retail
+EMP_000789,Mary Nelson,Administrator,Health,2025-08-24,moralesjessica@example.net,Mr. James Robertson,Workforce Center,1,Retail
+EMP_000790,Mark Hunter,Trainer,Finance,2024-05-21,brentbond@example.org,Samantha Hunter,Online Portal,1,Retail
+EMP_000791,Kimberly Wilson,Mentor,Operations,2023-09-11,samuel57@example.org,Alicia Lewis,Workforce Center,1,Education
+EMP_000792,Harold Bryant,Trainer,Finance,2021-03-29,lewisrichard@example.org,Dr. Christopher Taylor,Workforce Center,1,Retail
+EMP_000793,William Sullivan,Administrator,Finance,2017-10-26,amandasmith@example.net,William Flowers,None,0,Education
+EMP_000794,Alicia Cole,Case Worker,Finance,2022-09-05,thomasgates@example.org,Laurie Price,None,1,Retail
+EMP_000795,Jason Torres,Mentor,Health,2023-07-17,jflynn@example.com,Douglas Anderson,None,0,Technology
+EMP_000796,Julie Wu,Administrator,Health,2017-12-08,katherinemartinez@example.net,Lauren Kaiser,None,0,Healthcare
+EMP_000797,Gary Watts,Administrator,Finance,2021-05-06,joshua86@example.org,Jeff Crawford,Online Portal,1,Healthcare
+EMP_000798,Riley Davis,Trainer,Operations,2016-11-28,lisa44@example.com,Rachel Marshall MD,None,1,Education
+EMP_000799,Kathryn Mcclure,Case Worker,Finance,2024-03-03,oliviahardy@example.net,Debbie Johnson,None,1,Technology
+EMP_000800,Hector Rich,Mentor,Operations,2017-07-22,jessethomas@example.com,Angela Thomas,Online Portal,1,Healthcare
+EMP_000801,Mrs. Katherine Shaffer MD,Administrator,Education,2023-12-27,manuel31@example.net,Mr. James Johnson,Workforce Center,1,Technology
+EMP_000802,Regina Ellison,Trainer,Education,2017-01-26,tquinn@example.org,Felicia Carrillo,Online Portal,1,Education
+EMP_000803,Carrie Watson,Case Worker,Operations,2023-01-21,morrisoncatherine@example.com,Stephanie Lam,None,1,Technology
+EMP_000804,Jessica Jones,Manager,Education,2025-07-31,christopherwood@example.net,Edward Martin,None,1,Retail
+EMP_000805,Michelle Mejia,Manager,Education,2024-03-31,sarah90@example.com,Christopher Daniel,Workforce Center,0,Healthcare
+EMP_000806,Sherry Adams,Manager,Education,2022-05-28,dayconnor@example.net,Lacey Schwartz,None,1,Technology
+EMP_000807,Brandon Adams,Case Worker,Education,2023-03-17,amanda45@example.org,Christopher Galloway,Online Portal,1,Retail
+EMP_000808,Karen Bradshaw,Mentor,Finance,2025-02-01,wallacevictoria@example.net,Barry Cortez,Workforce Center,0,Healthcare
+EMP_000809,Anna Fox,Manager,Operations,2024-06-16,desireemolina@example.net,Timothy Miller,None,0,Technology
+EMP_000810,Jennifer Moore,Case Worker,Health,2023-05-07,arnoldmatthew@example.org,Michelle Moses,Workforce Center,1,Education
+EMP_000811,David Brewer,Administrator,Health,2025-09-12,ryan34@example.org,Kathleen Jones,None,1,Retail
+EMP_000812,Veronica Acosta,Trainer,Operations,2019-03-01,zkane@example.com,Patrick Bailey,None,1,Education
+EMP_000813,Brandon Vasquez,Mentor,Health,2023-12-26,uclarke@example.org,Karen Reed,Online Portal,0,Education
+EMP_000814,Jessica King,Trainer,Health,2023-10-08,garretttimothy@example.net,George Larson,Workforce Center,1,Education
+EMP_000815,Matthew Case,Manager,Operations,2020-03-13,christina43@example.org,Ivan Contreras,Workforce Center,1,Technology
+EMP_000816,Charles Clark,Manager,Education,2022-04-18,omartin@example.org,Ashley Hernandez,Workforce Center,1,Retail
+EMP_000817,Paul Baldwin,Manager,Operations,2024-10-08,monicaharrison@example.net,John Wilkins,Workforce Center,0,Healthcare
+EMP_000818,Christopher Hickman,Case Worker,Finance,2016-04-04,ashleylopez@example.org,Susan Mcgrath,Online Portal,0,Education
+EMP_000819,Anthony Rojas,Administrator,Finance,2016-04-25,jeffrey65@example.com,Renee Pruitt,Workforce Center,1,Healthcare
+EMP_000820,Ms. Ashlee Carter DDS,Administrator,Operations,2024-10-23,jonesamanda@example.net,Ethan Ross,Workforce Center,0,Healthcare
+EMP_000821,Ashley Branch,Administrator,Education,2017-06-22,ncooper@example.com,Lisa Marshall,Online Portal,0,Technology
+EMP_000822,Heather Perez,Mentor,Education,2019-11-10,mirandatran@example.org,Jonathan Jones,None,1,Technology
+EMP_000823,Alyssa Porter,Trainer,Health,2023-01-21,nicholasrodgers@example.com,Kelsey Lara,Online Portal,0,Retail
+EMP_000824,Joel Jacobs,Manager,Education,2023-09-16,zmarsh@example.net,Kathleen Lynn,None,0,Education
+EMP_000825,Michael Eaton,Case Worker,Education,2017-01-28,garrett15@example.net,Martin Hanna,Workforce Center,0,Technology
+EMP_000826,Matthew Carroll,Manager,Health,2020-08-20,xwilliams@example.net,Sharon Evans,Workforce Center,1,Retail
+EMP_000827,Jennifer Hays PhD,Mentor,Health,2018-12-24,lcraig@example.net,Erica Compton,Workforce Center,0,Technology
+EMP_000828,John Kramer,Administrator,Operations,2022-08-09,donnabrown@example.net,Dylan Carlson,Online Portal,0,Technology
+EMP_000829,John Sanders,Case Worker,Finance,2021-08-17,robertskevin@example.org,Carrie Johnson,Workforce Center,0,Technology
+EMP_000830,Ellen Fritz,Manager,Education,2024-12-30,lking@example.net,Angela Carrillo,None,0,Education
+EMP_000831,William Frank,Administrator,Operations,2019-06-02,collinsrobert@example.net,John Holt,Workforce Center,0,Healthcare
+EMP_000832,Amy Johnson,Mentor,Operations,2021-05-14,andersonkaylee@example.org,Hannah Tucker PhD,None,1,Retail
+EMP_000833,Nathan Smith,Trainer,Education,2025-05-21,morganpalmer@example.org,Tyler Parrish,Online Portal,0,Technology
+EMP_000834,Diana Riddle,Case Worker,Operations,2021-01-14,molson@example.net,Catherine Hartman,None,0,Education
+EMP_000835,Julie Mason,Case Worker,Health,2023-01-31,davidmann@example.net,Sherry Medina,None,1,Education
+EMP_000836,Teresa Miller,Administrator,Finance,2017-07-27,marycosta@example.com,Peggy Duffy,None,1,Retail
+EMP_000837,Michael Escobar,Mentor,Operations,2018-09-05,brianthomas@example.org,Travis Conley,Online Portal,0,Healthcare
+EMP_000838,Lauren Neal,Trainer,Finance,2019-08-28,garciawayne@example.org,Sara Bartlett,Online Portal,1,Education
+EMP_000839,Peter Morales,Administrator,Operations,2020-01-28,ericgomez@example.net,David Graham,None,1,Healthcare
+EMP_000840,Todd Tapia,Manager,Education,2020-09-15,douglas54@example.org,Jonathan Kelley,None,0,Healthcare
+EMP_000841,Lindsey Watson,Trainer,Operations,2019-08-22,holly60@example.com,Ryan White,Online Portal,1,Education
+EMP_000842,Traci Anderson,Administrator,Operations,2020-05-30,tylerjones@example.org,Jason Martinez,Online Portal,0,Healthcare
+EMP_000843,Ricardo Tucker,Trainer,Education,2024-03-09,dawn38@example.org,Stephen Dawson,None,0,Retail
+EMP_000844,Christopher Terry,Mentor,Finance,2021-09-09,uramos@example.net,Madeline Gonzalez,Online Portal,1,Healthcare
+EMP_000845,Joshua Little,Manager,Operations,2023-07-18,beckypatel@example.net,Jennifer Moore,Workforce Center,0,Retail
+EMP_000846,Jamie Lee,Trainer,Finance,2023-09-10,bondjoseph@example.org,Shawn Bell,Workforce Center,0,Healthcare
+EMP_000847,Sandra Daniel,Trainer,Education,2018-02-05,james58@example.com,Jessica Stafford,Workforce Center,1,Retail
+EMP_000848,Julie Christian,Case Worker,Education,2018-06-15,laura36@example.net,Wendy Young,None,1,Technology
+EMP_000849,Jaime Rogers,Administrator,Operations,2019-03-30,brian35@example.net,Tina Richmond,None,0,Retail
+EMP_000850,Phillip Morgan,Administrator,Education,2016-11-24,sarahbradshaw@example.net,Stephanie Kennedy,None,0,Education
+EMP_000851,George Spencer,Trainer,Health,2020-02-14,ztyler@example.org,Jonathan Schmidt,Workforce Center,0,Healthcare
+EMP_000852,Carlos Mitchell,Manager,Operations,2017-09-07,barkerjanice@example.net,Ruben Martinez,None,0,Healthcare
+EMP_000853,Mark Browning,Mentor,Education,2021-04-19,jaredshaw@example.net,Lauren Smith,Online Portal,0,Healthcare
+EMP_000854,Jeffrey Smith,Trainer,Operations,2017-05-31,johnny66@example.org,Cory Welch DDS,Workforce Center,0,Technology
+EMP_000855,Isaac Robinson,Case Worker,Operations,2018-05-03,iroberson@example.net,Mr. Ryan Smith,Workforce Center,0,Education
+EMP_000856,Jeff Snyder,Trainer,Operations,2022-11-18,shannoncharles@example.net,Kevin Mccullough,Workforce Center,0,Education
+EMP_000857,Ashley Solomon,Administrator,Education,2020-08-08,darryllittle@example.org,Deanna Avila,Online Portal,1,Education
+EMP_000858,Matthew Grant,Administrator,Education,2021-09-04,wesley80@example.com,Gregory Hicks,None,0,Healthcare
+EMP_000859,Danielle Mcneil,Trainer,Health,2024-05-31,stevenbauer@example.com,Greg Benson,Online Portal,0,Healthcare
+EMP_000860,Brooke Kennedy,Mentor,Education,2019-10-11,tjones@example.net,William Johnson,None,0,Education
+EMP_000861,Amber Drake,Manager,Finance,2021-01-23,johnalvarez@example.net,Dr. Kim Jones,None,1,Technology
+EMP_000862,Michael Martin,Trainer,Operations,2020-03-26,kennethbarry@example.org,Jennifer Woodward,Workforce Center,1,Technology
+EMP_000863,Aaron Horton,Manager,Education,2020-03-11,callahanlauren@example.org,Victor Munoz,Workforce Center,0,Technology
+EMP_000864,Raven Ray,Manager,Education,2021-11-25,tina50@example.org,David Bray,None,1,Healthcare
+EMP_000865,Donna Russell,Trainer,Health,2025-02-18,poncejuan@example.com,Erika Morrow,None,0,Education
+EMP_000866,Ryan Chambers,Case Worker,Health,2024-04-09,ygentry@example.net,Christopher Morgan,Online Portal,0,Education
+EMP_000867,Thomas Mcguire,Manager,Operations,2021-06-24,randy03@example.com,Lisa Morales,Workforce Center,1,Retail
+EMP_000868,Jacob Roberts,Manager,Finance,2017-08-19,allenanthony@example.org,Marcus Saunders,Workforce Center,0,Education
+EMP_000869,Mitchell Hall,Manager,Operations,2025-05-29,sarahmorgan@example.net,Joseph Reyes,Workforce Center,1,Healthcare
+EMP_000870,Amber Harmon,Mentor,Finance,2018-08-02,andersonadam@example.com,Joe Bond,Online Portal,1,Retail
+EMP_000871,John Hampton,Administrator,Health,2020-06-15,mullinscynthia@example.com,Katherine Lee,Online Portal,1,Technology
+EMP_000872,Christian Perry,Manager,Education,2019-02-03,rcollins@example.net,Mr. Joel Johnson,Workforce Center,1,Retail
+EMP_000873,Lisa Sanders,Case Worker,Education,2016-10-23,jennifer38@example.com,Jennifer Baker,None,1,Retail
+EMP_000874,Julie Glenn,Trainer,Operations,2022-12-05,bryanmorrison@example.org,Kayla Terry,Online Portal,1,Retail
+EMP_000875,Adam Clark,Administrator,Operations,2017-10-30,wgraham@example.com,Pamela Campbell,Online Portal,1,Healthcare
+EMP_000876,John Gutierrez,Mentor,Operations,2022-05-16,mary78@example.org,Dawn Harper,Online Portal,1,Healthcare
+EMP_000877,Stacie Bentley,Mentor,Health,2022-12-04,mitchell55@example.net,Heidi Butler,Workforce Center,1,Education
+EMP_000878,Samantha Wilson,Trainer,Operations,2025-06-28,rebecca36@example.com,Valerie Patel,None,0,Retail
+EMP_000879,Claudia Blanchard,Administrator,Health,2024-10-16,donna96@example.com,Marc Bartlett,None,0,Education
+EMP_000880,Kristopher Taylor,Trainer,Operations,2024-08-01,alexiswilliams@example.org,Brian Martinez,Online Portal,1,Technology
+EMP_000881,William Carr,Case Worker,Finance,2016-04-26,millertina@example.org,Christian Miller,Workforce Center,0,Healthcare
+EMP_000882,Jennifer Colon,Administrator,Operations,2019-01-09,jack18@example.org,Steve Young,None,0,Technology
+EMP_000883,Lisa Griffin,Manager,Finance,2023-05-05,melaniewells@example.net,Allen Williams,Workforce Center,0,Healthcare
+EMP_000884,James Branch,Trainer,Operations,2021-04-02,sierra09@example.com,Nicholas Kim,Workforce Center,0,Technology
+EMP_000885,Karen Fernandez,Case Worker,Health,2017-10-17,michael43@example.com,Carlos Fox,Workforce Center,0,Technology
+EMP_000886,Robert Fernandez,Administrator,Health,2018-08-25,renee98@example.org,Shannon Stewart,Workforce Center,1,Healthcare
+EMP_000887,Michael Williamson,Case Worker,Education,2021-09-18,uphelps@example.org,Mary Jordan,None,1,Education
+EMP_000888,Julie Warner,Administrator,Finance,2020-02-16,carlsonwendy@example.net,Erica Pittman,None,0,Healthcare
+EMP_000889,Douglas Perry,Manager,Operations,2021-05-18,shane62@example.org,Travis Campbell,None,0,Education
+EMP_000890,William Wong,Manager,Operations,2024-03-11,browncaroline@example.org,Terry Trujillo,Online Portal,0,Healthcare
+EMP_000891,Linda Stone,Trainer,Education,2017-09-04,whurst@example.net,Joel Wilson,Online Portal,1,Retail
+EMP_000892,Angelica George,Case Worker,Operations,2017-11-19,wjones@example.org,April Kim,Workforce Center,0,Education
+EMP_000893,Nathan Moore,Case Worker,Education,2022-02-23,brockmariah@example.org,Robert Santos,None,0,Technology
+EMP_000894,Dustin Perry,Trainer,Operations,2025-02-10,rachel38@example.net,Tony Fisher,Online Portal,0,Technology
+EMP_000895,Scott Klein,Trainer,Operations,2021-05-04,ibryant@example.com,Heather Mcgrath,Workforce Center,1,Education
+EMP_000896,George Ortiz DDS,Manager,Finance,2023-06-07,francischristine@example.com,Judy Lawson,None,1,Education
+EMP_000897,Mark Thompson,Manager,Education,2021-02-16,kmunoz@example.com,Kara Hernandez,None,0,Retail
+EMP_000898,Joel Horton,Manager,Finance,2025-05-10,danielle03@example.net,Thomas Morton,Workforce Center,0,Technology
+EMP_000899,Julie Savage,Mentor,Operations,2025-04-25,nathangonzales@example.org,Stacy Roberts,Online Portal,1,Education
+EMP_000900,Karen Mclaughlin,Trainer,Operations,2017-10-01,lisa28@example.net,Jacob Rodriguez,Workforce Center,1,Education
+EMP_000901,Stacey Thompson,Manager,Finance,2025-07-11,patriciacruz@example.org,Cody Miller,Workforce Center,1,Technology
+EMP_000902,Shannon Morales,Manager,Education,2020-07-02,jeffrey80@example.com,Joshua Blankenship,Online Portal,0,Education
+EMP_000903,Matthew Cross,Administrator,Operations,2023-12-24,carterjudith@example.org,Ronald Wright,None,0,Retail
+EMP_000904,Robert Villegas,Trainer,Education,2020-10-31,marymartin@example.com,Julie Jimenez,None,1,Education
+EMP_000905,Dr. Jessica Coleman,Trainer,Health,2017-07-28,richard60@example.net,Michael Williams,Online Portal,1,Technology
+EMP_000906,Benjamin Parker,Manager,Education,2025-03-11,wongmichael@example.org,Jenny Salinas,None,0,Technology
+EMP_000907,Beth Gonzalez,Case Worker,Finance,2015-11-30,joshuaanderson@example.net,Regina Butler,None,1,Technology
+EMP_000908,Leslie Jennings,Manager,Education,2024-05-26,chadstanton@example.org,Rebecca Russell,Online Portal,1,Retail
+EMP_000909,Shirley Johnston,Trainer,Finance,2022-05-13,johnsontheresa@example.org,Sheryl Brown,Workforce Center,1,Healthcare
+EMP_000910,Alejandro Green,Trainer,Health,2017-06-26,vanessawalker@example.org,Meredith Lowe,None,0,Education
+EMP_000911,Molly Carpenter,Manager,Operations,2024-01-22,taylor85@example.net,Michelle Pierce,Online Portal,0,Healthcare
+EMP_000912,Patricia Wolfe,Trainer,Health,2024-08-02,april57@example.net,Nicole Combs,Workforce Center,1,Retail
+EMP_000913,Charles Black,Trainer,Operations,2021-07-02,diazmarcia@example.net,Jon Fitzpatrick,Workforce Center,1,Healthcare
+EMP_000914,Benjamin Villanueva,Manager,Health,2016-03-26,mcole@example.com,Yvonne Thornton,None,1,Healthcare
+EMP_000915,Haley Kim,Manager,Education,2025-04-02,christopher57@example.net,Tammy Goodman,Online Portal,0,Education
+EMP_000916,Bradley Cole,Case Worker,Operations,2022-12-09,josephjohnson@example.org,Charles Fernandez,Online Portal,0,Healthcare
+EMP_000917,Tanya Knight,Mentor,Operations,2020-02-19,timothy76@example.com,Lauren Hall,Online Portal,1,Healthcare
+EMP_000918,Mark Foster,Mentor,Health,2018-07-14,westchloe@example.com,Hannah Lozano,Online Portal,0,Technology
+EMP_000919,Kevin Gonzalez,Case Worker,Education,2016-07-05,hwilliams@example.net,Mark Blake,Workforce Center,0,Technology
+EMP_000920,Christian Fernandez Jr.,Trainer,Education,2016-02-29,cgreen@example.net,Joanna Turner,Workforce Center,0,Technology
+EMP_000921,Cody Jones,Manager,Education,2023-04-28,katrinamaddox@example.net,Taylor Phillips,Workforce Center,0,Education
+EMP_000922,Christopher Wright,Mentor,Finance,2020-10-23,tasha35@example.net,Anthony Williams,None,0,Healthcare
+EMP_000923,Kenneth Aguirre,Mentor,Finance,2022-05-28,wintersjeffrey@example.org,Fred Hubbard,Workforce Center,1,Healthcare
+EMP_000924,Shelly Mercer,Administrator,Operations,2018-01-12,daniellebutler@example.org,Jennifer Thomas,Workforce Center,1,Healthcare
+EMP_000925,Julie Sanchez,Mentor,Operations,2017-08-12,rebecca61@example.org,Reginald Golden,Online Portal,1,Technology
+EMP_000926,Richard Brown,Mentor,Finance,2016-09-06,jennifer77@example.net,Crystal Young,Online Portal,1,Education
+EMP_000927,Stacey Cook,Trainer,Education,2024-07-22,fletcherdebbie@example.org,Roberta Riley,Online Portal,0,Education
+EMP_000928,Casey Marks,Administrator,Education,2023-07-20,jjohnson@example.com,Jeremiah Rodriguez,None,1,Technology
+EMP_000929,Brian Hunt,Trainer,Education,2025-01-26,heather91@example.net,Kimberly Hudson,Workforce Center,1,Education
+EMP_000930,Nicholas Rivera,Trainer,Health,2021-08-05,raylisa@example.org,Carlos Preston,Workforce Center,1,Education
+EMP_000931,Michael Kennedy,Administrator,Operations,2024-06-10,shannon22@example.org,Cody Knapp,None,0,Retail
+EMP_000932,Philip Stokes,Trainer,Operations,2017-11-10,ajames@example.org,Mr. Mark Roberts,None,1,Education
+EMP_000933,Joseph Copeland,Manager,Education,2016-07-21,weberstephen@example.net,Katherine Le,Workforce Center,1,Healthcare
+EMP_000934,Katie Coleman,Trainer,Finance,2025-01-05,mariavaldez@example.net,Tiffany Austin,Workforce Center,0,Education
+EMP_000935,Jennifer Ward,Manager,Operations,2020-02-07,dawn47@example.org,Benjamin Jones,Online Portal,1,Healthcare
+EMP_000936,Heidi Hernandez,Trainer,Education,2019-11-29,daniel40@example.org,Barbara Reynolds,None,0,Retail
+EMP_000937,Toni Phillips,Manager,Finance,2020-05-06,joshua63@example.com,Caleb Mitchell,Workforce Center,0,Healthcare
+EMP_000938,Charles Avila,Administrator,Finance,2020-06-16,ashleywhitehead@example.com,Sarah Lee,Online Portal,1,Education
+EMP_000939,Kevin Hopkins,Administrator,Health,2016-08-10,eperry@example.com,Jodi Lindsey,None,1,Retail
+EMP_000940,Madison Solis,Case Worker,Finance,2022-09-01,danielsolis@example.org,Julie Nelson,Online Portal,1,Technology
+EMP_000941,John Roberts,Manager,Education,2025-10-01,margaret93@example.com,Beth Lewis,Workforce Center,0,Retail
+EMP_000942,Bradley Day,Mentor,Operations,2025-03-05,kaylapaul@example.com,David Hobbs,Workforce Center,1,Healthcare
+EMP_000943,Brian Martin,Trainer,Finance,2019-07-27,sara79@example.com,Sheila Miranda,None,0,Education
+EMP_000944,Eric Brown,Trainer,Finance,2024-06-18,rodriguezdavid@example.org,Chad Doyle DDS,Workforce Center,1,Technology
+EMP_000945,David Taylor,Case Worker,Finance,2023-12-24,hernandezdavid@example.com,Janet Rosario,Workforce Center,1,Retail
+EMP_000946,Danielle Brown,Mentor,Health,2016-10-13,jonathan59@example.org,Michael Savage,None,0,Retail
+EMP_000947,Joshua Jackson,Trainer,Health,2021-06-27,cduncan@example.org,Mrs. Amanda Quinn MD,Workforce Center,1,Education
+EMP_000948,Calvin Burgess,Mentor,Operations,2018-01-02,kellypadilla@example.com,Ryan Smith,None,1,Technology
+EMP_000949,William Soto MD,Mentor,Health,2021-08-24,kylie67@example.net,Claire Thomas,None,1,Retail
+EMP_000950,Joseph Phillips,Manager,Health,2022-01-18,ymcdonald@example.com,Cameron Gardner,Workforce Center,1,Retail
+EMP_000951,Nicolas Wise,Manager,Operations,2020-01-09,brooke79@example.net,Jenny Owens,Online Portal,0,Education
+EMP_000952,Vincent Prince,Mentor,Education,2017-03-11,wrighttina@example.com,Mr. Paul Lin,Workforce Center,1,Technology
+EMP_000953,Katrina Davis,Manager,Finance,2024-10-18,julierodriguez@example.com,Sharon Vaughan,None,1,Retail
+EMP_000954,Austin Cooper,Manager,Finance,2017-06-21,ingramrussell@example.com,Latasha Petersen DDS,None,1,Retail
+EMP_000955,Steven Reid,Manager,Finance,2021-09-24,sandrasmith@example.com,Christy Ayala,None,0,Healthcare
+EMP_000956,Justin Williamson,Trainer,Health,2020-01-19,monica23@example.org,Christine Reed,Online Portal,1,Education
+EMP_000957,Mary Macdonald,Trainer,Education,2021-05-16,mooresteven@example.net,Craig Greene,Workforce Center,1,Technology
+EMP_000958,Jenny Bowman,Manager,Health,2017-03-24,karajackson@example.net,Miss Laura Schmidt DVM,None,1,Education
+EMP_000959,Carla Little,Administrator,Education,2017-09-17,amandarivas@example.com,Jesse Garza,Online Portal,0,Technology
+EMP_000960,Jennifer Bowers,Administrator,Finance,2020-12-28,maldonadocandace@example.com,Andrea Thomas,None,1,Technology
+EMP_000961,David Obrien,Case Worker,Education,2025-01-13,proctormichael@example.net,Tiffany Silva,Workforce Center,0,Retail
+EMP_000962,Brian Montgomery,Case Worker,Operations,2017-04-01,hwilliams@example.net,Samantha Mcbride,None,1,Technology
+EMP_000963,Julie Davis,Manager,Education,2018-02-09,ksantos@example.com,Nathaniel Murray,None,1,Healthcare
+EMP_000964,Amanda Stewart,Administrator,Operations,2022-03-06,velezanthony@example.org,Bailey Mathis,Workforce Center,0,Education
+EMP_000965,Christopher Mckee,Trainer,Health,2022-10-19,davidlopez@example.org,Jose Paul,Workforce Center,0,Retail
+EMP_000966,Krista Arroyo,Case Worker,Education,2019-11-29,fordralph@example.org,Sarah Chavez,Workforce Center,1,Technology
+EMP_000967,Erik Howard,Mentor,Education,2020-09-18,xlevy@example.net,Tracy Zuniga,Online Portal,0,Retail
+EMP_000968,Robert Hughes,Manager,Education,2024-03-16,eugenehunt@example.org,Donald Lopez,Online Portal,0,Healthcare
+EMP_000969,Keith Lee,Administrator,Operations,2020-10-10,smithcatherine@example.org,Kaitlyn Orozco,Workforce Center,0,Healthcare
+EMP_000970,Melissa Hendricks,Case Worker,Finance,2025-08-09,hcoffey@example.com,Ruth Carter,Workforce Center,1,Healthcare
+EMP_000971,Frank Farmer,Mentor,Education,2023-04-22,carlajordan@example.net,Katherine Black MD,Online Portal,0,Healthcare
+EMP_000972,Larry Foster,Case Worker,Education,2016-07-28,stacy72@example.org,Laura Mcclain,Online Portal,0,Retail
+EMP_000973,Jonathan Clark,Mentor,Operations,2016-11-19,dillon40@example.com,Jessica Gutierrez,Online Portal,0,Education
+EMP_000974,Hector Griffin,Administrator,Education,2024-04-16,upineda@example.org,Laura Wilson,Workforce Center,1,Education
+EMP_000975,Luis Vasquez,Manager,Operations,2017-10-03,steveperry@example.net,Benjamin Hawkins,None,0,Healthcare
+EMP_000976,Kenneth Lowery,Mentor,Health,2025-05-13,grahamdavid@example.org,Mary Green,Online Portal,1,Education
+EMP_000977,Jessica Dunn,Case Worker,Education,2019-01-17,fernando03@example.com,John Torres,Online Portal,1,Healthcare
+EMP_000978,Catherine Lewis,Administrator,Health,2025-05-16,tdominguez@example.com,Elizabeth Holt,None,0,Retail
+EMP_000979,Natalie Miller,Trainer,Finance,2019-05-18,sherryporter@example.net,Jane Duncan,Online Portal,1,Retail
+EMP_000980,Paul Cole,Mentor,Operations,2022-01-14,mullinsmark@example.com,Daniel Brock,Workforce Center,0,Education
+EMP_000981,Peggy Blake,Mentor,Health,2018-02-06,tenglish@example.org,Sean Fox,None,0,Technology
+EMP_000982,Jennifer Wilson,Administrator,Operations,2022-02-22,sheenacharles@example.org,Jamie Adams,None,1,Retail
+EMP_000983,Mark Ramirez,Manager,Operations,2019-09-21,lisa32@example.com,Daniel Bowers,None,1,Retail
+EMP_000984,Benjamin Montgomery,Case Worker,Finance,2022-03-25,jacobsrandy@example.net,Kerri Cooper,Online Portal,0,Retail
+EMP_000985,Lisa Bailey,Mentor,Operations,2020-03-17,veronica41@example.com,Kyle Nelson,None,1,Education
+EMP_000986,Ronnie Harris,Administrator,Operations,2024-08-09,joanvaldez@example.net,Dennis David,Workforce Center,1,Retail
+EMP_000987,Danielle Vazquez,Trainer,Operations,2018-01-28,harmonrussell@example.com,Kimberly Bruce,Workforce Center,0,Education
+EMP_000988,Travis Gonzales,Manager,Education,2025-02-14,leonmatthew@example.org,Anthony Kirk,None,0,Technology
+EMP_000989,Richard Saunders,Mentor,Education,2023-11-12,timothyolson@example.com,Kenneth Bonilla,Workforce Center,1,Retail
+EMP_000990,Cassidy Obrien,Administrator,Finance,2017-08-30,martinmaria@example.com,Stephen Miller,None,1,Education
+EMP_000991,Jeremy Peterson,Case Worker,Finance,2021-01-19,patrick01@example.net,Daniel Johnston,Workforce Center,1,Technology
+EMP_000992,Derek Dixon,Administrator,Finance,2025-04-02,lwilliams@example.org,Jennifer Chapman,Online Portal,1,Technology
+EMP_000993,Holly Bell,Mentor,Finance,2023-03-10,erik68@example.org,Kayla Salazar,Online Portal,0,Retail
+EMP_000994,Melissa Gonzalez,Administrator,Operations,2019-12-18,hsims@example.org,Jacqueline Strickland,None,0,Education
+EMP_000995,Sarah Medina,Manager,Operations,2024-04-21,daviseric@example.org,Megan Brown,Workforce Center,0,Education
+EMP_000996,Jerry Chavez,Manager,Education,2021-11-15,turnerkurt@example.com,Michelle Davenport,None,0,Education
+EMP_000997,Drew Perry,Case Worker,Health,2017-06-03,anthony22@example.com,Brandon Walker,Workforce Center,1,Retail
+EMP_000998,Ryan Murphy,Case Worker,Finance,2023-04-01,cynthia17@example.net,John Benjamin,None,0,Healthcare
+EMP_000999,Dr. Jessica Willis,Manager,Education,2018-02-17,randall84@example.com,Stephanie Wong,Online Portal,1,Technology
+EMP_001000,Lynn Williamson PhD,Administrator,Health,2019-02-18,lisa80@example.com,David Crane,Online Portal,1,Retail
+EMP_001001,Kyle Quinn,Mentor,Health,2023-04-23,joycedavis@example.net,Felicia Arnold,None,0,Education
+EMP_001002,Darrell George,Mentor,Education,2017-01-10,howellcindy@example.com,Charles Chapman,Online Portal,1,Technology
+EMP_001003,Jill Douglas,Manager,Education,2017-01-22,mlewis@example.com,Kelly Collins,Workforce Center,0,Healthcare
+EMP_001004,Jaime Moore,Case Worker,Health,2021-02-16,tlewis@example.org,Caitlin Ferguson,None,1,Healthcare
+EMP_001005,Robert Koch,Trainer,Finance,2023-12-24,hrogers@example.com,Christopher Smith,Online Portal,1,Technology
+EMP_001006,Robert Miranda DDS,Case Worker,Education,2016-09-09,allisonortiz@example.org,Daniel Norman,Workforce Center,1,Healthcare
+EMP_001007,Sarah Smith,Mentor,Education,2022-05-20,marydean@example.com,Lindsey Mcclain,None,1,Healthcare
+EMP_001008,Alyssa Mitchell,Administrator,Education,2025-07-17,hernandezamanda@example.org,James Terry,Workforce Center,1,Retail
+EMP_001009,Christine Kelley,Trainer,Finance,2023-08-08,wjones@example.net,Doris Bradley,Workforce Center,1,Education
+EMP_001010,Megan Flores,Case Worker,Finance,2018-03-28,kenneth86@example.net,Tammy Cunningham,Online Portal,1,Education
+EMP_001011,Christopher Hendricks,Trainer,Education,2017-12-27,jeremy80@example.org,Anthony Hicks,Workforce Center,0,Education
+EMP_001012,Cheryl Boyd,Case Worker,Operations,2023-10-25,smartinez@example.net,Michelle Mason,Online Portal,1,Healthcare
+EMP_001013,Gregory Brandt,Mentor,Finance,2021-04-16,barnesbailey@example.com,Elizabeth Brooks,Online Portal,0,Retail
+EMP_001014,Elizabeth Garcia,Trainer,Health,2017-04-05,xflores@example.com,Kristine Trujillo,None,1,Education
+EMP_001015,Robert Ruiz,Trainer,Education,2018-06-08,marcusrowe@example.net,Joel Smith,None,1,Retail
+EMP_001016,Karina Cain,Manager,Health,2023-12-06,tramirez@example.com,Tabitha Leonard,None,0,Education
+EMP_001017,Justin Baird,Trainer,Health,2024-03-15,charles15@example.net,Claire Cummings,None,0,Education
+EMP_001018,David Washington,Manager,Education,2022-08-08,michael77@example.net,Jeffrey Smith,Workforce Center,0,Retail
+EMP_001019,Deanna Pierce,Case Worker,Education,2018-09-23,chad98@example.net,Zachary Henderson,Workforce Center,1,Education
+EMP_001020,Brittany Adkins,Trainer,Finance,2018-05-11,sbrown@example.net,Amber Riley,Workforce Center,0,Retail
+EMP_001021,Diana Ross,Manager,Finance,2021-06-16,kheath@example.org,Drew Medina,Workforce Center,0,Education
+EMP_001022,Timothy Bishop,Manager,Health,2025-07-18,michael53@example.org,Lynn James,Workforce Center,0,Technology
+EMP_001023,Jeff Miller,Administrator,Education,2018-04-24,jessica42@example.net,Emily Conner,Online Portal,0,Education
+EMP_001024,James Smith,Case Worker,Education,2022-02-06,paulsteele@example.com,Daniel Young,None,1,Healthcare
+EMP_001025,Robert Alexander,Administrator,Education,2024-08-23,samuel42@example.org,Savannah Howell,None,1,Healthcare
+EMP_001026,Timothy Smith,Manager,Education,2018-07-06,joshuamurray@example.net,Bryan Benitez,Online Portal,1,Retail
+EMP_001027,Hunter Walker,Mentor,Finance,2022-01-01,bpineda@example.com,Michelle Wilson,Online Portal,1,Technology
+EMP_001028,Savannah Smith,Mentor,Finance,2024-06-11,marcus75@example.org,Kristi Hart,None,0,Technology
+EMP_001029,Michael Guzman,Manager,Operations,2024-11-20,anna10@example.net,Christopher Williams,Workforce Center,0,Retail
+EMP_001030,Michael Pineda,Manager,Operations,2018-01-07,breanna27@example.org,Jeffrey Williams,Online Portal,1,Healthcare
+EMP_001031,Mary Jordan,Manager,Education,2024-05-11,nicholas76@example.com,Melissa Sharp,Workforce Center,0,Healthcare
+EMP_001032,Lisa Walter,Manager,Education,2018-11-06,cummingsbridget@example.net,Justin Anderson,None,1,Retail
+EMP_001033,Nicholas Jenkins,Manager,Operations,2018-06-26,pagekathleen@example.org,Lindsay Hayes,None,1,Technology
+EMP_001034,Paula Cameron,Mentor,Education,2022-04-30,lindsaylewis@example.org,Gregory Whitney,Workforce Center,0,Healthcare
+EMP_001035,Katherine Mccormick,Trainer,Operations,2020-06-07,lperez@example.net,Jonathan Hartman,Workforce Center,1,Education
+EMP_001036,Joshua Shaw,Manager,Health,2018-03-31,jessicaclark@example.net,Kim Mitchell,None,0,Technology
+EMP_001037,William Collins,Administrator,Operations,2024-06-23,justindiaz@example.org,Wanda Gonzalez PhD,Workforce Center,0,Healthcare
+EMP_001038,Lauren Howe,Trainer,Education,2018-03-10,richard15@example.org,Nicholas Olsen,Workforce Center,0,Education
+EMP_001039,Cody Schmidt,Case Worker,Education,2022-05-07,anthonyburton@example.org,John Benitez,Workforce Center,1,Healthcare
+EMP_001040,Jeremiah Burke,Administrator,Finance,2021-06-20,meyersandrew@example.net,Kelly Brown,None,0,Technology
+EMP_001041,Catherine Mcknight,Case Worker,Education,2018-05-01,zhodge@example.com,Sarah Davis,Online Portal,0,Technology
+EMP_001042,Leslie Thomas,Case Worker,Finance,2021-07-04,williamsonsteven@example.com,Alexander Mejia,Online Portal,0,Education
+EMP_001043,Peter Smith,Mentor,Operations,2016-12-23,denise82@example.org,Robert Brown,Online Portal,1,Retail
+EMP_001044,James Salinas,Manager,Operations,2016-12-28,davidsonrick@example.com,Geoffrey Ortega,None,1,Healthcare
+EMP_001045,Lindsay Christensen,Manager,Education,2023-09-07,alan96@example.com,Karen Adams,None,1,Education
+EMP_001046,Courtney Best,Case Worker,Health,2024-10-24,brandonhill@example.com,Jacob Soto,None,1,Education
+EMP_001047,Aaron Roberts,Case Worker,Health,2021-01-10,kimberlyduncan@example.com,Kelli Martin,Online Portal,0,Technology
+EMP_001048,April Fleming,Mentor,Health,2022-02-03,russellgabrielle@example.net,Alec Winters,Online Portal,1,Healthcare
+EMP_001049,Susan Gibson,Mentor,Education,2023-10-01,matthew10@example.com,Robert Jones,None,0,Healthcare
+EMP_001050,Angela Wells,Administrator,Education,2016-05-16,mcdowellshannon@example.net,Sharon Glover,Online Portal,1,Healthcare
+EMP_001051,Maria Franco,Manager,Health,2019-10-09,imccoy@example.org,Cheryl Lewis,Online Portal,0,Education
+EMP_001052,Stephanie Hill,Case Worker,Health,2022-10-22,michael35@example.net,Becky Ramirez,Online Portal,0,Technology
+EMP_001053,Samuel Bennett,Manager,Finance,2018-01-14,hgonzalez@example.com,Lisa Dennis,Online Portal,1,Technology
+EMP_001054,Denise Dougherty,Manager,Finance,2024-05-23,fjackson@example.org,Jonathan Brown,Workforce Center,0,Education
+EMP_001055,David Henry,Trainer,Education,2021-01-09,gwagner@example.com,Tara Wilson,Workforce Center,1,Healthcare
+EMP_001056,Theresa Evans,Mentor,Operations,2021-10-20,yevans@example.net,Tammy Benitez,None,0,Technology
+EMP_001057,Lindsay Rodriguez,Case Worker,Finance,2025-11-12,barbara30@example.net,Thomas Duran,Workforce Center,0,Healthcare
+EMP_001058,Derek Wallace,Trainer,Health,2017-08-27,garyvillarreal@example.com,Ronald Hernandez,None,0,Healthcare
+EMP_001059,Laura Bowen,Trainer,Health,2023-02-23,karinalawrence@example.net,Thomas Reeves,None,0,Healthcare
+EMP_001060,Robert Aguirre,Manager,Health,2025-05-23,david62@example.org,Kenneth York,None,0,Retail
+EMP_001061,Jeremy Foster,Trainer,Operations,2020-09-18,wthomas@example.com,Christopher Barnes,None,1,Retail
+EMP_001062,Parker Williams,Case Worker,Finance,2016-09-15,joyce00@example.org,Joseph Davies,None,1,Education
+EMP_001063,Todd Foster,Case Worker,Operations,2025-11-09,ojames@example.net,Mr. Nathan Harris DDS,None,0,Retail
+EMP_001064,Catherine Roberson,Case Worker,Operations,2016-01-22,guerrabecky@example.org,Timothy Browning,None,1,Technology
+EMP_001065,Carlos Medina,Mentor,Education,2016-02-28,ianwilkerson@example.net,Barbara Smith,None,0,Retail
+EMP_001066,David Gonzalez,Trainer,Operations,2016-04-23,loricline@example.com,Kenneth Miranda,None,1,Technology
+EMP_001067,Kevin Gomez,Administrator,Finance,2020-05-09,lhansen@example.com,Clayton Henderson,Online Portal,0,Technology
+EMP_001068,Michael Baker,Administrator,Operations,2024-07-29,hbest@example.com,Frank Fitzpatrick,Online Portal,0,Technology
+EMP_001069,Russell Phillips,Trainer,Health,2016-11-05,kelly24@example.org,Sheryl James,Online Portal,0,Retail
+EMP_001070,Steven Everett,Trainer,Operations,2018-09-11,andersonrenee@example.com,Melissa Irwin,Online Portal,0,Retail
+EMP_001071,Jessica Colon,Case Worker,Health,2021-08-22,yzuniga@example.net,Kimberly Williams,Workforce Center,1,Retail
+EMP_001072,Janet Galvan,Administrator,Finance,2019-03-12,nathan46@example.net,Vanessa Baker,None,0,Retail
+EMP_001073,Susan King,Manager,Education,2025-05-18,carmenmccormick@example.net,Louis Donaldson,None,1,Education
+EMP_001074,Ricky Barker,Mentor,Operations,2019-11-27,jordan80@example.net,Jonathan Rollins,Workforce Center,1,Healthcare
+EMP_001075,Mary Ross,Manager,Finance,2016-11-08,juliawalker@example.net,Julie Tucker,None,1,Education
+EMP_001076,Kimberly Rodriguez,Trainer,Finance,2021-12-13,adamsallison@example.net,Leslie Long,Workforce Center,0,Healthcare
+EMP_001077,Terry Jones,Case Worker,Operations,2019-10-23,tara73@example.net,Kevin Stone,Workforce Center,1,Technology
+EMP_001078,Heather Harrell,Trainer,Finance,2019-01-24,johnsoncasey@example.net,Janice Holmes MD,Workforce Center,0,Healthcare
+EMP_001079,Jennifer Graves,Administrator,Health,2024-07-11,vlane@example.org,Michael Fisher,Online Portal,0,Retail
+EMP_001080,Tanya Martinez,Administrator,Health,2024-08-01,emmahoffman@example.net,Lisa Miller,Workforce Center,1,Retail
+EMP_001081,Mark Evans,Manager,Finance,2021-07-28,christina78@example.net,Ian Wang,None,1,Education
+EMP_001082,Carrie Williams,Mentor,Health,2020-08-30,otran@example.org,Faith Duran,Online Portal,1,Technology
+EMP_001083,Curtis Morris,Manager,Finance,2020-11-22,jenniferhurley@example.org,David Weaver,Workforce Center,0,Technology
+EMP_001084,Richard Pollard,Manager,Education,2019-02-14,justinthompson@example.net,Christine Rodriguez,Workforce Center,1,Retail
+EMP_001085,Chad Nguyen,Case Worker,Finance,2016-07-29,johnsonhannah@example.com,Daniel Gomez,Online Portal,0,Retail
+EMP_001086,Ashley Solis,Manager,Finance,2021-03-13,tchapman@example.org,Adam Elliott,None,1,Technology
+EMP_001087,Christian Villa,Administrator,Education,2020-08-21,elizabeth61@example.org,Steven Farrell,None,1,Technology
+EMP_001088,Beth Friedman,Administrator,Education,2017-02-25,vconner@example.net,Brianna Williams,Online Portal,1,Technology
+EMP_001089,Johnny Hodge,Case Worker,Operations,2020-04-29,donald28@example.net,Amanda King,None,0,Education
+EMP_001090,Brent Peters,Manager,Education,2017-05-16,christopher13@example.net,Henry Wolfe,Online Portal,1,Education
+EMP_001091,Lauren Williams,Manager,Finance,2020-11-07,maddenemma@example.org,Scott Browning,Workforce Center,1,Healthcare
+EMP_001092,Angela Gonzalez,Trainer,Health,2016-11-26,davenporttimothy@example.org,Jordan Cantu,Online Portal,0,Retail
+EMP_001093,Robert Reynolds,Mentor,Education,2020-12-12,josephsharon@example.net,Jenna Daniel,None,1,Healthcare
+EMP_001094,Jennifer Mercer,Case Worker,Operations,2023-10-09,sullivanalexander@example.org,John Mcclure,None,1,Education
+EMP_001095,Alexander Lewis,Administrator,Education,2020-08-11,greggruiz@example.org,Derek Cooper,Online Portal,1,Healthcare
+EMP_001096,Vanessa Fuller,Case Worker,Operations,2016-02-10,miguel23@example.net,Melissa Crawford PhD,Workforce Center,1,Retail
+EMP_001097,Tracey Williams,Administrator,Health,2016-10-25,kevinbanks@example.com,Thomas Gray,Workforce Center,1,Healthcare
+EMP_001098,Kelly Shaffer,Administrator,Education,2017-03-05,adiaz@example.org,Megan Pratt,Online Portal,1,Healthcare
+EMP_001099,Sandra Hansen,Administrator,Operations,2015-12-05,melissa50@example.net,Deborah Washington,Online Portal,0,Healthcare
+EMP_001100,Nancy Brady,Administrator,Health,2017-06-10,xjohnston@example.com,Omar Sutton,Workforce Center,1,Healthcare
+EMP_001101,Kendra Hayden,Mentor,Operations,2016-03-20,nealjason@example.com,Robert Bennett,None,0,Healthcare
+EMP_001102,Amber Greer,Trainer,Operations,2022-05-19,crystalcole@example.net,Destiny Cowan,Workforce Center,0,Healthcare
+EMP_001103,James Collins,Mentor,Operations,2025-10-21,yramirez@example.org,Christine Wood,None,0,Education
+EMP_001104,Andrew Martin,Administrator,Education,2023-06-01,shane93@example.com,Elizabeth Li,Online Portal,0,Retail
+EMP_001105,Ian Flowers,Administrator,Health,2016-10-18,patricia46@example.com,Jennifer Zimmerman,Workforce Center,0,Education
+EMP_001106,Mary Jones,Case Worker,Education,2022-09-20,teresa15@example.org,Patricia Hill,None,0,Education
+EMP_001107,Paul Ryan,Mentor,Education,2018-03-22,angela29@example.org,Travis Coleman,Workforce Center,0,Retail
+EMP_001108,Ryan Stone,Trainer,Operations,2024-09-01,karina05@example.com,Matthew Anderson,Workforce Center,1,Healthcare
+EMP_001109,Virginia Williams,Manager,Health,2020-05-23,kimberly40@example.net,Vincent Miller,Workforce Center,1,Education
+EMP_001110,Andrew Foster MD,Manager,Finance,2025-09-03,gonzalezjennifer@example.com,Karen Acosta,Online Portal,1,Technology
+EMP_001111,Bradley Williams,Case Worker,Education,2016-06-28,gjones@example.com,Michael Petersen,Workforce Center,0,Education
+EMP_001112,Mark Phillips,Mentor,Education,2021-03-06,christynichols@example.com,Jennifer Griffin,Online Portal,1,Education
+EMP_001113,Jennifer Macdonald,Administrator,Education,2024-09-20,robertkaiser@example.org,Jamie Miller,Online Portal,0,Healthcare
+EMP_001114,Brian Lang,Manager,Operations,2021-05-01,tvargas@example.com,Adrienne Brown,None,1,Technology
+EMP_001115,Jenna Porter,Manager,Finance,2020-03-05,ocummings@example.com,James Petersen,Workforce Center,1,Technology
+EMP_001116,Eric Bell DDS,Manager,Health,2020-07-31,nicolegillespie@example.com,James Mitchell,Online Portal,1,Technology
+EMP_001117,Jessica White,Administrator,Operations,2018-08-10,ymorse@example.org,Susan Johnson,None,1,Education
+EMP_001118,Robert Martin,Manager,Health,2025-05-09,brucesmith@example.net,Kelly Ellison,Workforce Center,0,Education
+EMP_001119,Mr. Andrew Huffman,Trainer,Operations,2021-12-07,iwolf@example.net,Jessica Ross,Workforce Center,0,Healthcare
+EMP_001120,Lauren Martin,Case Worker,Health,2017-10-10,rodriguezmichael@example.com,Gary Hart,Workforce Center,0,Healthcare
+EMP_001121,Barbara Morgan,Manager,Finance,2025-06-09,jeffreykennedy@example.org,Phyllis Berry,Online Portal,0,Technology
+EMP_001122,Samantha Delgado,Administrator,Finance,2025-01-27,bettyanderson@example.org,Joseph Mitchell,Workforce Center,1,Healthcare
+EMP_001123,Allison Evans,Administrator,Education,2022-01-06,fdavid@example.org,Carol Morrison,None,0,Retail
+EMP_001124,Jared Bowen,Manager,Operations,2024-02-08,sarawilson@example.com,Pamela Levy,Online Portal,0,Technology
+EMP_001125,Brittany Alexander,Administrator,Operations,2024-07-08,christopherjensen@example.com,Nicole Ross,Online Portal,0,Education
+EMP_001126,Jennifer Wood,Trainer,Health,2025-07-11,gjones@example.com,Jacob Anderson,Online Portal,1,Healthcare
+EMP_001127,Heather Marshall,Case Worker,Education,2024-01-03,jessica40@example.net,Christopher Nash,Online Portal,1,Healthcare
+EMP_001128,Paula Davis,Administrator,Finance,2024-10-10,croberts@example.net,Patrick King,None,0,Education
+EMP_001129,Robert Doyle,Manager,Operations,2020-04-05,robertmcconnell@example.org,Louis Townsend,None,0,Retail
+EMP_001130,Benjamin Parsons,Administrator,Health,2019-01-29,jcowan@example.com,Eric Gonzalez,Workforce Center,0,Retail
+EMP_001131,Tammy Mora,Manager,Health,2021-09-18,jacqueline84@example.org,Andrea Perry,Online Portal,0,Retail
+EMP_001132,Ashley Long,Case Worker,Operations,2019-10-12,daisylee@example.net,Michael French,Workforce Center,1,Education
+EMP_001133,Phillip Lee,Case Worker,Education,2019-02-15,george15@example.com,Evelyn Ramirez,Online Portal,0,Healthcare
+EMP_001134,Kyle Kelley,Administrator,Operations,2024-04-27,rwilliams@example.com,Douglas Edwards,None,1,Technology
+EMP_001135,Tiffany Mccoy,Trainer,Education,2018-09-14,osmith@example.org,Damon Hooper,None,0,Education
+EMP_001136,Katherine Taylor,Case Worker,Finance,2022-05-27,zwilliams@example.com,Justin Jordan,None,0,Healthcare
+EMP_001137,Dustin Robertson,Mentor,Finance,2018-10-28,jeffreyking@example.com,Ann Cooper,None,0,Technology
+EMP_001138,Renee Bailey,Mentor,Operations,2018-04-02,holtwendy@example.net,Joseph Zhang,Workforce Center,0,Education
+EMP_001139,Diane Wheeler,Mentor,Education,2017-01-11,jeffrey15@example.com,Martin Daugherty,Online Portal,0,Education
+EMP_001140,Benjamin Patel,Mentor,Health,2024-07-02,rebecca80@example.com,James Turner,None,0,Education
+EMP_001141,Sandra Wise,Mentor,Finance,2021-08-14,davischad@example.net,Morgan Baxter,Workforce Center,1,Education
+EMP_001142,Cindy Richards,Mentor,Finance,2020-05-07,cherylwilson@example.net,Michael Tyler,Workforce Center,0,Healthcare
+EMP_001143,Mary Mccullough,Mentor,Education,2019-02-26,anthony88@example.org,Randy Sanchez,Workforce Center,1,Technology
+EMP_001144,Tony Murray,Manager,Health,2025-10-07,cameron04@example.net,Jennifer Stevens,Online Portal,1,Retail
+EMP_001145,Kevin Erickson,Manager,Finance,2025-03-20,cpugh@example.net,Kevin Berg,None,1,Healthcare
+EMP_001146,Joseph Cortez,Administrator,Health,2017-01-14,mdean@example.org,Tamara Harmon,Workforce Center,1,Technology
+EMP_001147,Gabrielle Page,Administrator,Operations,2016-04-03,sheltontaylor@example.org,Brooke Reed,Online Portal,1,Technology
+EMP_001148,Frederick Daniels,Mentor,Health,2023-07-10,terrybilly@example.org,Laura Yoder,None,0,Education
+EMP_001149,Christine Espinoza,Administrator,Health,2018-11-08,perezandrea@example.org,James Rodriguez,None,1,Retail
+EMP_001150,Brian Johnson,Trainer,Operations,2025-05-16,tracywilliams@example.com,Debra Hanson,Workforce Center,0,Healthcare
+EMP_001151,Brandy Anderson,Manager,Operations,2025-07-03,eric34@example.com,Michelle Rose,Workforce Center,1,Healthcare
+EMP_001152,Jennifer Wright,Case Worker,Operations,2018-05-30,phamwilliam@example.net,Scott Frank,Online Portal,0,Technology
+EMP_001153,Jose Macias,Trainer,Education,2023-09-14,sherry04@example.org,Mark Buck,Online Portal,0,Healthcare
+EMP_001154,Andrew Hale,Trainer,Health,2025-06-10,smithkatherine@example.com,George Arias,None,0,Education
+EMP_001155,Nicole Brooks,Administrator,Finance,2017-09-12,david62@example.net,Kristine Brown,Workforce Center,1,Retail
+EMP_001156,Steven Crawford,Case Worker,Health,2024-12-02,crystal42@example.com,Julian Porter,None,0,Technology
+EMP_001157,Jennifer Smith,Manager,Finance,2021-08-24,perezjason@example.org,Matthew Smith,None,0,Healthcare
+EMP_001158,Justin Douglas,Mentor,Education,2018-11-15,meyerdonna@example.org,Earl Michael,None,1,Technology
+EMP_001159,Reginald Morris,Case Worker,Operations,2018-06-18,rowlandtiffany@example.org,Paul Reid,None,1,Retail
+EMP_001160,Crystal Washington,Administrator,Health,2021-09-14,dcoleman@example.net,David Rodriguez,Workforce Center,1,Technology
+EMP_001161,David Hobbs,Mentor,Health,2024-04-04,katherinecurtis@example.net,Amanda Martinez,Online Portal,1,Healthcare
+EMP_001162,Tyler Roth,Administrator,Education,2016-08-13,mark92@example.com,Kevin Turner,Online Portal,0,Retail
+EMP_001163,Jessica Smith,Mentor,Health,2020-10-15,parkerjuan@example.org,Andre Villanueva,Workforce Center,1,Retail
+EMP_001164,Amber Perry,Manager,Operations,2022-04-23,kelly85@example.net,Lauren Alexander,Online Portal,0,Education
+EMP_001165,Philip Johnson,Mentor,Education,2019-10-04,youngomar@example.net,David Vargas,Online Portal,1,Retail
+EMP_001166,Janice Walls,Mentor,Health,2017-06-11,portergabriel@example.net,Jennifer Ortiz,Workforce Center,0,Education
+EMP_001167,Catherine Kidd,Mentor,Finance,2025-07-05,stevensmadeline@example.com,Caleb Henry,Online Portal,0,Healthcare
+EMP_001168,Matthew Clayton,Case Worker,Operations,2018-02-16,jbrennan@example.net,Jacqueline Miller,Workforce Center,1,Education
+EMP_001169,Tammy Clay,Trainer,Health,2017-03-05,hgilbert@example.com,James Jenkins,Online Portal,0,Healthcare
+EMP_001170,Elizabeth Simmons,Manager,Finance,2015-11-30,jrowland@example.net,Mary Morris,Online Portal,0,Education
+EMP_001171,David Reyes,Manager,Education,2016-06-20,cbennett@example.com,Mike Fleming,Online Portal,1,Retail
+EMP_001172,Robert Meyers DDS,Case Worker,Finance,2020-12-06,ostevenson@example.org,Bruce Mitchell,Online Portal,0,Healthcare
+EMP_001173,Kelly Richardson,Case Worker,Education,2024-06-19,umorales@example.com,Stephen Andrews,Online Portal,0,Education
+EMP_001174,Jane Simpson,Manager,Finance,2020-08-28,charles58@example.org,Nicole Brown,None,0,Retail
+EMP_001175,Ryan Eaton,Manager,Operations,2022-09-07,sylvia40@example.net,Nicole Velasquez,None,1,Healthcare
+EMP_001176,Stephen Hanna,Administrator,Operations,2025-04-08,kiara17@example.org,Kristie Rogers,Online Portal,0,Healthcare
+EMP_001177,Alejandra Suarez,Case Worker,Finance,2024-07-27,erinsanchez@example.com,Leslie Carter,Online Portal,1,Healthcare
+EMP_001178,Wanda Austin,Trainer,Health,2017-01-01,carlossalazar@example.com,Lori Taylor,Online Portal,0,Technology
+EMP_001179,Stephen Morrow,Trainer,Education,2017-12-04,osampson@example.org,Kayla Guzman,Online Portal,1,Technology
+EMP_001180,Chad Vega,Manager,Education,2017-11-07,brandonstewart@example.net,Morgan Raymond,Workforce Center,1,Retail
+EMP_001181,Chad Cooper,Case Worker,Finance,2024-12-27,johnsondeborah@example.net,Michael Mendez,Workforce Center,1,Technology
+EMP_001182,Jason Lane,Case Worker,Finance,2025-05-27,ashleybailey@example.net,Jaclyn Porter,Workforce Center,1,Healthcare
+EMP_001183,Mary Dyer,Administrator,Finance,2018-10-18,fwebster@example.net,Donna Lopez,Workforce Center,1,Technology
+EMP_001184,Tammy Blanchard,Case Worker,Education,2022-08-11,jonesbrian@example.net,David Spence,Workforce Center,0,Retail
+EMP_001185,Cameron Brown,Mentor,Education,2019-08-01,jtaylor@example.org,Christina Miranda,None,1,Retail
+EMP_001186,Stephanie Strong,Manager,Finance,2023-01-04,fschwartz@example.net,Stephen Morris,Online Portal,1,Healthcare
+EMP_001187,Robert Myers,Mentor,Finance,2025-06-24,davilakristen@example.org,Annette Mcbride,None,0,Retail
+EMP_001188,Derek Sanchez,Mentor,Finance,2023-01-27,pettysamuel@example.org,Gary Rodriguez,Workforce Center,1,Healthcare
+EMP_001189,Joshua Hansen,Administrator,Operations,2018-12-23,christopher01@example.org,Rebecca Henderson,Workforce Center,0,Retail
+EMP_001190,Jennifer Wolfe,Administrator,Education,2025-02-25,shermannatasha@example.com,Erin Stokes,Workforce Center,1,Technology
+EMP_001191,Joseph Lang,Case Worker,Operations,2025-01-13,bgentry@example.com,Dr. Jennifer Hebert,None,0,Education
+EMP_001192,Ashley Edwards,Administrator,Operations,2022-02-06,gonzalezmark@example.net,Cheryl Herrera,None,1,Retail
+EMP_001193,Mrs. Danielle Blair PhD,Administrator,Finance,2019-08-30,rubiosusan@example.com,William Hawkins,None,1,Retail
+EMP_001194,Justin Montoya,Case Worker,Operations,2020-07-15,mccallpatrick@example.org,Daniel English,Online Portal,0,Retail
+EMP_001195,Jason Shah,Mentor,Finance,2023-03-23,weeksryan@example.net,Laura Spencer,Workforce Center,1,Education
+EMP_001196,Christina Schultz,Mentor,Finance,2018-11-06,fowlercarrie@example.org,Barbara Barker,None,0,Education
+EMP_001197,Elizabeth Meadows,Trainer,Health,2021-07-15,lsmith@example.com,Tim Williamson,Online Portal,0,Education
+EMP_001198,Alexandra Smith,Administrator,Health,2024-07-29,romanmatthew@example.net,Karen Thomas,Workforce Center,0,Education
+EMP_001199,Ashley Lynch,Mentor,Operations,2023-09-21,cole04@example.net,Jeffrey Phillips,Online Portal,1,Technology
+EMP_001200,Michele Perez,Trainer,Education,2018-05-04,cdaniels@example.net,Alex Chavez,Online Portal,0,Retail
+EMP_001201,Donald Weber,Manager,Health,2018-08-20,zcampos@example.com,Kevin Wong,Online Portal,0,Education
+EMP_001202,Patrick Valencia,Mentor,Finance,2023-05-24,whitechristopher@example.net,Barry James,Online Portal,0,Retail
+EMP_001203,Elizabeth Reed,Mentor,Finance,2018-07-18,jacquelineramsey@example.org,Kyle Davis,Workforce Center,1,Education
+EMP_001204,Sarah Moore,Administrator,Health,2021-06-15,cynthiaferrell@example.net,Tara Watson,Workforce Center,0,Education
+EMP_001205,Diamond Carter,Case Worker,Education,2022-08-30,michelle52@example.net,Sara Warner,Online Portal,0,Retail
+EMP_001206,Darrell Harris,Manager,Health,2023-12-16,sextonjeremy@example.net,Joshua Garcia,Online Portal,1,Education
+EMP_001207,Kyle Walsh,Administrator,Education,2024-06-01,john89@example.net,Christine Gonzalez,Online Portal,0,Education
+EMP_001208,Julie Conner,Case Worker,Health,2023-05-06,belllisa@example.org,Zachary Brandt,None,1,Education
+EMP_001209,Steven Lindsey,Trainer,Finance,2021-04-11,stantonsummer@example.net,Michelle Morales,Online Portal,0,Education
+EMP_001210,Mark Nelson,Manager,Finance,2017-11-15,mccartyregina@example.net,Jerry Hogan,Online Portal,1,Healthcare
+EMP_001211,Kaylee Osborn,Case Worker,Finance,2021-08-04,jonathon10@example.com,Lori Johnson,None,1,Technology
+EMP_001212,Sara Mcmahon,Mentor,Education,2020-04-01,owilson@example.com,Lisa Craig,Workforce Center,0,Healthcare
+EMP_001213,Mrs. Alyssa Walters,Trainer,Health,2017-09-23,tina28@example.net,Philip Smith,None,1,Technology
+EMP_001214,Robert Humphrey IV,Manager,Finance,2020-07-10,collinschad@example.com,James Serrano,None,0,Technology
+EMP_001215,Christine Phelps,Case Worker,Health,2017-04-29,sherrera@example.org,Christopher Spencer,Online Portal,0,Healthcare
+EMP_001216,Sara Harris,Manager,Health,2022-04-17,acostamichael@example.net,Ashley Martinez,None,0,Healthcare
+EMP_001217,Monique Erickson,Manager,Operations,2016-12-01,aliciaweber@example.net,Russell Figueroa,None,0,Retail
+EMP_001218,Molly Price,Mentor,Operations,2022-07-06,jeremy79@example.net,Heather Sanders,Online Portal,0,Healthcare
+EMP_001219,Maria Thompson,Administrator,Finance,2023-01-18,gwatts@example.com,Joseph Nicholson,None,0,Healthcare
+EMP_001220,Seth Stewart,Case Worker,Education,2022-09-13,henrylloyd@example.org,Nathan Mack,Workforce Center,0,Education
+EMP_001221,Elizabeth Richards,Trainer,Education,2024-07-22,courtneysmith@example.com,Keith Lee,None,1,Healthcare
+EMP_001222,Michael Ramsey,Mentor,Education,2025-08-22,shawnwaller@example.org,Anthony Bryant,Workforce Center,1,Healthcare
+EMP_001223,Michael Kidd,Administrator,Health,2017-08-05,kevin77@example.net,Joan Pierce,Workforce Center,0,Technology
+EMP_001224,Toni Erickson,Mentor,Education,2018-08-03,richardsonjuan@example.com,Barbara Blair,Workforce Center,1,Education
+EMP_001225,Kim Campbell,Trainer,Health,2025-07-27,hebertsherri@example.org,Robert Mason,Workforce Center,0,Healthcare
+EMP_001226,Jesse Miller,Manager,Health,2017-06-25,georgewilson@example.com,Samuel Cunningham,Online Portal,0,Education
+EMP_001227,Aaron Simon,Mentor,Health,2016-12-03,markphillips@example.org,Holly Sims,None,0,Retail
+EMP_001228,Jennifer Dominguez,Trainer,Operations,2020-08-21,allen31@example.net,Kyle Boyd,None,1,Healthcare
+EMP_001229,Eric Key,Case Worker,Finance,2016-01-22,paynejesse@example.net,April Moore,Online Portal,1,Retail
+EMP_001230,Thomas Travis,Trainer,Education,2017-03-23,adam65@example.net,Gina Lowery,Workforce Center,0,Retail
+EMP_001231,Amber Hardy,Trainer,Education,2022-11-27,charlesjohnson@example.net,Lauren Mason,Online Portal,0,Education
+EMP_001232,Jeffrey Rodriguez,Administrator,Education,2025-10-12,lucasbrandon@example.com,Kimberly Gonzales,Online Portal,1,Healthcare
+EMP_001233,Michael Smith,Mentor,Health,2023-09-07,lucerojonathan@example.org,Jason Phillips,Workforce Center,0,Healthcare
+EMP_001234,Jennifer Wall,Administrator,Health,2023-08-04,harrisonmatthew@example.com,Eric Harris,None,0,Technology
+EMP_001235,Heather Rodriguez,Mentor,Education,2023-01-24,shannon15@example.net,Daniel Stone,None,0,Education
+EMP_001236,Sabrina Pena,Administrator,Education,2019-06-02,johnfisher@example.net,Aaron Lopez,Online Portal,1,Technology
+EMP_001237,Jessica Tran,Mentor,Education,2017-11-13,joseph10@example.com,Dr. Sandra Bryant MD,Online Portal,1,Education
+EMP_001238,Tiffany Brown,Trainer,Health,2018-06-03,amanda58@example.com,Thomas Nicholson,Online Portal,1,Technology
+EMP_001239,Kristi Dixon,Manager,Finance,2018-06-02,creed@example.org,Jasmine Kramer,Online Portal,1,Technology
+EMP_001240,Sharon King,Administrator,Education,2016-05-11,collinssusan@example.com,Maurice Tapia,Online Portal,0,Technology
+EMP_001241,Hannah Shaffer,Administrator,Finance,2016-11-06,peter02@example.net,Scott Mcfarland,Online Portal,1,Education
+EMP_001242,Sheila Woods,Case Worker,Finance,2025-06-15,rpacheco@example.net,Sarah Petersen,None,1,Technology
+EMP_001243,Anne Chase,Manager,Health,2018-10-22,tjohnson@example.net,Darlene Terry,Workforce Center,1,Retail
+EMP_001244,Amanda Jackson,Manager,Finance,2024-06-19,hmatthews@example.net,Mrs. Andrea Clarke MD,None,0,Retail
+EMP_001245,Krystal Levine,Trainer,Health,2018-08-08,imosley@example.net,Leslie Gregory,Online Portal,0,Healthcare
+EMP_001246,Daniel Mcneil MD,Case Worker,Operations,2018-03-22,andres25@example.com,Amy Clarke,Online Portal,0,Education
+EMP_001247,Brett Nunez,Trainer,Health,2016-06-30,rebeccawells@example.net,Julian Kelley,Online Portal,1,Technology
+EMP_001248,Douglas Walker,Trainer,Operations,2023-10-25,vhines@example.com,Sharon Wilson,Online Portal,0,Retail
+EMP_001249,Rose Weaver,Trainer,Education,2023-02-21,allenkimberly@example.net,Jacqueline Bailey,None,1,Technology
+EMP_001250,Kayla Davis,Mentor,Education,2025-04-16,mccoynichole@example.org,Douglas Ford,Online Portal,1,Education
+EMP_001251,Lance Kim,Case Worker,Education,2023-12-28,russell25@example.com,Todd Peters,Workforce Center,1,Education
+EMP_001252,Walter Rodriguez,Mentor,Education,2020-04-13,hillrebecca@example.org,Hayden Campbell,None,1,Technology
+EMP_001253,Troy Smith,Administrator,Education,2020-06-24,raymondgarcia@example.net,Deborah Carter,None,0,Healthcare
+EMP_001254,Michael Robinson,Case Worker,Finance,2020-02-29,hooperryan@example.com,Melissa Gonzales,Workforce Center,0,Retail
+EMP_001255,Stephanie Chapman,Trainer,Education,2018-12-12,davidmitchell@example.org,Christopher Nguyen,None,1,Retail
+EMP_001256,Christopher Peters,Manager,Finance,2022-04-09,amandaroberts@example.org,Gabriel Ashley,None,0,Healthcare
+EMP_001257,Steven Morris,Mentor,Health,2018-02-06,riveracynthia@example.com,Daniel Howard,Online Portal,0,Healthcare
+EMP_001258,Rachel Wallace,Manager,Operations,2021-05-17,sthomas@example.net,Paul Johnson,Workforce Center,0,Retail
+EMP_001259,Shelley Blake,Mentor,Health,2017-12-11,zmoreno@example.net,Charles Atkinson,Workforce Center,0,Technology
+EMP_001260,Roy Henry,Case Worker,Education,2018-11-12,lwilliams@example.net,Kyle Beck,Online Portal,1,Retail
+EMP_001261,David Bell,Case Worker,Health,2021-09-10,kirbycharles@example.org,George Jones,Workforce Center,1,Education
+EMP_001262,Ashley Brennan,Case Worker,Education,2018-11-17,mbaker@example.net,Jesse Reed,Workforce Center,1,Healthcare
+EMP_001263,Tina Morrow,Mentor,Operations,2025-05-09,reneehenson@example.com,Todd Soto,Online Portal,0,Healthcare
+EMP_001264,Terry James,Trainer,Finance,2016-05-22,laurendoyle@example.net,Lisa Reyes,Workforce Center,1,Retail
+EMP_001265,Christopher Ponce,Trainer,Finance,2023-05-21,kpowell@example.com,Jorge Ellis,None,1,Education
+EMP_001266,Tara Hall,Trainer,Health,2021-02-01,aguilarchristopher@example.net,Susan Keith,None,1,Education
+EMP_001267,Christopher Pacheco,Trainer,Health,2018-06-05,hayleywhite@example.com,Christopher Johnson,Online Portal,1,Education
+EMP_001268,Laura Smith,Manager,Operations,2020-09-20,markbright@example.org,David Braun,Workforce Center,1,Retail
+EMP_001269,Erica Freeman,Trainer,Finance,2016-03-04,sthompson@example.org,Kevin Hill,None,1,Retail
+EMP_001270,Rebecca Kerr,Trainer,Education,2021-03-28,scunningham@example.org,Ashley Obrien,Workforce Center,0,Education
+EMP_001271,Daniel Arnold,Administrator,Health,2025-07-30,benjaminkey@example.net,Deborah Rodriguez,Online Portal,0,Technology
+EMP_001272,Matthew Donovan,Manager,Health,2022-02-04,mnelson@example.net,Daniel Stephens,Online Portal,1,Education
+EMP_001273,Melinda Perez,Mentor,Operations,2016-12-17,ujohnson@example.net,Phillip Fox,Online Portal,0,Education
+EMP_001274,Levi White,Trainer,Education,2018-12-10,beverly40@example.net,Teresa Blake,Online Portal,1,Retail
+EMP_001275,Christopher Bates,Case Worker,Operations,2019-03-20,sjohnson@example.com,Joseph Hayes,Workforce Center,0,Healthcare
+EMP_001276,Wayne George,Administrator,Health,2017-03-16,zachary09@example.net,Peter Obrien,None,1,Retail
+EMP_001277,Mrs. Mary Sanford,Mentor,Health,2024-07-23,estradaruben@example.org,Jessica Maxwell,None,0,Healthcare
+EMP_001278,Tiffany Hogan,Administrator,Operations,2023-08-15,jmorse@example.org,Rodney Arnold,Online Portal,1,Technology
+EMP_001279,Karen Friedman,Administrator,Health,2020-09-09,elizabethbishop@example.org,Nathan Beasley,Online Portal,0,Technology
+EMP_001280,Andrew Green,Administrator,Education,2020-06-16,ggreen@example.com,Keith Lee,Online Portal,0,Technology
+EMP_001281,Steve Evans,Administrator,Education,2019-01-27,katiestewart@example.com,Carrie Rodriguez,None,0,Retail
+EMP_001282,Devin Day,Trainer,Education,2018-07-27,nicholas17@example.net,Sarah Mckay,None,0,Retail
+EMP_001283,Thomas Koch,Mentor,Education,2016-11-10,madisongibson@example.com,Jo Harris,Online Portal,0,Healthcare
+EMP_001284,Elizabeth Leach,Case Worker,Education,2021-08-08,ecollins@example.com,Steven Barnett,None,0,Technology
+EMP_001285,Debra Craig,Trainer,Health,2020-07-19,millercameron@example.net,Jackie Garcia,Workforce Center,1,Technology
+EMP_001286,Vanessa Weaver,Manager,Operations,2024-07-29,piercedonald@example.com,Richard Hernandez,Online Portal,0,Retail
+EMP_001287,Alejandro Green,Trainer,Finance,2016-11-17,timgardner@example.net,Jerry Lopez,None,1,Healthcare
+EMP_001288,Michael Zimmerman,Case Worker,Health,2020-03-13,walkerjade@example.net,Anthony Joseph,Online Portal,1,Technology
+EMP_001289,Shannon Riley,Case Worker,Health,2023-11-30,elizabeth81@example.com,Jennifer Larson,None,0,Technology
+EMP_001290,Jasmine Hodges,Manager,Operations,2016-12-14,waustin@example.net,Leslie Hardy,None,1,Technology
+EMP_001291,John Young,Administrator,Education,2023-02-12,timothy34@example.org,Robert Ward,Workforce Center,0,Technology
+EMP_001292,Amber Myers,Administrator,Education,2025-09-27,kevin95@example.org,Mary Taylor,Online Portal,0,Technology
+EMP_001293,Daniel Cherry,Case Worker,Operations,2016-05-20,keithwong@example.net,Robert Barr,Workforce Center,0,Retail
+EMP_001294,Angela Walton,Case Worker,Health,2022-04-10,brenda70@example.net,Jason Barrett,None,1,Technology
+EMP_001295,Johnny Martin,Trainer,Finance,2020-05-23,ymitchell@example.net,Jane Sandoval,Online Portal,0,Healthcare
+EMP_001296,Derrick Thompson,Manager,Finance,2016-08-25,parksterrence@example.net,Adam Hudson,Online Portal,1,Retail
+EMP_001297,Michael Allen,Mentor,Education,2017-02-06,alexander88@example.org,Matthew Thomas,Online Portal,1,Education
+EMP_001298,Jaclyn Watkins,Mentor,Operations,2022-10-06,james56@example.org,Jonathon Thomas,Workforce Center,1,Education
+EMP_001299,John Anderson,Case Worker,Operations,2020-03-10,padillathomas@example.net,James Jones,Workforce Center,1,Technology
+EMP_001300,Todd Ramirez,Trainer,Finance,2020-01-18,olsenkaitlyn@example.net,Stephen Sanchez,Workforce Center,1,Education
+EMP_001301,Samantha Simmons,Manager,Health,2023-01-25,caleb33@example.com,Jamie Ryan,None,1,Retail
+EMP_001302,Richard Gutierrez,Manager,Operations,2022-02-18,samuel40@example.org,Ashley Kemp,None,0,Retail
+EMP_001303,Christopher Bennett,Mentor,Health,2022-12-31,jose44@example.org,Justin Mccann,Online Portal,0,Healthcare
+EMP_001304,Regina Jackson,Case Worker,Education,2019-10-19,grodgers@example.org,Anne Hunter,Workforce Center,1,Healthcare
+EMP_001305,Nicole Brown,Mentor,Finance,2023-04-07,suarezdavid@example.com,Monique Jones,None,0,Education
+EMP_001306,Laura Bell,Mentor,Health,2020-08-30,petersonnatasha@example.net,Becky Randolph,Workforce Center,0,Technology
+EMP_001307,David Ramos,Case Worker,Health,2021-09-20,nunezjane@example.com,Rita Jackson,Online Portal,0,Education
+EMP_001308,Benjamin Nelson,Manager,Operations,2024-04-08,kaylaschroeder@example.org,Nicholas Drake,Workforce Center,0,Education
+EMP_001309,Dalton Reed,Case Worker,Operations,2018-05-20,noah30@example.com,Cheryl Thomas,None,1,Healthcare
+EMP_001310,David Mullins,Trainer,Finance,2023-06-18,potterjoshua@example.com,Gregory Chavez,None,1,Healthcare
+EMP_001311,Mrs. Connie Manning,Case Worker,Finance,2021-02-19,ajames@example.net,Ray Williams,Online Portal,0,Education
+EMP_001312,Deborah Freeman,Mentor,Operations,2021-02-05,thomasmatthew@example.com,Joseph Reynolds,None,1,Technology
+EMP_001313,Gary Ramirez,Mentor,Education,2020-05-10,garciawilliam@example.net,Wendy Alvarez,None,1,Retail
+EMP_001314,Virginia Price,Manager,Finance,2022-02-15,emilyphillips@example.com,Melanie Decker,Workforce Center,1,Retail
+EMP_001315,Susan Romero,Mentor,Operations,2016-12-26,walternichols@example.com,Danielle Johnson,Workforce Center,1,Technology
+EMP_001316,Alexandria Dean,Manager,Finance,2020-06-03,rbarton@example.org,Linda Peterson,Workforce Center,0,Technology
+EMP_001317,Mrs. Danielle Cooley,Case Worker,Education,2019-11-14,davenportjon@example.org,Marc Hurst,Online Portal,1,Retail
+EMP_001318,Ashley Williams,Case Worker,Education,2023-12-16,hesterdillon@example.org,Christine Hicks,Online Portal,1,Technology
+EMP_001319,Keith Coleman,Administrator,Health,2016-11-11,joshuahoover@example.org,Roberta Glover,Online Portal,1,Education
+EMP_001320,Craig Rivera,Case Worker,Education,2020-01-13,aholmes@example.com,Jason Smith,None,1,Retail
+EMP_001321,Brandon Villa,Case Worker,Finance,2021-12-02,daniel27@example.net,Charles Moore,None,0,Retail
+EMP_001322,Cole Murphy,Mentor,Education,2021-06-08,youngjohn@example.net,Lisa King,None,0,Healthcare
+EMP_001323,Lauren Wiggins,Case Worker,Finance,2024-07-30,david98@example.com,Anthony Stewart DDS,None,1,Education
+EMP_001324,Laura Jackson,Manager,Finance,2021-08-23,christopher42@example.com,Sherri Moses,Online Portal,1,Technology
+EMP_001325,Pamela Evans,Administrator,Health,2019-09-06,david46@example.com,Michael Singleton,Online Portal,0,Healthcare
+EMP_001326,Elizabeth Williams,Trainer,Operations,2023-08-27,jessicasimmons@example.com,Raymond Stephens,Online Portal,1,Retail
+EMP_001327,Scott Ortiz,Case Worker,Finance,2025-10-13,mpeters@example.org,Scott James,Online Portal,0,Healthcare
+EMP_001328,Jessica Miranda,Trainer,Education,2023-07-05,kennedykristin@example.net,Amber Wall,None,1,Retail
+EMP_001329,Ashley Davis,Administrator,Finance,2016-04-30,nwest@example.net,Lorraine Long,Workforce Center,1,Healthcare
+EMP_001330,Jacob Mccullough,Manager,Finance,2025-06-07,knewton@example.org,Misty Johnson,Workforce Center,1,Technology
+EMP_001331,Justin Carr,Trainer,Health,2017-06-03,kennethholland@example.net,Dr. Samuel Smith,None,0,Healthcare
+EMP_001332,Christopher Campbell,Case Worker,Operations,2016-12-06,jonescharles@example.org,Joseph Sparks,Workforce Center,0,Technology
+EMP_001333,Chad Jacobson,Case Worker,Health,2024-12-01,ldyer@example.com,Brian Beasley,Workforce Center,0,Healthcare
+EMP_001334,Jeffrey Gutierrez,Trainer,Health,2018-01-03,steven64@example.net,Deanna Young,None,1,Education
+EMP_001335,Misty Miller,Case Worker,Operations,2022-11-13,christinesparks@example.org,Phillip Jackson,Workforce Center,1,Education
+EMP_001336,Christopher Lee,Administrator,Health,2019-12-24,katherinenorris@example.org,Anna Arnold,None,1,Retail
+EMP_001337,Jesus Baker,Manager,Education,2017-03-27,robert75@example.com,Jerry Webb,None,1,Healthcare
+EMP_001338,Amber Flynn,Case Worker,Health,2019-01-21,jeffrey10@example.org,Fernando Jenkins,Workforce Center,1,Technology
+EMP_001339,Tom Gray,Manager,Health,2023-12-20,joseph31@example.org,Aaron Simmons,Workforce Center,1,Healthcare
+EMP_001340,Kayla Lawson,Manager,Operations,2022-08-30,michaelfowler@example.net,Rebecca Williams,Online Portal,1,Technology
+EMP_001341,Donald Horton,Administrator,Health,2020-02-14,medinajennifer@example.com,Brian Nguyen,None,1,Healthcare
+EMP_001342,Traci Wells,Manager,Finance,2023-01-27,tracy17@example.com,Scott Smith,Online Portal,1,Healthcare
+EMP_001343,Robert Spencer,Case Worker,Health,2022-07-22,reginald75@example.com,Rebecca Merritt,Workforce Center,1,Education
+EMP_001344,Tyler Reese,Administrator,Education,2016-12-21,erin93@example.org,Allison Hudson,Workforce Center,1,Retail
+EMP_001345,James Jenkins,Manager,Education,2020-06-02,pcarr@example.net,Heather Smith,None,0,Education
+EMP_001346,Yvonne Li,Mentor,Operations,2016-07-11,lisapotts@example.com,Kelsey Lynch,None,0,Retail
+EMP_001347,Tasha Franco,Mentor,Health,2022-06-18,kevin40@example.org,Kathleen Price,Online Portal,0,Retail
+EMP_001348,Theresa Ortiz,Manager,Finance,2022-02-14,megan81@example.org,Victoria Smith,Workforce Center,1,Retail
+EMP_001349,Stacy Hayes,Administrator,Education,2020-07-28,johnbarrett@example.org,Bryan Myers,None,0,Technology
+EMP_001350,Lauren Adams,Manager,Health,2025-09-08,nicholasmcpherson@example.net,April West,Online Portal,1,Retail
+EMP_001351,Denise Page,Trainer,Health,2016-09-10,qrobinson@example.org,Audrey Valencia,None,1,Healthcare
+EMP_001352,Gina Ford,Trainer,Health,2024-06-29,joseph95@example.org,Eric Smith,None,0,Technology
+EMP_001353,Gregory Guzman,Case Worker,Health,2018-02-24,juanmills@example.com,Michael Collins,None,1,Education
+EMP_001354,Brandon Wilson,Manager,Operations,2016-12-30,jconley@example.org,Mr. David Harrell III,None,0,Healthcare
+EMP_001355,Brandon Fleming,Trainer,Finance,2020-03-02,robertedwards@example.net,Russell Peterson,None,0,Retail
+EMP_001356,Pamela Carrillo,Mentor,Finance,2024-05-19,allisonbonilla@example.com,Vickie Krause,None,0,Technology
+EMP_001357,Christopher Nunez,Trainer,Operations,2017-12-20,ashley58@example.com,Michelle Price,None,0,Education
+EMP_001358,Carolyn Colon,Case Worker,Education,2025-10-15,zvang@example.org,James Garcia,None,1,Retail
+EMP_001359,Ashlee Hartman,Case Worker,Finance,2017-05-04,josephaguilar@example.net,Tara Lewis,Online Portal,1,Education
+EMP_001360,Antonio Montgomery,Case Worker,Health,2023-12-31,joneskatie@example.net,Sherry Scott,None,0,Education
+EMP_001361,Susan Martinez,Manager,Operations,2024-01-01,moodymichael@example.com,Jennifer Becker,None,0,Education
+EMP_001362,Erik Woods,Trainer,Health,2022-11-07,leah84@example.org,John Kennedy,Online Portal,1,Education
+EMP_001363,Timothy Harris,Administrator,Operations,2021-03-13,xdaniels@example.com,Keith Moore,Online Portal,0,Healthcare
+EMP_001364,Austin Chambers,Administrator,Finance,2017-02-08,isabel02@example.org,Stacey Torres,Workforce Center,1,Healthcare
+EMP_001365,Zachary Park,Mentor,Health,2024-09-28,ovillegas@example.com,Charles Sanchez,Online Portal,0,Technology
+EMP_001366,Miss Amber Reese,Case Worker,Operations,2020-08-01,pageelizabeth@example.org,Stacey Cummings,None,1,Retail
+EMP_001367,Shawn Cooper,Administrator,Finance,2018-11-14,olsonlisa@example.org,Bethany Castro,None,1,Retail
+EMP_001368,Rachel Williams,Manager,Education,2024-05-29,danielwilson@example.net,Daniel Riley,Online Portal,0,Technology
+EMP_001369,Donna Jarvis,Case Worker,Health,2022-01-22,barbarahughes@example.net,Adam Garcia,Online Portal,0,Technology
+EMP_001370,Diana Carlson,Mentor,Finance,2025-01-16,rachel39@example.com,Juan Manning,Workforce Center,0,Technology
+EMP_001371,Heather Harrell,Case Worker,Operations,2017-03-02,uolson@example.org,Hailey Thompson,Workforce Center,0,Technology
+EMP_001372,Robert Crane,Mentor,Operations,2024-05-05,gabriel57@example.net,Suzanne Ramirez,Online Portal,1,Education
+EMP_001373,Mark Wilson,Trainer,Education,2018-01-13,jordanlauren@example.org,Dana Mitchell,None,1,Education
+EMP_001374,Judith Vaughn,Mentor,Education,2023-10-15,jacob73@example.org,Jason Mendoza,Online Portal,0,Retail
+EMP_001375,Barbara Smith,Manager,Finance,2018-05-18,marshallmary@example.org,Kristi King,None,1,Healthcare
+EMP_001376,Mr. Shawn Thomas MD,Manager,Education,2017-02-05,barberjacob@example.com,Michele Estrada,Online Portal,1,Technology
+EMP_001377,Jesse Sanchez,Case Worker,Health,2022-05-03,mjensen@example.com,Jessica Hodge,None,1,Retail
+EMP_001378,Tammie Costa,Mentor,Education,2017-02-15,xnicholson@example.net,Jamie Lucero,Workforce Center,1,Retail
+EMP_001379,Rebecca Ingram,Mentor,Education,2018-09-21,mcgrathbilly@example.net,Whitney Everett,None,0,Education
+EMP_001380,Joseph Perez,Case Worker,Health,2019-08-06,tbryant@example.com,Heidi Burton,Online Portal,0,Healthcare
+EMP_001381,Faith Kennedy,Trainer,Health,2016-10-03,carrollerin@example.com,Carrie Duran,None,1,Education
+EMP_001382,Gary Jones,Mentor,Operations,2023-07-28,vthomas@example.org,Luis Morales,Online Portal,1,Healthcare
+EMP_001383,Susan Butler,Mentor,Operations,2020-10-05,zwilliams@example.net,Andrew Clark,None,0,Education
+EMP_001384,Jessica Johnston,Administrator,Finance,2019-08-28,sanfordtammy@example.com,Javier Smith,Online Portal,0,Retail
+EMP_001385,Debra Doyle,Trainer,Operations,2024-12-21,mhernandez@example.org,Stephanie Gonzalez,Workforce Center,0,Education
+EMP_001386,Barbara Russell,Trainer,Finance,2018-08-01,martinezmary@example.org,Jesus Ayala,None,0,Education
+EMP_001387,Jose Romero,Case Worker,Education,2018-11-05,earlbrown@example.net,Cameron Wong,Workforce Center,0,Education
+EMP_001388,Laura Williamson,Manager,Operations,2022-03-31,gramirez@example.org,Andrew Morris,None,0,Healthcare
+EMP_001389,Rebecca Nicholson,Case Worker,Operations,2021-08-28,pcruz@example.org,Sarah Clayton,Online Portal,0,Education
+EMP_001390,Jeffrey Love,Case Worker,Operations,2022-12-21,williamsdouglas@example.net,Monica Ruiz,Workforce Center,1,Education
+EMP_001391,Tyler Hall,Case Worker,Finance,2025-02-04,estewart@example.net,Patrick Black,Workforce Center,0,Retail
+EMP_001392,Isaac Walters,Case Worker,Operations,2021-01-29,melissa40@example.net,Kim Barnes,Workforce Center,1,Retail
+EMP_001393,Joel Smith,Trainer,Education,2024-05-10,davidsonscott@example.com,Lisa Carpenter,None,0,Education
+EMP_001394,Ryan Gray,Manager,Health,2019-12-11,stevensonjesus@example.org,Todd Bowman,Workforce Center,0,Retail
+EMP_001395,Brandon Barrera,Case Worker,Finance,2024-10-31,denise25@example.net,Timothy Goodwin,Workforce Center,0,Retail
+EMP_001396,Brian Smith,Trainer,Operations,2023-03-21,tamara39@example.com,Paul Walsh,None,1,Technology
+EMP_001397,Jennifer Murray,Administrator,Education,2018-03-05,debrafranklin@example.net,Heather Houston,Online Portal,0,Technology
+EMP_001398,Carolyn Smith,Trainer,Health,2022-12-17,xhenderson@example.com,Benjamin Fitzgerald,Online Portal,1,Education
+EMP_001399,Heidi Burns,Trainer,Health,2016-07-26,daniel66@example.net,Jeremy Malone,Workforce Center,1,Technology
+EMP_001400,Michael Cervantes,Trainer,Finance,2020-07-22,randyhall@example.org,Lisa Kent,Online Portal,1,Education
+EMP_001401,Maria Morgan,Case Worker,Operations,2018-05-05,jacqueline67@example.net,Breanna Smith DDS,Workforce Center,1,Healthcare
+EMP_001402,Tamara Jefferson,Manager,Operations,2018-07-13,elizabethmcdonald@example.com,Cameron Murphy,Online Portal,1,Technology
+EMP_001403,Brian Robertson,Administrator,Health,2025-02-04,holtamanda@example.org,Joseph Bailey,Online Portal,0,Technology
+EMP_001404,Brendan Lee,Manager,Operations,2025-10-25,timothyking@example.com,Christopher Barnes,Online Portal,1,Education
+EMP_001405,Mrs. Nicole Richmond,Administrator,Operations,2022-03-09,jamiedaniels@example.net,Paul Jones,None,0,Education
+EMP_001406,Mark Riley,Case Worker,Education,2017-03-13,johnsonbrent@example.org,Derrick Brady,Online Portal,0,Retail
+EMP_001407,Rita Davis,Manager,Operations,2023-09-14,zjennings@example.net,Valerie Adams,None,0,Retail
+EMP_001408,Robert Taylor,Administrator,Education,2016-04-04,eileen90@example.org,Margaret Hunt,Online Portal,0,Technology
+EMP_001409,Cody Wall,Case Worker,Education,2020-01-01,hillangela@example.com,Tyler Johnson,Online Portal,0,Healthcare
+EMP_001410,Michael Howard,Administrator,Education,2019-02-04,brent16@example.com,Vanessa Ford,None,0,Retail
+EMP_001411,Andrew Donaldson,Manager,Finance,2025-02-01,gibsonfranklin@example.org,Emma Lynch,Workforce Center,1,Retail
+EMP_001412,Megan Vasquez,Manager,Education,2020-01-25,davidwilliams@example.org,Jason Haney,Workforce Center,0,Technology
+EMP_001413,Elizabeth Hanson,Manager,Operations,2025-04-04,zrobinson@example.org,Katie Fitzgerald,Online Portal,1,Technology
+EMP_001414,William Roberts,Mentor,Education,2016-10-20,cynthiachavez@example.com,Margaret Hays,Workforce Center,1,Retail
+EMP_001415,Cassie Fry,Trainer,Health,2024-07-26,mcgeekaren@example.com,Jennifer Lopez,None,0,Healthcare
+EMP_001416,Suzanne Dickerson,Manager,Health,2017-02-18,jasonsmith@example.com,Robert Mora,Online Portal,0,Retail
+EMP_001417,Lisa Pacheco,Administrator,Finance,2021-04-29,matatony@example.com,Kimberly Duncan,None,1,Education
+EMP_001418,Nancy Carter,Administrator,Operations,2017-08-15,collinsjon@example.com,Michael Thomas,None,1,Retail
+EMP_001419,James Costa,Manager,Education,2017-06-11,jose42@example.com,Courtney Martin,None,1,Healthcare
+EMP_001420,Thomas Murray,Trainer,Health,2017-08-25,hillshannon@example.org,Erin Mccarty,None,1,Healthcare
+EMP_001421,Lisa Mueller,Manager,Education,2022-04-29,mary34@example.org,Robert Smith,Online Portal,1,Healthcare
+EMP_001422,Stephanie Henderson,Trainer,Operations,2021-03-08,laura25@example.org,Mary Rhodes,None,1,Education
+EMP_001423,Kristen Hall,Trainer,Health,2019-02-03,ahenry@example.com,Donald Richardson,Workforce Center,1,Retail
+EMP_001424,Tracy Gonzalez,Trainer,Health,2021-01-30,woodwardjason@example.net,Amy Harvey,Online Portal,1,Retail
+EMP_001425,Benjamin Clayton,Administrator,Finance,2020-08-23,adam25@example.net,Suzanne Welch,Workforce Center,0,Technology
+EMP_001426,David Ferrell,Mentor,Finance,2025-01-07,kjohnson@example.com,Lee Hahn,None,1,Technology
+EMP_001427,Timothy Kent,Case Worker,Finance,2016-04-22,donaldcallahan@example.com,Christopher Thomas,None,1,Education
+EMP_001428,Scott Phillips,Trainer,Health,2023-07-31,steven68@example.com,Kyle Hall,Workforce Center,1,Education
+EMP_001429,Michelle Hansen,Case Worker,Health,2022-06-20,dannystewart@example.net,Stephanie Perkins,Workforce Center,1,Technology
+EMP_001430,Sean Griffin,Manager,Finance,2019-02-16,carla02@example.net,Valerie Lee,None,1,Healthcare
+EMP_001431,Laurie Cameron,Case Worker,Finance,2018-09-21,brownphillip@example.org,Kelli Kirk,Online Portal,0,Healthcare
+EMP_001432,Riley Richard,Trainer,Education,2018-07-18,sarah73@example.com,Eric Melton,Workforce Center,0,Technology
+EMP_001433,Jocelyn Higgins,Mentor,Finance,2019-12-01,ashleystrickland@example.com,Cody Perez,Workforce Center,0,Technology
+EMP_001434,John Morrow,Manager,Education,2025-06-10,fkirk@example.com,Antonio Johnson,Workforce Center,1,Healthcare
+EMP_001435,Carolyn Johnson,Mentor,Health,2018-12-05,marieday@example.org,Lori Lane,Workforce Center,0,Healthcare
+EMP_001436,Scott Benton,Mentor,Education,2024-12-09,yatessylvia@example.com,Shane Reed,None,0,Retail
+EMP_001437,Bobby Pierce,Mentor,Finance,2017-10-22,nsmith@example.org,James Peterson,Workforce Center,0,Retail
+EMP_001438,Timothy Gutierrez,Administrator,Operations,2020-07-14,fjones@example.org,Brooke Bass,None,0,Healthcare
+EMP_001439,Matthew Alvarez,Trainer,Finance,2017-11-18,patriciacarey@example.net,Nicholas Odom,None,1,Technology
+EMP_001440,Gary Nichols,Mentor,Operations,2017-10-02,tkirk@example.net,Kimberly Ochoa,None,0,Retail
+EMP_001441,Leah Johnson,Administrator,Operations,2025-04-30,mdavenport@example.com,Stephen Nelson,None,1,Technology
+EMP_001442,Kristin Oconnor,Trainer,Operations,2019-07-05,graycharles@example.net,Heather Sandoval,Workforce Center,1,Technology
+EMP_001443,Mary Cervantes,Trainer,Education,2021-09-28,zachary95@example.net,Nicholas Contreras,None,1,Education
+EMP_001444,Amanda Ball,Case Worker,Finance,2020-11-17,alanparsons@example.org,Mackenzie Wagner,Online Portal,1,Technology
+EMP_001445,Mark Adkins,Administrator,Health,2025-07-23,scottsmith@example.net,Felicia Rivera,Workforce Center,1,Technology
+EMP_001446,Barbara Greene,Manager,Operations,2021-06-29,lweber@example.org,Judy Ruiz,Online Portal,1,Healthcare
+EMP_001447,Amanda Padilla,Administrator,Education,2023-12-08,john20@example.com,Jason Moss DVM,Online Portal,0,Healthcare
+EMP_001448,Jamie Fox,Trainer,Health,2022-07-13,alexis45@example.org,Mary Jackson,Workforce Center,0,Education
+EMP_001449,Robert Olsen,Case Worker,Health,2018-09-30,gonzalezderek@example.org,Benjamin Hartman,Workforce Center,1,Technology
+EMP_001450,Steven Flynn,Manager,Finance,2017-03-27,stacy01@example.org,Nicole Sullivan,Online Portal,1,Education
+EMP_001451,Jeanette Smith,Administrator,Operations,2017-02-19,melanie76@example.net,Kevin Johnson,Online Portal,0,Education
+EMP_001452,Kimberly Hill,Manager,Education,2021-09-10,ikelley@example.org,Carrie Duncan DDS,Online Portal,0,Education
+EMP_001453,Cynthia Horton,Mentor,Health,2025-08-21,xrobles@example.com,Albert Cooke,Online Portal,0,Education
+EMP_001454,Michael Stevens,Case Worker,Health,2019-04-09,thomaswalker@example.org,Sandra Anderson,Workforce Center,0,Healthcare
+EMP_001455,Samantha Fuentes,Trainer,Operations,2018-08-17,barkerlisa@example.org,Aaron Mcgee,Online Portal,0,Technology
+EMP_001456,Sarah Beasley,Trainer,Operations,2021-01-28,jamiemoore@example.org,Anthony Smith,Workforce Center,1,Retail
+EMP_001457,Russell Bean,Administrator,Education,2015-12-12,leonardbenjamin@example.com,Christopher Lewis,None,1,Education
+EMP_001458,Mark Weaver,Mentor,Operations,2021-08-21,timothy82@example.org,Andrea Shields,None,1,Education
+EMP_001459,Jon Cross,Administrator,Finance,2018-11-01,alexander70@example.com,Javier Henderson MD,Online Portal,1,Retail
+EMP_001460,Lisa Wilson,Manager,Health,2024-10-09,fcisneros@example.com,Sharon Thomas,Workforce Center,1,Technology
+EMP_001461,Margaret Smith,Manager,Finance,2020-12-08,darren83@example.com,Steve Mckinney,Online Portal,0,Technology
+EMP_001462,Andrew Miranda,Mentor,Health,2017-08-08,alopez@example.com,Olivia Perry,Online Portal,1,Education
+EMP_001463,April Cabrera,Administrator,Operations,2025-01-19,mcooper@example.org,Michael Pennington,Workforce Center,0,Technology
+EMP_001464,Brian Scott,Administrator,Finance,2021-03-10,yward@example.net,Linda Johnson,Online Portal,1,Technology
+EMP_001465,Miss Julie Wheeler MD,Manager,Education,2017-08-23,georgevaughan@example.net,Erica Bell,Workforce Center,1,Technology
+EMP_001466,Janice Nunez,Mentor,Operations,2020-12-21,courtneyharvey@example.net,Robert Perkins,None,0,Technology
+EMP_001467,Joseph Barnes,Manager,Education,2019-08-02,lisaturner@example.com,Katherine Conway,None,0,Healthcare
+EMP_001468,Patrick Chan,Case Worker,Operations,2025-04-18,pmoore@example.org,Matthew Schmidt,Online Portal,1,Technology
+EMP_001469,Lee Johnston,Mentor,Health,2019-11-17,foxvictoria@example.org,Wendy Richardson,Workforce Center,0,Retail
+EMP_001470,Juan Jenkins IV,Manager,Education,2018-09-18,andrewcooper@example.com,Brandon Simpson,Workforce Center,1,Healthcare
+EMP_001471,Allen Woods,Administrator,Health,2018-01-03,nicoleclark@example.com,Lisa Moreno DDS,Online Portal,0,Technology
+EMP_001472,Heidi Hays,Administrator,Education,2018-10-11,natalie00@example.com,Madison Sanders,None,0,Healthcare
+EMP_001473,Pamela Brown,Administrator,Operations,2021-06-25,ewingdavid@example.com,Dustin Parsons,None,1,Technology
+EMP_001474,Miguel Bell,Mentor,Health,2024-06-17,dvaldez@example.com,Maria Gill,Workforce Center,1,Retail
+EMP_001475,Arthur Bailey,Trainer,Finance,2016-02-18,emullins@example.org,Crystal Sherman,None,0,Healthcare
+EMP_001476,Joseph Aguilar,Administrator,Finance,2023-02-23,jillrivera@example.net,Joshua Cooley,None,0,Technology
+EMP_001477,Roberto Smith,Case Worker,Health,2022-02-21,evansisaiah@example.net,Meghan Mcconnell,Online Portal,0,Education
+EMP_001478,Sarah Edwards,Case Worker,Education,2018-09-04,obriggs@example.net,Janice Smith,Online Portal,1,Retail
+EMP_001479,Jasmine Guzman,Case Worker,Education,2016-01-22,stephaniehampton@example.net,Lauren Davidson,Workforce Center,0,Retail
+EMP_001480,Laura Mullen,Mentor,Education,2020-11-04,michael51@example.com,Maria Hayes,Workforce Center,1,Education
+EMP_001481,Carlos Morrow,Administrator,Operations,2025-07-15,rebeccapeterson@example.net,Kirsten Brown DVM,Online Portal,0,Retail
+EMP_001482,Eugene Carter,Administrator,Finance,2015-11-23,carolyndixon@example.org,Lori Marquez,Workforce Center,0,Retail
+EMP_001483,Laura Marks,Manager,Finance,2016-12-17,jamesmadeline@example.com,David Ward,Workforce Center,0,Education
+EMP_001484,William Ferguson,Case Worker,Health,2022-08-01,dawn67@example.net,Phillip Mitchell,None,0,Retail
+EMP_001485,Christopher Martinez,Trainer,Operations,2017-01-10,sosborn@example.com,Malik Baker,Online Portal,1,Healthcare
+EMP_001486,Sherry Parker,Mentor,Operations,2022-11-26,maryroman@example.net,Dakota Garcia,Online Portal,0,Retail
+EMP_001487,Tracey Baker,Trainer,Health,2017-11-12,mariorobertson@example.net,Sarah Padilla,Workforce Center,0,Healthcare
+EMP_001488,Joseph Myers,Manager,Education,2016-06-20,ryan58@example.com,Clifford Melton,None,0,Healthcare
+EMP_001489,Roberta Gordon,Mentor,Health,2017-02-18,edward22@example.net,Andrea Lane,Online Portal,1,Technology
+EMP_001490,Chelsey Hunt,Manager,Finance,2016-02-26,rachelshelton@example.net,Caleb Wolfe Jr.,None,0,Technology
+EMP_001491,Michael Tyler,Case Worker,Operations,2016-06-20,russellwashington@example.org,Maria Franco,Online Portal,0,Healthcare
+EMP_001492,Jason Thornton,Mentor,Health,2017-03-21,kgonzalez@example.net,Greg Mitchell,None,0,Retail
+EMP_001493,Nathan Nash,Mentor,Health,2018-03-20,martinpatrick@example.net,Aaron Kennedy,None,1,Healthcare
+EMP_001494,Jessica Terrell,Trainer,Finance,2016-08-18,michaelabarnes@example.net,Debra Wood,Workforce Center,0,Education
+EMP_001495,Rickey Small,Case Worker,Health,2020-09-06,samanthareed@example.org,Karen Kelley,Online Portal,0,Technology
+EMP_001496,Michelle Brown,Trainer,Health,2024-09-05,mathewparrish@example.net,Mark Kelly,Online Portal,0,Healthcare
+EMP_001497,Kelly Jimenez,Administrator,Operations,2021-06-14,williamschase@example.org,George Gray,Online Portal,0,Retail
+EMP_001498,Kevin Howard,Manager,Operations,2016-11-07,jason52@example.org,Andrew Garcia,None,1,Technology
+EMP_001499,Jocelyn Martinez,Trainer,Operations,2021-10-15,wendy83@example.org,Michael Crawford,None,0,Education
+EMP_001500,Joe Meyer,Manager,Finance,2019-01-30,marie33@example.com,Stephen Jimenez,None,1,Healthcare

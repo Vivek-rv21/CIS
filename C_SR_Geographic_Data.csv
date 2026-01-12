@@ -1,0 +1,201 @@
+geo_id,state,county,city,zipcode,region,poverty_rate,unemployment_rate,Urban_Rural_Flag,latitude,longitude,median_income,population
+GEO_0001,SC,Ryanmouth County,Lake Jesusview,09140,North,3.99,11.2,Rural,-74.149237,-98.77871,107750.93,1614629
+GEO_0002,DE,Lake Nancyview County,South Danny,43714,North,19.67,5.39,Rural,-44.568207,63.476541,31335.89,591918
+GEO_0003,AK,New Rita County,Lake Edward,12888,East,8.41,9.49,Urban,-69.134112,62.786243,94215.77,1632844
+GEO_0004,WA,Meaganhaven County,Margaretland,73634,South,27.35,8.16,Rural,49.058627,-36.931862,20225.06,801844
+GEO_0005,KY,East Nathaniel County,East Laurashire,89417,South,26.07,6.39,Urban,65.683905,124.468013,23566.06,1055671
+GEO_0006,IA,New Stephanie County,Scottmouth,51168,South,3.98,9.07,Rural,58.486897,20.632542,61526.86,1107163
+GEO_0007,IN,New Mariotown County,Hollyview,37744,North,8.66,4.57,Rural,-89.792808,-147.490965,59521.55,878995
+GEO_0008,DC,West Natashaport County,Kimton,33530,Central,20.73,10.92,Urban,66.486147,-37.953158,78742.98,340860
+GEO_0009,WA,North John County,Navarroview,95362,North,8.0,1.02,Rural,-6.844258,-84.794912,58489.29,1714145
+GEO_0010,CT,North Jessicaland County,North Jeremyshire,86558,Central,5.7,13.96,Rural,-80.243265,-135.508055,37634.74,419796
+GEO_0011,TX,East Donna County,Port Emilyview,79498,West,28.19,8.54,Rural,3.319091,-47.309163,68796.36,1681362
+GEO_0012,WA,West Allison County,Port Katelynfort,20210,North,17.99,11.07,Urban,22.074097,89.644177,51243.15,1269071
+GEO_0013,MH,Brandtside County,Moonburgh,44195,North,15.23,11.39,Rural,-0.271242,-85.621893,26643.43,291242
+GEO_0014,ND,Lake Larry County,Waltersfort,11183,North,23.97,10.39,Urban,-10.432628,-42.83082,86212.88,1831817
+GEO_0015,CO,Samuelhaven County,South Michaelmouth,76881,South,24.61,6.1,Rural,-80.70988,49.877736,77279.1,525294
+GEO_0016,OR,Martinezbury County,Elizabethburgh,87481,South,7.33,1.98,Rural,-41.929877,-46.269489,70328.08,110428
+GEO_0017,NE,West Andrewside County,Robertfort,19038,Central,4.71,10.3,Rural,-66.417619,62.94116,47384.04,1345649
+GEO_0018,AZ,New Jeffrey County,Elainefurt,46352,Central,14.07,5.62,Rural,-38.154754,-10.268328,38154.44,1008871
+GEO_0019,AK,Lake Crystalbury County,South Christopherview,41163,North,13.86,5.39,Rural,68.552391,43.036872,118366.79,1834156
+GEO_0020,CO,North Micheleland County,Darrellfurt,86491,Central,15.08,12.87,Rural,-2.751877,159.540889,20752.11,779488
+GEO_0021,IL,West Elizabeth County,Lake Mollymouth,92052,South,22.41,11.08,Urban,-84.8035,-61.917739,36464.43,1163956
+GEO_0022,IN,New David County,Brownhaven,87288,Central,20.85,5.2,Urban,23.40401,39.629591,114259.03,1960355
+GEO_0023,NY,Sanchezfort County,Cindyfort,51875,West,29.56,5.33,Rural,53.876472,53.154857,95571.7,216146
+GEO_0024,PA,Leeville County,Wolfborough,17402,South,4.76,6.72,Rural,37.760909,48.745412,95236.89,1492915
+GEO_0025,AK,Gomezchester County,Andreaport,78494,West,13.27,6.63,Urban,-34.064975,-12.863687,45391.95,1774964
+GEO_0026,OH,Shieldston County,Gilmorefort,93409,Central,11.5,5.14,Rural,-87.538596,72.38778,27598.36,1082940
+GEO_0027,ID,North Richardmouth County,North Teresabury,11605,East,26.13,2.78,Rural,-16.561676,53.726201,67225.46,1786024
+GEO_0028,VT,East Jamesside County,West Andrea,41078,North,8.96,6.89,Rural,-49.553881,-137.996663,60218.78,262468
+GEO_0029,SD,Taylorburgh County,Davisville,73760,South,7.33,14.17,Urban,61.453023,-163.675148,28564.5,598820
+GEO_0030,UT,Stevenland County,Valentineberg,49873,West,14.56,10.48,Rural,-69.576999,-166.603634,70921.15,176898
+GEO_0031,ND,Mortonside County,Cantuport,84844,East,13.81,13.64,Rural,80.470934,178.533855,39161.63,1601371
+GEO_0032,MT,North Deniseside County,Robertfort,43555,East,9.8,9.62,Urban,26.587744,-138.196627,73665.97,337199
+GEO_0033,IN,North Sarabury County,Sanchezside,17251,South,8.99,5.21,Rural,-62.285198,-95.471988,85145.06,573084
+GEO_0034,NV,South Todd County,South James,88334,South,27.85,8.67,Urban,77.877551,13.516778,52187.55,943290
+GEO_0035,OR,Port Richard County,Port Chad,92622,East,14.41,1.01,Rural,-37.464919,-40.087501,56692.47,1899564
+GEO_0036,KY,East Nicholasfurt County,Morganhaven,97333,North,26.12,5.02,Rural,36.974093,-46.435854,92914.34,1077578
+GEO_0037,AS,Saramouth County,Loriport,90339,North,17.41,7.02,Rural,-15.211738,161.777077,60803.06,310012
+GEO_0038,VI,Rodneyside County,Maryshire,69496,West,3.42,9.12,Rural,-3.150076,70.734237,63274.2,1743831
+GEO_0039,AL,Mooreport County,Grimesmouth,12750,North,29.98,10.17,Rural,-5.000439,14.469298,23175.57,918446
+GEO_0040,WV,North Beth County,Reedside,85176,East,25.41,7.51,Urban,-7.778435,31.442524,47871.37,193337
+GEO_0041,AS,Lake Leeton County,Gibsonmouth,88379,East,29.13,7.19,Urban,-63.964446,81.575694,60074.85,1985772
+GEO_0042,GA,Shawhaven County,Lake John,55997,Central,27.94,3.99,Urban,-55.690133,138.748962,57464.4,1910467
+GEO_0043,UT,North Susan County,Hallchester,67149,East,25.76,7.62,Urban,17.887968,55.771883,82214.88,466647
+GEO_0044,NE,Port Jacobland County,West Juliefurt,47926,North,6.66,13.62,Rural,44.332658,120.12951,45399.1,1713750
+GEO_0045,MA,South David County,Mcneilberg,02890,West,15.6,12.14,Rural,-65.428498,41.634797,57528.39,947083
+GEO_0046,KY,New Brooke County,Hannaberg,48027,Central,7.98,3.38,Urban,-77.434186,158.059104,116450.97,1856203
+GEO_0047,FL,South Dianeshire County,Mollymouth,40984,North,13.23,2.19,Rural,49.081524,-79.29355,33046.68,734133
+GEO_0048,IL,Sarahborough County,New Reneetown,24128,West,3.64,8.22,Rural,63.794228,68.501039,114499.5,1952341
+GEO_0049,WV,Johnfurt County,South Monica,28575,North,12.61,9.86,Rural,-28.822456,-101.782914,63310.17,56931
+GEO_0050,MA,Lake Debbie County,North Terrance,45292,Central,29.59,5.69,Urban,51.789133,-19.90949,87409.05,871101
+GEO_0051,CT,Stewartland County,Matthewfurt,64237,East,9.43,12.46,Urban,-41.908921,-94.99945,52994.53,112687
+GEO_0052,CO,South Christineshire County,Port Markside,25667,Central,23.95,11.52,Rural,-89.538253,-49.433026,60854.74,832424
+GEO_0053,MS,North Amandahaven County,Finleyfort,30194,East,14.74,10.42,Urban,40.689177,173.133979,26115.63,1053785
+GEO_0054,CT,Davidstad County,New Caseyport,18531,Central,13.84,4.14,Rural,60.745666,-47.759415,60746.04,785254
+GEO_0055,MI,East Mikeburgh County,Lake Christopher,20809,South,28.8,3.79,Urban,14.386209,144.610636,57047.23,495462
+GEO_0056,PR,Bassport County,Port Cynthiaville,10615,North,29.87,1.34,Rural,28.789336,52.137652,23257.94,810849
+GEO_0057,MI,Lake Lisaport County,Jacksonport,39271,North,17.56,4.43,Rural,65.746907,-158.201968,106405.06,172139
+GEO_0058,PA,East Josephville County,North Markton,13757,South,22.12,7.65,Rural,-9.621469,-80.682681,93309.51,787248
+GEO_0059,KS,West Juan County,Michaelchester,67044,East,6.33,12.9,Rural,-2.818551,168.554475,38265.07,471891
+GEO_0060,AS,Lake Matthew County,East Amanda,71249,North,10.31,2.02,Rural,-30.160808,161.643884,96807.38,60113
+GEO_0061,AZ,Williamview County,East Gregory,97316,South,29.12,6.8,Rural,47.317082,116.708789,23019.83,669330
+GEO_0062,VA,North Cynthiaview County,Harveybury,69514,North,18.22,9.82,Rural,-22.10219,-146.997567,81488.59,1953083
+GEO_0063,NH,North Matthewberg County,Durhamberg,05448,West,17.18,3.72,Rural,77.913406,-103.641906,70713.51,208792
+GEO_0064,ND,Evanmouth County,South Dana,87261,East,22.94,10.75,Rural,66.528303,50.217451,35359.89,1760880
+GEO_0065,DE,Hoffmanville County,Scotttown,44641,West,3.6,7.92,Rural,86.539434,169.593592,96503.96,1499843
+GEO_0066,MS,Lake Rebeccaside County,Santanaside,81507,East,18.36,4.42,Rural,-47.015002,-161.791736,51865.47,1364066
+GEO_0067,CO,Port Mikeside County,North Scott,17677,South,16.08,10.18,Urban,-21.065247,-59.936704,115613.45,704154
+GEO_0068,OH,South David County,Vanessaport,78783,East,25.88,1.08,Urban,64.082336,175.975525,82771.51,1660645
+GEO_0069,LA,Michaelton County,Vaughnmouth,49878,East,6.41,11.51,Urban,-16.060483,103.312116,30507.43,307287
+GEO_0070,MP,Jasonbury County,Jamesfurt,20719,South,28.9,11.78,Rural,-32.728261,-106.125993,25794.48,289567
+GEO_0071,SC,West Kimberlychester County,Rodriguezfurt,21767,East,4.24,2.49,Urban,-4.864275,118.734421,41876.66,81327
+GEO_0072,RI,East Michelle County,Baileyport,24204,North,7.2,6.95,Urban,74.41743,19.514804,33217.4,602629
+GEO_0073,FM,South Angel County,Port Dominiqueview,91313,Central,18.66,3.46,Urban,-21.378394,31.09791,31051.33,1924919
+GEO_0074,VI,Kimberlychester County,New Michelleton,82386,South,20.91,14.41,Urban,87.91452,112.699073,94711.0,1741136
+GEO_0075,MN,West Erik County,Wallport,22198,Central,8.59,8.25,Rural,52.630859,-96.120476,22912.09,991809
+GEO_0076,OK,South Monicafort County,New Laurie,95027,South,5.36,1.7,Rural,27.36342,98.772688,114885.67,1460768
+GEO_0077,ID,East Lisa County,Lake James,57867,South,26.93,4.49,Rural,-62.621042,103.911752,80934.62,1743965
+GEO_0078,VT,Baileybury County,Ericaberg,06227,West,8.89,12.88,Urban,83.668399,34.553389,63715.07,292069
+GEO_0079,CA,North Donna County,Lake Debbieport,54353,West,18.65,7.39,Urban,-67.275671,-80.181055,74192.23,1592405
+GEO_0080,AZ,Murphyland County,Johnsonstad,48250,East,19.34,12.22,Rural,83.763646,174.250127,75844.15,1480616
+GEO_0081,TN,Michaelhaven County,North Renee,89153,Central,13.74,10.35,Urban,-30.240953,175.50983,86519.02,984795
+GEO_0082,IN,Frazierside County,Julieburgh,94818,South,18.34,14.83,Rural,-71.934372,14.477564,107615.06,941785
+GEO_0083,WI,Sheilaville County,East Kristin,31634,East,16.64,9.34,Urban,62.107096,107.464976,82514.14,1291478
+GEO_0084,LA,Gregoryview County,Alyssaview,58723,North,28.17,14.3,Rural,-72.051894,-140.426515,118585.85,12012
+GEO_0085,CO,North Candacestad County,West Robin,80532,South,7.72,13.48,Urban,73.879502,131.92124,48936.87,1900720
+GEO_0086,PR,Samuelhaven County,Coffeyport,37847,North,22.05,9.58,Urban,-87.237432,-132.550837,116952.17,167148
+GEO_0087,IN,South Rachelborough County,Lindamouth,99118,East,8.68,11.07,Rural,-64.052025,-51.032779,48194.58,40854
+GEO_0088,VI,Bradleychester County,East Karenbury,98613,West,13.08,8.07,Urban,66.767935,103.835352,61175.1,537711
+GEO_0089,CT,New Saraside County,Coffeyside,59342,East,20.81,12.63,Urban,84.592223,31.987052,64236.71,453260
+GEO_0090,MS,West Ryan County,Christopherfurt,31172,North,10.4,8.67,Rural,-76.530915,-174.31881,81295.44,1752044
+GEO_0091,KY,Cindyville County,West Amandamouth,70494,South,10.85,13.56,Urban,50.674552,-84.467697,98614.62,314565
+GEO_0092,NH,Williamchester County,Emilyview,31849,Central,23.05,11.41,Rural,-42.2959,-134.366924,77099.07,1151925
+GEO_0093,SC,Richardport County,Carsonstad,41063,East,4.03,7.65,Urban,22.186692,-28.4542,51953.93,1972796
+GEO_0094,MP,East Robert County,Lake Jesustown,61975,South,14.83,4.63,Urban,-18.453002,-139.08625,22790.02,1526121
+GEO_0095,MN,Byrdburgh County,Rosebury,25931,West,29.96,4.46,Rural,-75.543242,-157.119106,63482.96,1277914
+GEO_0096,GA,Richardtown County,Lake Madisonport,48714,West,29.89,9.93,Rural,-30.858194,-18.620923,18948.76,1107817
+GEO_0097,MN,Justinchester County,Wilsonton,89408,West,4.05,11.72,Rural,31.384349,-49.665969,53717.45,888629
+GEO_0098,MI,Stevenmouth County,West Wendyville,75267,South,7.97,8.3,Rural,6.052016,33.719766,45143.09,234175
+GEO_0099,IL,New Thomas County,East Paigeberg,58250,East,9.43,9.77,Rural,81.745127,-17.278049,82689.98,1628751
+GEO_0100,TN,Lake Christopher County,Chavezside,61014,South,28.13,4.84,Urban,22.823852,-100.242088,117623.7,605192
+GEO_0101,KY,Clarencebury County,Matthewsberg,37433,South,26.66,2.08,Urban,69.738963,41.438461,24481.13,499367
+GEO_0102,UT,Jeffreyborough County,Penafort,50553,Central,26.62,5.0,Rural,-2.169453,81.807479,77378.38,632559
+GEO_0103,TX,North Brandon County,Crosbyview,66417,Central,12.35,4.8,Rural,7.382882,147.150608,55370.66,256534
+GEO_0104,SD,Carrland County,Lake Mitchellmouth,69636,East,6.42,5.48,Urban,21.142703,57.205107,75934.59,101137
+GEO_0105,CA,Perryshire County,Sampsonstad,55375,Central,25.34,8.56,Urban,-47.741356,-71.413082,115194.31,501043
+GEO_0106,PA,Lake Heather County,Lake Michaelstad,21742,West,21.7,2.94,Rural,33.191923,51.602646,92586.71,881437
+GEO_0107,SC,Rossberg County,South Joshuaville,26675,Central,19.13,4.24,Rural,-38.271779,-168.78577,19307.38,1340978
+GEO_0108,GA,Port Michelleville County,Davisborough,79755,West,29.64,10.72,Urban,-49.052469,179.491232,110450.25,1665927
+GEO_0109,ND,Robinsonhaven County,North Kristinbury,18641,East,20.31,10.89,Urban,-73.73172,125.027476,75023.95,1307128
+GEO_0110,VA,Williamsbury County,Port Anne,33269,South,2.22,1.9,Urban,86.100791,-26.541497,34765.14,959636
+GEO_0111,IA,South Dennismouth County,Port Kathyborough,07340,South,24.88,6.71,Urban,46.866545,-141.133741,78525.61,132716
+GEO_0112,GA,Stephaniemouth County,Port Molly,84541,Central,10.38,8.6,Rural,36.700349,76.464473,67643.57,233485
+GEO_0113,NH,Rivasside County,Kimtown,63492,West,20.57,6.82,Urban,-71.908697,-20.317561,115560.85,1755661
+GEO_0114,MS,Merrittfort County,Micheleberg,49156,North,28.29,3.9,Urban,-60.054338,143.736035,62304.93,1899230
+GEO_0115,KY,Greenbury County,New John,73185,North,5.76,6.88,Urban,-36.096106,-64.039745,100151.52,1049217
+GEO_0116,SC,Katiehaven County,North Donna,13947,North,5.23,13.67,Rural,-84.789495,-126.599823,102924.6,1252452
+GEO_0117,UT,Simsview County,East Alexisbury,93745,South,5.0,9.18,Urban,-31.61256,-134.571028,118150.49,1125186
+GEO_0118,OH,Jonesport County,Alfredview,68122,South,17.49,10.74,Rural,-79.898539,44.754298,23854.56,35467
+GEO_0119,IN,West Matthew County,East Judyhaven,16842,West,9.63,12.99,Rural,-25.476598,30.731288,82843.34,1326305
+GEO_0120,TX,East Edwardfurt County,Lake Brycemouth,37864,Central,18.94,11.72,Rural,-12.476378,76.375007,19109.92,1081821
+GEO_0121,MD,Lake Jason County,Williamville,11494,North,22.09,6.33,Rural,-46.044462,-42.874416,89300.28,1206961
+GEO_0122,MP,Russellside County,Gordonton,21513,West,7.7,1.08,Rural,-15.830685,35.061068,119053.53,508381
+GEO_0123,WI,Perryborough County,Stephentown,36256,West,19.76,5.92,Rural,32.724067,-73.836811,70027.2,1507896
+GEO_0124,WI,Priceshire County,South Melaniechester,59394,Central,9.39,11.55,Urban,-57.58976,1.998387,79029.57,302102
+GEO_0125,AR,Port Nicoleshire County,South Jennifermouth,67787,West,15.68,12.95,Urban,-58.487516,-25.128243,53209.29,611841
+GEO_0126,IN,Woodsstad County,North Marcberg,19814,Central,27.35,14.35,Urban,19.708522,105.514594,111383.36,901179
+GEO_0127,GU,Karenchester County,East Joshuashire,57841,East,25.69,6.87,Urban,-21.142026,-138.810934,55678.74,4280
+GEO_0128,AZ,South Jeffrey County,Oscarhaven,12522,Central,4.58,11.47,Rural,32.964224,55.696665,96318.8,1290349
+GEO_0129,AS,Tuckerfurt County,Shawnchester,29603,North,13.86,8.65,Urban,-0.419895,135.974237,86284.26,740908
+GEO_0130,MD,Elizabethfurt County,Port Jacquelineside,59631,North,9.75,9.45,Urban,14.968284,18.480682,20498.38,505499
+GEO_0131,MO,Port Tanner County,South Shannon,46321,Central,2.1,4.09,Urban,-48.20608,131.577234,81243.09,1197768
+GEO_0132,KY,New Amanda County,South Matthew,03996,East,23.59,4.07,Urban,24.822834,-25.174821,50138.18,874605
+GEO_0133,CA,Vargastown County,Rossville,54882,East,19.84,7.1,Urban,-7.27731,139.712768,49617.53,393825
+GEO_0134,IL,Lake Roymouth County,Ronaldview,07481,North,9.33,1.41,Urban,30.031329,-31.027114,73586.14,1394287
+GEO_0135,PW,North Jorge County,Stephaniefort,52465,East,22.75,5.71,Urban,71.803536,117.870921,55589.24,1402348
+GEO_0136,OK,Jasonmouth County,North Marieland,66300,West,17.45,10.51,Rural,-6.254414,-36.457134,41459.56,180545
+GEO_0137,FM,Kathleenfurt County,Davisstad,49516,South,13.98,6.66,Rural,-38.2263,82.660503,104414.46,1098826
+GEO_0138,VT,Karenchester County,New Brian,31404,West,2.27,3.31,Rural,8.387665,-67.482594,116263.05,757240
+GEO_0139,MD,Maryfort County,Elizabethchester,51116,North,4.11,7.54,Rural,-76.704858,-67.491514,78283.59,142933
+GEO_0140,IL,Lake Amberstad County,Morganchester,11197,East,26.73,2.79,Urban,80.142414,-88.239673,30789.2,1104226
+GEO_0141,SD,Lake Casey County,West Carolinestad,49641,Central,27.31,9.71,Urban,87.777305,163.293306,23557.71,1142022
+GEO_0142,NM,Port Anthonybury County,New Williamberg,29931,South,17.28,1.38,Rural,-36.152235,67.255573,84679.27,1064943
+GEO_0143,MO,Port Andrew County,Walkerville,04195,Central,25.37,6.52,Rural,83.165233,-9.263561,111258.38,1650226
+GEO_0144,FM,East David County,Meganstad,42271,North,18.31,8.9,Rural,34.256432,-147.159076,47574.33,1065561
+GEO_0145,PW,New Staciemouth County,Port Joshuabury,13488,East,6.15,1.38,Urban,-7.769554,-149.268831,83885.75,1163140
+GEO_0146,SD,Katieburgh County,Bruceside,94178,Central,5.57,10.0,Urban,-35.618099,-24.524453,84524.19,43644
+GEO_0147,NH,Port Loriport County,New Sarahview,85692,Central,10.63,2.9,Rural,89.887242,88.052029,28539.92,819840
+GEO_0148,FL,New Anthonyport County,East Joshuaport,44448,South,27.17,7.46,Urban,63.600383,-45.847131,89427.57,1832508
+GEO_0149,KS,Sandersborough County,Michaelburgh,19643,South,24.29,1.7,Rural,-70.802412,-133.158437,23895.5,986944
+GEO_0150,DC,New Hannahbury County,New Diane,18536,East,26.1,6.31,Urban,-21.354426,-158.406848,73686.82,92298
+GEO_0151,IA,Lake Kendraville County,East Joycetown,05521,South,27.17,3.96,Urban,-25.387352,164.384865,82566.79,1334098
+GEO_0152,WA,West Amandastad County,Lake Alyssafurt,38102,Central,7.88,5.58,Urban,-36.74297,22.206017,49490.04,812348
+GEO_0153,OH,New Deborahtown County,Chavezburgh,62426,Central,8.99,11.66,Rural,35.870234,61.204775,28418.35,783871
+GEO_0154,ND,Shortville County,Larrymouth,91736,North,4.88,6.31,Urban,-86.050872,-32.108892,88797.24,532943
+GEO_0155,KS,Yumouth County,North Ericton,18692,Central,23.84,11.53,Urban,59.406761,134.498654,114446.41,1568236
+GEO_0156,WA,South Gregory County,West Scottchester,92977,East,26.76,12.65,Urban,-18.754967,158.806753,119702.23,35062
+GEO_0157,OR,Christinaside County,Lawsonchester,61988,West,13.38,4.53,Urban,-88.542366,-27.742732,110807.04,749880
+GEO_0158,NE,Marshallshire County,Jasonhaven,59300,North,19.38,2.15,Rural,65.712132,149.703722,24812.56,1654646
+GEO_0159,MH,Marcusbury County,West Russellport,81155,North,6.33,1.27,Rural,50.096091,-161.479411,85397.88,142682
+GEO_0160,OR,West Nicolebury County,Roseport,01189,East,28.04,8.55,Rural,85.248507,-76.453413,68391.29,724103
+GEO_0161,MO,Hudsonfurt County,East Randallton,10885,East,26.21,15.0,Urban,73.911052,-67.518396,16914.21,506677
+GEO_0162,MN,Anthonymouth County,East Kevinborough,02991,South,29.33,5.9,Rural,44.130988,-142.703796,47430.94,1538088
+GEO_0163,IN,South Jason County,Port Jonathan,34045,North,24.7,10.1,Rural,59.911002,2.668517,114872.78,1379047
+GEO_0164,DC,Matthewview County,Davidfort,28767,South,26.68,11.94,Rural,72.528285,-124.297137,50881.9,1318550
+GEO_0165,NY,New Stacyland County,Thompsonfurt,20098,Central,2.69,10.12,Rural,49.633376,-6.411817,95446.4,218398
+GEO_0166,NM,Lake Richard County,New Angelica,72433,North,22.62,11.56,Rural,-48.57869,125.018945,35160.55,1618955
+GEO_0167,CO,Lake Thomas County,Charleston,95821,North,11.3,14.29,Rural,54.347752,-53.958962,119997.55,1221339
+GEO_0168,WV,Westtown County,Smithland,80308,West,28.06,3.79,Urban,-50.579183,20.255571,31269.24,1542798
+GEO_0169,AR,West Jeffreybury County,Barbarashire,69677,North,24.46,1.29,Urban,-55.776242,-138.641287,46058.17,1587870
+GEO_0170,VI,Elizabethstad County,Mckinneychester,55977,Central,26.19,3.13,Rural,-44.887176,-79.715444,97752.62,698342
+GEO_0171,DE,Transtad County,Dariustown,15074,South,24.7,2.77,Rural,46.003918,-98.582726,68307.42,280780
+GEO_0172,FL,Barajasside County,Georgemouth,38263,South,9.47,10.37,Rural,48.144739,-25.519532,71675.93,93978
+GEO_0173,SC,Michaelmouth County,Christopherville,31648,West,24.05,8.9,Urban,32.553917,21.947653,92557.62,739824
+GEO_0174,GA,Kristopherbury County,South Brianna,39973,Central,5.03,4.05,Urban,-65.379737,96.275711,70285.82,1146073
+GEO_0175,WY,Lake Jamesville County,South Monicamouth,16471,South,26.42,10.79,Urban,-72.510493,43.82057,84502.57,710985
+GEO_0176,TX,East Javier County,West Kimberly,06759,East,26.04,11.74,Urban,22.942459,62.991616,107021.24,1707051
+GEO_0177,NE,Hillshire County,New Cynthiahaven,31753,Central,8.23,3.35,Rural,-82.903937,20.426312,79893.3,1349040
+GEO_0178,PA,Tinaborough County,Port Michael,55528,Central,24.86,9.5,Urban,51.949887,39.23817,77710.88,368188
+GEO_0179,CA,Jeremyburgh County,East Curtis,84249,West,14.89,11.47,Urban,-83.994384,56.819242,31196.54,1742440
+GEO_0180,MS,Alexisside County,Jamesberg,82134,South,10.55,2.6,Rural,-24.324978,69.649628,33988.83,1634980
+GEO_0181,MS,West Brandon County,East Stephaniefort,60415,Central,24.27,12.47,Rural,-66.345875,-169.576855,87748.79,1436883
+GEO_0182,PA,New Kellyberg County,Webstershire,08733,South,8.37,14.51,Rural,73.733006,-81.62266,80597.75,975384
+GEO_0183,NH,Garciatown County,Maldonadoshire,15031,East,2.66,2.51,Urban,-31.190557,94.467426,109778.88,1459336
+GEO_0184,NC,Taylormouth County,Michellemouth,66014,West,7.41,1.36,Rural,-15.209443,151.753508,90724.21,1004552
+GEO_0185,KS,Jackton County,South Carlos,78716,East,11.19,5.37,Rural,-53.856937,-53.631569,19587.7,1325846
+GEO_0186,OH,Shelleyfort County,Welchview,70762,West,26.2,10.48,Urban,51.572306,-114.693999,53251.44,383264
+GEO_0187,VI,Port Cameronfort County,West Williamport,02655,Central,29.07,14.41,Rural,67.762907,-128.429463,90556.5,1702833
+GEO_0188,AL,New Crystalton County,Hayeston,83332,West,9.82,6.55,Rural,-24.145644,56.644069,116806.8,283806
+GEO_0189,TX,East Lisa County,Marieland,68052,North,19.96,11.01,Rural,0.323057,-154.949248,79112.52,133331
+GEO_0190,VA,Christopherbury County,New Brookefurt,75873,South,13.19,2.06,Rural,-40.945077,86.748861,94001.07,1502655
+GEO_0191,DE,New Kathybury County,Carpenterton,32212,South,29.47,10.67,Rural,-60.382004,169.851715,97299.04,1628789
+GEO_0192,TX,Hayesmouth County,Stoutshire,94682,North,17.01,9.78,Urban,74.528812,-146.967234,39570.31,1979883
+GEO_0193,FM,Michellechester County,West Cassidy,19319,East,28.3,2.43,Urban,79.953807,10.973768,40112.69,960823
+GEO_0194,ND,Ashleyton County,North Shannon,38678,North,5.23,11.81,Rural,84.129134,-44.570014,116387.65,78560
+GEO_0195,WV,Port Jaredborough County,Toniland,56762,Central,29.17,12.9,Rural,-36.874539,-16.687515,97358.88,616393
+GEO_0196,KY,Donnaburgh County,North John,00706,Central,7.0,9.41,Rural,66.671453,-123.332661,109917.31,423766
+GEO_0197,WI,East Andrea County,Ritterhaven,81085,South,28.95,2.69,Rural,54.761857,-67.810547,35371.7,92868
+GEO_0198,SD,North Ricky County,West Nathan,46745,Central,9.43,14.77,Rural,-5.70035,-63.222159,86222.22,1660076
+GEO_0199,MA,Carterbury County,Paulmouth,32032,South,5.04,11.96,Urban,-76.446115,158.906673,74894.04,419318
+GEO_0200,DE,Jasminemouth County,Port Crystalmouth,75299,North,14.17,5.86,Rural,45.747269,34.640558,61262.73,1858637
