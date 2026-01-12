@@ -1,0 +1,442 @@
+"""
+Generate realistic, relational source tables (C_SR_*) for a Childcare Assistance
+Data Warehouse using faker + numpy + random.
+
+Outputs CSV files:
+ - C_SR_Family_Intake_Forms.csv
+ - C_SR_Parents.csv
+ - C_SR_Birth_Records.csv
+ - C_SR_Application_Employment.csv
+ - C_SR_Provider_License_Rating.csv
+ - C_SR_Program_Descriptions_Funding.csv
+ - C_SR_Program_Enrollment_Claims.csv
+ - C_SR_Geographic_Data.csv
+ - C_SR_Employee_Directory.csv
+ - C_SR_Assignment_Logs.csv
+ - C_SR_Eligibility_Decisions.csv
+ - C_SR_Event_Logs.csv
+ - C_SR_Campaign_Records.csv
+ - C_SR_source_metadata.csv
+"""
+
+import pandas as pd
+import numpy as np
+from faker import Faker
+import random
+from datetime import datetime, timedelta
+from pathlib import Path
+
+# ----------------------------
+# Config: volumes & output dir
+# ----------------------------
+OUT_DIR = Path("./")  # change if needed
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+NUM_FAMILIES = 2500
+NUM_PARENTS = 3000   # parents (some families may have multiple parents/guardians)
+NUM_CHILDREN = 5000
+NUM_PROVIDERS = 600
+NUM_PROGRAMS = 60
+NUM_CASEWORKERS = 250
+NUM_EVENTS = 800
+NUM_CAMPAIGNS = 200
+NUM_ENROLLMENTS = 20000
+NUM_LOCATIONS = 300
+
+fake = Faker("en_US")
+Faker.seed(42)
+random.seed(42)
+np.random.seed(42)
+
+# ----------------------------
+# Weighted distributions
+# ----------------------------
+gender_choices = ["F", "M"]
+gender_weights = [0.51, 0.49]
+
+race_choices = ["White", "Black", "Hispanic", "Asian", "Other"]
+race_weights = [0.45, 0.25, 0.20, 0.07, 0.03]
+
+income_bands = ["Very Low", "Low", "Low-Middle", "Middle", "Upper-Middle", "High"]
+income_weights = [0.15, 0.30, 0.20, 0.20, 0.10, 0.05]
+
+employment_choices = ["Employed", "Part-time", "Unemployed", "Student", "Self-employed"]
+employment_weights = [0.60, 0.15, 0.12, 0.05, 0.08]
+
+facility_types = ["Center-based", "Home-based", "After-school", "Preschool", "Relative Care"]
+facility_weights = [0.55, 0.25, 0.10, 0.06, 0.04]
+
+provider_ratings = ["1", "2", "3", "4", "5"]
+rating_weights = [0.08, 0.12, 0.35, 0.30, 0.15]
+
+elig_status_choices = ["Approved", "Pending", "Denied", "Expired"]
+elig_status_weights = [0.68, 0.18, 0.10, 0.04]
+
+claim_status_choices = ["Paid", "Pending", "Denied"]
+claim_status_weights = [0.72, 0.22, 0.06]
+
+program_types = ["Subsidy", "Early Learning", "Special Needs", "Nutrition", "Workforce Support"]
+program_funding_sources = ["Federal", "State", "County", "Private", "Grant"]
+
+event_types = ["Training", "Awareness", "Inspection", "Workshop", "HealthCamp"]
+
+# date helpers
+START_DATE = datetime(2021, 1, 1)
+END_DATE = datetime(2025, 11, 1)
+def rand_date(start=START_DATE, end=END_DATE):
+    delta = end - start
+    return start + timedelta(days=random.randint(0, delta.days))
+
+# ----------------------------
+# 1) Geographic Data (lookup)
+# ----------------------------
+geo_rows = []
+for geo_id in range(1, NUM_LOCATIONS + 1):
+    city = fake.city()
+    state = fake.state_abbr()
+    geo_rows.append({
+        "geo_id": geo_id,
+        "county": f"{city} County",
+        "city": city,
+        "state": state,
+        "zip_code": fake.zipcode(),
+        "census_tract": f"{random.randint(1000,9999)}.{random.randint(0,99):02d}",
+        "population": random.randint(2000, 1200000)
+    })
+df_geo = pd.DataFrame(geo_rows)
+df_geo.to_csv(OUT_DIR / "C_SR_Geographic_Data.csv", index=False)
+
+# ----------------------------
+# 2) Family Intake Forms
+# ----------------------------
+families = []
+for family_id in range(1, NUM_FAMILIES + 1):
+    income_band = random.choices(income_bands, weights=income_weights, k=1)[0]
+    fam_size = random.choices([2,3,4,5,6], weights=[0.12,0.28,0.33,0.18,0.09], k=1)[0]
+    geo = df_geo.sample(1).iloc[0]
+    families.append({
+        "family_id": family_id,
+        "family_name": fake.last_name(),
+        "primary_contact_name": fake.name(),
+        "primary_contact_phone": fake.phone_number(),
+        "primary_contact_email": fake.email(),
+        "income_band": income_band,
+        "household_size": fam_size,
+        "address": fake.street_address(),
+        "city": geo["city"],
+        "state": geo["state"],
+        "zip_code": geo["zip_code"],
+        "intake_date": rand_date().date().isoformat()
+    })
+df_family = pd.DataFrame(families)
+df_family.to_csv(OUT_DIR / "C_SR_Family_Intake_Forms.csv", index=False)
+
+# ----------------------------
+# 3) Parents (applicants) table
+# ----------------------------
+parents = []
+for parent_id in range(1, NUM_PARENTS + 1):
+    fam_id = random.randint(1, NUM_FAMILIES)
+    gender = random.choices(gender_choices, gender_weights)[0]
+    parents.append({
+        "parent_id": parent_id,
+        "family_id": fam_id,
+        "parent_name": fake.name_male() if gender=="M" else fake.name_female(),
+        "gender": gender,
+        "relationship": random.choices(["Mother","Father","Guardian","Other"], weights=[0.52,0.38,0.08,0.02])[0],
+        "employment_status": random.choices(employment_choices, employment_weights)[0],
+        "employer": fake.company() if random.random() < 0.8 else None,
+        "annual_income": round(random.gauss(42000, 18000), 2),
+        "ssn_hash": fake.sha1(),
+        "contact_phone": fake.phone_number(),
+        "contact_email": fake.email()
+    })
+df_parents = pd.DataFrame(parents)
+# fix any negative incomes
+df_parents["annual_income"] = df_parents["annual_income"].clip(lower=0)
+df_parents.to_csv(OUT_DIR / "C_SR_Parents.csv", index=False)
+
+# ----------------------------
+# 4) Birth Records (children)
+# ----------------------------
+children = []
+for child_id in range(1, NUM_CHILDREN + 1):
+    fam_id = random.randint(1, NUM_FAMILIES)
+    gender = random.choices(gender_choices, gender_weights)[0]
+    dob = rand_date(start=datetime(2010,1,1), end=datetime(2024,1,1))
+    birth_geo = df_geo.sample(1).iloc[0]
+    children.append({
+        "child_id": child_id,
+        "family_id": fam_id,
+        "child_name": fake.first_name_male() if gender=="M" else fake.first_name_female(),
+        "gender": gender,
+        "race": random.choices(race_choices, race_weights)[0],
+        "dob": dob.date().isoformat(),
+        "birth_county": birth_geo["county"],
+        "birth_hospital": fake.company(),
+        "record_created_date": rand_date().date().isoformat()
+    })
+df_children = pd.DataFrame(children)
+df_children.to_csv(OUT_DIR / "C_SR_Birth_Records.csv", index=False)
+
+# ----------------------------
+# 5) Application + Employment (applications linked to families/parents)
+# ----------------------------
+applications = []
+app_id = 1
+for fam_id in range(1, NUM_FAMILIES + 1):
+    # some families have multiple application attempts
+    num_apps = random.choices([1,1,1,2], weights=[0.6,0.2,0.1,0.1])[0]
+    for _ in range(num_apps):
+        parent_id = random.randint(1, NUM_PARENTS)
+        applications.append({
+            "application_id": app_id,
+            "family_id": fam_id,
+            "parent_id": parent_id,
+            "application_date": rand_date().date().isoformat(),
+            "application_status": random.choices(elig_status_choices, elig_status_weights)[0],
+            "reported_monthly_income": round(random.uniform(800, 7000),2),
+            "documents_submitted": random.choice([True, True, True, False])
+        })
+        app_id += 1
+df_app = pd.DataFrame(applications)
+df_app.to_csv(OUT_DIR / "C_SR_Application_Employment.csv", index=False)
+
+# ----------------------------
+# 6) Provider license + rating
+# ----------------------------
+providers = []
+for prov_id in range(1, NUM_PROVIDERS + 1):
+    geo = df_geo.sample(1).iloc[0]
+    rating = random.choices(provider_ratings, rating_weights)[0]
+    providers.append({
+        "provider_id": prov_id,
+        "provider_name": fake.company(),
+        "facility_type": random.choices(facility_types, facility_weights)[0],
+        "license_number": fake.bothify(text="LIC-####-@@"),
+        "license_issue_date": rand_date(datetime(2018,1,1), datetime(2024,1,1)).date().isoformat(),
+        "license_expiry_date": rand_date(datetime(2024,1,1), datetime(2028,12,31)).date().isoformat(),
+        "rating": int(rating),
+        "county": geo["county"],
+        "city": geo["city"],
+        "state": geo["state"]
+    })
+df_provider = pd.DataFrame(providers)
+df_provider.to_csv(OUT_DIR / "C_SR_Provider_License_Rating.csv", index=False)
+
+# ----------------------------
+# 7) Program descriptions + funding
+# ----------------------------
+programs = []
+for prog_id in range(1, NUM_PROGRAMS + 1):
+    programs.append({
+        "program_id": prog_id,
+        "program_name": f"{random.choice(['Bright Start','Early Steps','GrowTogether','TinyMinds','SafeKids'])} Program {prog_id}",
+        "program_type": random.choice(program_types),
+        "funding_source": random.choice(program_funding_sources),
+        "funding_amount_total": round(random.uniform(100_000, 5_000_000), 2),
+        "program_start_date": rand_date(datetime(2018,1,1), datetime(2023,1,1)).date().isoformat(),
+        "program_status": random.choice(["Active","Paused","Retired"])
+    })
+df_program = pd.DataFrame(programs)
+df_program.to_csv(OUT_DIR / "C_SR_Program_Descriptions_Funding.csv", index=False)
+
+# ----------------------------
+# 8) Caseworkers (employee directory)
+# ----------------------------
+caseworkers = []
+for emp_id in range(1, NUM_CASEWORKERS + 1):
+    geo = df_geo.sample(1).iloc[0]
+    caseworkers.append({
+        "employee_id": emp_id,
+        "employee_name": fake.name(),
+        "role": random.choice(["Caseworker","Supervisor","Manager","Data Analyst"]),
+        "department": random.choice(["Child Services","Eligibility","Outreach","Admin"]),
+        "email": fake.email(),
+        "phone": fake.phone_number(),
+        "region_county": geo["county"]
+    })
+df_caseworkers = pd.DataFrame(caseworkers)
+df_caseworkers.to_csv(OUT_DIR / "C_SR_Employee_Directory.csv", index=False)
+
+# ----------------------------
+# 9) Assignment logs (employee -> family/program)
+# ----------------------------
+assignments = []
+for assign_id in range(1, NUM_FAMILIES * 2 + 1):  # ~2 assignments per family on avg
+    assignments.append({
+        "assign_id": assign_id,
+        "employee_id": random.randint(1, NUM_CASEWORKERS),
+        "family_id": random.randint(1, NUM_FAMILIES),
+        "program_id": random.randint(1, NUM_PROGRAMS),
+        "assigned_date": rand_date().date().isoformat(),
+        "assignment_status": random.choice(["Active","Completed","On Hold"])
+    })
+df_assign = pd.DataFrame(assignments)
+df_assign.to_csv(OUT_DIR / "C_SR_Assignment_Logs.csv", index=False)
+
+# ----------------------------
+# 10) Eligibility decisions (per family/app)
+# ----------------------------
+eligibility = []
+elig_id = 1
+for fam_id in range(1, NUM_FAMILIES + 1):
+    # baseline: each family has at least one eligibility record
+    num_records = random.choices([1,1,1,2], weights=[0.6,0.2,0.1,0.1])[0]
+    for _ in range(num_records):
+        linked_app = df_app[df_app["family_id"]==fam_id]
+        application_id = int(linked_app.sample(1)["application_id"]) if not linked_app.empty else None
+        status = random.choices(elig_status_choices, elig_status_weights)[0]
+        eligibility.append({
+            "eligibility_id": elig_id,
+            "family_id": fam_id,
+            "application_id": application_id,
+            "decision_date": rand_date().date().isoformat(),
+            "decision_status": status,
+            "reason_code": random.choice(["IncomeVerified","DocsMissing","AgeLimit","SpecialNeeds","Other"]),
+            "caseworker_id": random.randint(1, NUM_CASEWORKERS)
+        })
+        elig_id += 1
+df_elig = pd.DataFrame(eligibility)
+df_elig.to_csv(OUT_DIR / "C_SR_Eligibility_Decisions.csv", index=False)
+
+# ----------------------------
+# 11) Events + campaigns
+# ----------------------------
+events = []
+for event_id in range(1, NUM_EVENTS + 1):
+    events.append({
+        "event_id": event_id,
+        "event_name": f"{random.choice(['Parent Workshop','Health Camp','Safety Drill','Enrollment Drive'])} {event_id}",
+        "program_id": random.randint(1, NUM_PROGRAMS),
+        "provider_id": random.randint(1, NUM_PROVIDERS),
+        "event_type": random.choice(event_types),
+        "event_date": rand_date().date().isoformat(),
+        "location_county": df_geo.sample(1).iloc[0]["county"]
+    })
+df_events = pd.DataFrame(events)
+df_events.to_csv(OUT_DIR / "C_SR_Event_Logs.csv", index=False)
+
+campaigns = []
+for campaign_id in range(1, NUM_CAMPAIGNS + 1):
+    start = rand_date()
+    end = start + timedelta(days=random.randint(7, 180))
+    campaigns.append({
+        "campaign_id": campaign_id,
+        "campaign_name": f"Childcare Outreach {campaign_id}",
+        "program_id": random.randint(1, NUM_PROGRAMS),
+        "launch_date": start.date().isoformat(),
+        "end_date": end.date().isoformat(),
+        "channel": random.choice(["Email","SMS","Community","Flyer"]),
+        "estimated_reach": random.randint(500, 20000)
+    })
+df_campaigns = pd.DataFrame(campaigns)
+df_campaigns.to_csv(OUT_DIR / "C_SR_Campaign_Records.csv", index=False)
+
+# ----------------------------
+# 12) Program Enrollment & Claims (FACT-like source table)
+# ----------------------------
+enrollments = []
+for claim_id in range(1, NUM_ENROLLMENTS + 1):
+    child = df_children.sample(1).iloc[0]
+    fam_id = int(child["family_id"])
+    provider = df_provider.sample(1).iloc[0]
+    program = df_program.sample(1).iloc[0]
+    start = rand_date(datetime(2022,1,1), datetime(2025,1,1))
+    end = start + timedelta(days=random.randint(14, 365))
+    amount = round(max(50, random.gauss(800, 400)), 2)  # subsidy distribution
+    claim_status = random.choices(claim_status_choices, claim_status_weights)[0]
+    eligibility_row = df_elig[df_elig["family_id"]==fam_id]
+    eligibility_id = int(eligibility_row.sample(1)["eligibility_id"]) if not eligibility_row.empty else None
+    enrollments.append({
+        "claim_id": claim_id,
+        "child_id": int(child["child_id"]),
+        "family_id": fam_id,
+        "parent_id": random.randint(1, NUM_PARENTS),
+        "provider_id": int(provider["provider_id"]),
+        "program_id": int(program["program_id"]),
+        "start_date": start.date().isoformat(),
+        "end_date": end.date().isoformat(),
+        "claim_amount": amount,
+        "claim_status": claim_status,
+        "payment_date": (end + timedelta(days=random.randint(5,60))).date().isoformat() if claim_status=="Paid" else None,
+        "attendance_days": random.randint(2, 22),
+        "care_type": random.choices(facility_types, facility_weights)[0],
+        "eligibility_id": eligibility_id,
+        "caseworker_id": random.randint(1, NUM_CASEWORKERS),
+        "geo_id": int(df_geo.sample(1).iloc[0]["geo_id"])
+    })
+df_enrollments = pd.DataFrame(enrollments)
+df_enrollments.to_csv(OUT_DIR / "C_SR_Program_Enrollment_Claims.csv", index=False)
+
+# ----------------------------
+# 13) Source metadata (audit)
+# ----------------------------
+metadata = []
+tables = {
+    "C_SR_Geographic_Data": df_geo,
+    "C_SR_Family_Intake_Forms": df_family,
+    "C_SR_Parents": df_parents,
+    "C_SR_Birth_Records": df_children,
+    "C_SR_Application_Employment": df_app,
+    "C_SR_Provider_License_Rating": df_provider,
+    "C_SR_Program_Descriptions_Funding": df_program,
+    "C_SR_Employee_Directory": df_caseworkers,
+    "C_SR_Assignment_Logs": df_assign,
+    "C_SR_Eligibility_Decisions": df_elig,
+    "C_SR_Event_Logs": df_events,
+    "C_SR_Campaign_Records": df_campaigns,
+    "C_SR_Program_Enrollment_Claims": df_enrollments
+}
+
+for name, df in tables.items():
+    metadata.append({
+        "source_table": name,
+        "rows": len(df),
+        "generated_at": datetime.utcnow().isoformat()
+    })
+
+df_meta = pd.DataFrame(metadata)
+df_meta.to_csv(OUT_DIR / "C_SR_source_metadata.csv", index=False)
+
+print("✅ All C_SR_*.csv files generated in", OUT_DIR.absolute())
+
+import os
+import pandas as pd
+import random
+from faker import Faker
+
+fake = Faker()
+NUM_TRAININGS = 1524
+
+# Set output directory to Desktop
+OUT_DIR = os.path.join(os.path.expanduser("~"), "Desktop")
+os.makedirs(OUT_DIR, exist_ok=True)
+
+trainings = []
+for i in range(NUM_TRAININGS):
+    training_id = f'TRN{i:05d}'
+    date = fake.date_between(start_date='-3y', end_date='today')
+    trainings.append({
+        'Training_ID': training_id,
+        'Integration_ID': f'{training_id}_{i}',
+        'Training_Name': fake.catch_phrase(),
+        'Training_Type': random.choice(['Technical', 'Soft Skills', 'Compliance']),
+        'Trainer_Name': fake.name(),
+        'Organizer': fake.company(),
+        'Date': date,
+        'Duration_Hours': random.randint(1, 8),
+        'Mode': random.choice(['Online', 'In-Person', 'Hybrid']),
+        'Certification_Awarded': random.choice([0, 1]),
+        'Attendance_Count': random.randint(5, 100),
+        'Feedback_Score': round(random.uniform(1.0, 5.0), 2),
+        'Status': random.choice(['Completed', 'Ongoing', 'Scheduled']),
+        'Created_DT': date,
+        'Updated_DT': fake.date_between(start_date=date, end_date='today')
+    })
+
+df_trainings = pd.DataFrame(trainings)
+df_trainings.to_csv(os.path.join(OUT_DIR, 'C_SR_Training.csv'), index=False)
+
+print(f"Training data CSV saved to {os.path.join(OUT_DIR, 'C_SR_Training.csv')}")
+
